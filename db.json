@@ -1,0 +1,6079 @@
+{
+ "categories":[
+  {
+    "id":1,
+    "name":"Velosipedlər ",
+    "imagename":"Velosipedlər ",
+    "image":"https://www.bike-components.de/cache/Fahrraeder_Desktop_3840x1000-jpg-0947205fbb82afb580eca55ea4341c76.jpeg",
+    "subcategories":[
+      {
+        "id":1,
+        "name":"Dağ (МТВ)",
+        "imagename":"Dağ",
+        "image":"https://www.bike-components.de/cache/MTB_Desktop_3840x1000-jpg-d9def5fb2122ca8709874de91e2b36e0.jpeg"
+      },
+      {
+        "id":2,
+        "name":"Yol",
+        "imagename":"Yol",
+        "image":"https://www.bike-components.de/cache/Rennraeder_Desktop_3840x1000-jpg-74ba0c923f4c90142bb97c6ab3b701d8.jpeg"
+
+        
+      },
+      {
+        "id":3,
+        "name":"BMX",
+        "imagename":"BMX",
+        "image":"https://cdn.mos.cms.futurecdn.net/mm5q9bmVQcpVnz7oCCTwB4.jpg"
+      },
+      {
+        "id":4,
+        "name":"Uşaq",
+        "image":"https://www.bike-components.de/cache/Kids-Allgemein_XXL-Header-Desktop_01_DE-png-434bf04b5f1538472a09ddad178f1970.png"
+      },
+      {
+        "id":5,
+        "name":"Gravel",
+        "imagename":"Gravel",
+        "image":"https://cdn.rosebikes.de/cms/cms.618b9b7c5e6806.66343726.jpg?im=Resize=(2400)"
+      }
+    ]
+  },
+  {
+    "id":2,
+    "name":"E-Velosiped",
+    "imagename":"E-Velosiped",
+    "image":"https://www.bike-components.de/cache/E-Trekking_Desktop_3840x1000-jpg-44aea759382247376a39f24e0b3e9539.jpeg",
+    "subcategories":[
+      {
+        "id":1,
+        "name":"Electric Dağ Velosipedi",
+        "imagename":"Electric Mountain Bikes",
+        "image":"https://www.bike-components.de/cache/E-MTB_Desktop_3840x1000-jpg-d17349bb15d38d87d7662fc47a506e2d.jpeg"
+      },
+      {
+        "id":2,
+        "name":"Electric Hybrid Velosipedi",
+        "imagename":"Electric Hybrid Bikes",
+        "image":"https://cdn.rosebikes.de/cms/cms.5ef4b9d40ef6d0.97770519.jpeg?im=Resize=(2400)"
+      }
+    ]
+  },
+  {
+    "id":3,
+    "name":"Ehtiyyat Hissələri",
+    "imagename":"Ehtiyyat Hissələri",
+    "image":"https://www.bikester.co.uk/on/demandware.static/-/Library-Sites-bikester/default/dw987d7117/Entrypages/20190423_teile_header.jpg",
+    "subcategories":[
+      {
+        "id":1,
+        "name":"Pedal"
+      },
+      {
+        "id":2,
+        "name":"Şin",
+        "imagename":"Şin",
+        "image":"https://www.bike-components.de/cache/XL_Header_Desktop_DE-jpg-57d35aa3252e2872f20c9e25b1ac0614.jpeg"
+      },
+      {
+        "id":3,
+        "name":"Əyləc",
+        "imagename":"Əyləc",
+        "image":"https://www.bike-components.de/cache/XL_Header_Desktop_DE-jpg-125576f2423f46b14f291036b3fb9fa8.jpeg"
+      },
+      {
+        "id":4,
+        "name":"Təkərlər"
+      },
+      {
+        "id":5,
+        "name":"Oturacaq",
+        "imagename":"Oturacaq",
+        "image":"https://www.bike-components.de/cache/Sattel_XL-Header-Desktop_01_DE-png-ff831e9faff1ea24547c5e9f3681c52a.png"
+      }
+      
+    ]
+  },
+  {
+    "id":4,
+    "name":"Aksesuarlar",
+    "subcategories":[
+      {
+        "id":1,
+        "name":"Çantalar",
+        "imagename":"Çanta",
+        "image":"https://www.bike-components.de/cache/Rucksaecke_XL-Haeder-Desktop_01_DE-png-586186ea0f2dadd11eb278a98263cf4e.png"
+      },
+      {
+        "id":2,
+        "name":"KİLİD"
+      },
+      {
+        "id":3,
+        "name":"İşıqlandırma ",
+        "imagename":"İşıq",
+        "image":"https://www.bike-components.de/cache/XXL_Header_Desktop_01_DE-jpg-50f112882c27ec5458af8ac27233a40a.jpeg"
+      }
+    ]
+  },
+  {
+    "id":5,
+    "name":"Geyim",
+    "imagename":"CLOTHING",
+    "image":"https://www.bike-components.de/cache/210917_HW21_Bekleidung_Casual_Hoodies_3840x1000-jp-95b961f15b703ddfb1c058f0a1dd2447.jpeg",
+    "subcategories":[
+      {
+        "id":1,
+        "name":"Əlcək"
+      },
+      {
+        "id":2,
+        "name":"Gödəkçə"
+      },
+      {
+        "id":3,
+        "name":"Şort"
+      },
+      {
+        "id":4,
+        "name":"Ayaqqabı"
+      },
+      {
+        "id":5,
+        "name":"Corab"
+      }
+    ]
+  }
+ ],
+ "products": [
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91691203_l.jpg",
+        "brand": "Cannondale",
+        "title": "Trail 7 2022 Mountain Bike",
+        "price": "389.00 ",
+      
+        "sizedetail": "S, M, L, XL",
+        "id": 1
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91667402_l.jpg",
+        "brand": "Trek",
+        "title": "Marlin 5 2022 Mountain Bike",
+        "price": "580.00 ",
+      
+        "sizedetail": " XS, S, M, L, XL, 2XL",
+        "id": 2
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71297018_l.jpg",
+        "brand": "Trek",
+        "title": "Marlin 8 2022 Mountain Bike",
+        "price": "925.00 ",
+      
+        "sizedetail": "S, M, M-L, L, XL, 2XL",
+        "id": 3
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91692618_l.jpg",
+        "brand": "Trek",
+        "title": "Marlin 7 Mountain Bike",
+        "price": "825.00",
+      
+        "sizedetail": "XS, S, M, L, XL, 2XL",
+        "id": 4
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91692619_l.jpg",
+        "brand": "Trek",
+        "title": "Marlin 7 Mountain Bike",
+        "price": "659.00 ",
+      
+        "sizedetail": " L, XL, 2XL",
+        "id": 5
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91692612_l.jpg",
+        "brand": "Trek",
+        "title": "Marlin 7 Mountain Bike",
+        "price": "659.00 ",
+      
+        "sizedetail": "XL, 2XL",
+        "id": 6
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71331215_l.jpg",
+        "brand": "Haibike",
+        "title": "AllTrail 4 27.5 2022 Electric Mountain Bike",
+        "price": "3500.00 ",
+      
+        "sizedetail": "M",
+        "id": 7
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91667415_l.jpg",
+        "brand": "Trek",
+        "title": "Marlin 5 2022 Mountain Bike",
+        "price": "580.00 ",
+      
+        "sizedetail": " XS, S, L, XL, 2XL",
+        "id": 8
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71331904_l.jpg",
+        "brand": "Haibike",
+        "title": "HardSeven 5 2022 Electric Mountain Bike",
+        "price": "2500.00 ",
+      
+        "sizedetail": "S, M, L",
+        "id": 9
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70936403_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Kapur 1 2022 Mountain Bike",
+        "price": "400.00",
+      
+        "sizedetail": "XS, S, M, L, XL",
+        "id": 10
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91555225_l.jpg",
+        "brand": "Trek",
+        "title": "Marlin 6 Mountain Bike",
+        "price": "650.00 ",
+      
+        "sizedetail": " XS, M, XL, 2XL",
+        "id": 11
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70856740_l.jpg",
+        "brand": "Specialized",
+        "title": "Stumpjumper Alloy 2022 Mountain Bike",
+        "price": "2100.00 ",
+      
+        "sizedetail": "XS, M",
+        "id": 12
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91681515_l.jpg",
+        "brand": "Specialized",
+        "title": "Rockhopper Expert 2022 Mountain Bike",
+        "price": "1200.00 ",
+      
+        "sizedetail": "M, L, 2XL",
+        "id": 13
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71331418_l.jpg",
+        "brand": "Haibike",
+        "title": "HardNine 5 2022 Electric Mountain Bike",
+        "price": "2500.00 ",
+      
+        "sizedetail": "M, L",
+        "id": 14
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91667408_l.jpg",
+        "brand": "Trek",
+        "title": "Marlin 5 2022 Mountain Bike",
+        "price": "580.00 ",
+      
+        "sizedetail": " 2XS, XS, S, M, L, XL",
+        "id": 15
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91778918_l.jpg",
+        "brand": "Trek",
+        "title": "X-Caliber 7 Mountain Bike",
+        "price": "719.00 ",
+      
+        "sizedetail": "2XL",
+        "id": 16
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71815103_l.jpg",
+        "brand": "Specialized",
+        "title": "Turbo Levo Comp Alloy 2022 Electric Mountain Bike",
+        "price": "6099.00 ",
+      
+        "sizedetail": "S, L, M, XL",
+        "id": 17
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91705101_l.jpg",
+        "brand": "Trek",
+        "title": "Rail 5 625Wh 2022 Electric Mountain Bike",
+        "price": "4900.00 ",
+      
+        "sizedetail": "M, L",
+        "id": 18
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91569501_l.jpg",
+        "brand": "Trek",
+        "title": "Rail 5 500 2022 Electric Mountain Bike",
+        "price": "4600.00 ",
+      
+        "sizedetail": "M, L",
+        "id": 19
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70936611_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Kapur 3 2022 Mountain Bike",
+        "price": "600.00 ",
+      
+        "sizedetail": "XS, S, M, L, XL",
+        "id": 20
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70606501_l.jpg",
+        "brand": "Trek",
+        "title": "Powerfly 5 2022 Electric Mountain Bike",
+        "price": "3950.00",
+      
+        "sizedetail": "M, L",
+        "id": 21
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70476203_l.jpg",
+        "brand": "Specialized",
+        "title": "Turbo Tero 4.0 Electric Mountain Bike",
+        "price": "4200.00",
+      
+        "sizedetail": "M, L",
+        "id": 22
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70856701_l.jpg",
+        "brand": "Specialized",
+        "title": "Stumpjumper Alloy 2022 Mountain Bike",
+        "price": "2100.00 ",
+      
+        "sizedetail": "M, L",
+        "id": 23
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91555209_l.jpg",
+        "brand": "Trek",
+        "title": "Marlin 6 Mountain Bike",
+        "price": "650.00 ",
+      
+        "sizedetail": " XS, S, M",
+        "id": 24
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91555219_l.jpg",
+        "brand": "Trek",
+        "title": "Marlin 6 Mountain Bike",
+        "price": "650.00",
+      
+        "sizedetail": " XS, S, M, L, XL, 2XL",
+        "id": 25
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93844148_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Recoil 26 Inch Mens Mountain Bike",
+        "price": "119.00",
+      
+        "sizedetail": "26\"",
+        "id": 26
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91681103_l.jpg",
+        "brand": "Specialized",
+        "title": "Rockhopper 2022 Mountain Bike",
+        "price": "525.00 ",
+      
+        "sizedetail": "XS, S, M, XL, 2XL",
+        "id": 27
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91681219_l.jpg",
+        "brand": "Specialized",
+        "title": "Rockhopper Sport 2022 Mountain Bike",
+        "price": "630.00 ",
+      
+        "sizedetail": "XS, S, M, L, XL, 2XL",
+        "id": 28
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71330202_l.jpg",
+        "brand": "Haibike",
+        "title": "AllMtn 3 2022 Electric Mountain Bike",
+        "price": "4200.00",
+      
+        "sizedetail": "S, M, L, XL",
+        "id": 29
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71330302_l.jpg",
+        "brand": "Haibike",
+        "title": "AllMtn 1 2022 Electric Mountain Bike",
+        "price": "3950.00 ",
+      
+        "sizedetail": "M, L, XL",
+        "id": 30
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70936502_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Kapur 2 2022 Mountain Bike",
+        "price": "500.00 ",
+      
+        "sizedetail": "XS, S, M, L, XL",
+        "id": 31
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70764602_l.jpg",
+        "brand": "Specialized",
+        "title": "Stumpjumper EVO Comp Alloy Mountain Bike",
+        "price": "3450.00",
+      
+        "sizedetail": "M, 2XL, L",
+        "id": 32
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91784108_l.jpg",
+        "brand": "Trek",
+        "title": "Remedy 7 2022 Mountain Bike",
+        "price": "2750.00 ",
+      
+        "sizedetail": "M, L, XL",
+        "id": 33
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93843526_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Energy 26 Inch Mountain Bike",
+        "price": "95.00",
+      
+        "sizedetail": "26\"",
+        "id": 34
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70497601_l.jpg",
+        "brand": "Specialized",
+        "title": "Tero 3.0 2022 Electric Mountain Bike",
+        "price": "3100.00 ",
+      
+        "sizedetail": "L",
+        "id": 35
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71331602_l.jpg",
+        "brand": "Haibike",
+        "title": "HardSeven 7 Electric Mountain Bike",
+        "price": "3000.00 ",
+      
+        "sizedetail": "M",
+        "id": 36
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91681118_l.jpg",
+        "brand": "Specialized",
+        "title": "Rockhopper 2022 Mountain Bike",
+        "price": "525.00",
+      
+        "sizedetail": "XS, S, M, L, XL, 2XL",
+        "id": 37
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91783401_l.jpg",
+        "brand": "Trek",
+        "title": "Procaliber 9.6 2022 Mountain Bike",
+        "price": "2350.00 ",
+      
+        "sizedetail": "M, L, XL",
+        "id": 38
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91681201_l.jpg",
+        "brand": "Specialized",
+        "title": "Rockhopper Sport 2022 Mountain Bike",
+        "price": "630.00",
+      
+        "sizedetail": "XS, S, L, XL",
+        "id": 39
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91692802_l.jpg",
+        "brand": "Trek",
+        "title": "Roscoe 6 2022 Mountain Bike",
+        "price": "1075.00 ",
+      
+        "sizedetail": "M, S, XL",
+        "id": 40
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91730718_l.jpg",
+        "brand": "GT",
+        "title": "Aggressor Expert 2022 Mountain Bike",
+        "price": "550.00 ",
+      
+        "sizedetail": "XS, S, M, L, XL",
+        "id": 41
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91775324_l.jpg",
+        "brand": "Cannondale",
+        "title": "Trail 5 2022 Women's Mountain Bike",
+        "price": "675.00",
+      
+        "sizedetail": "XS, S, M",
+        "id": 42
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93844224_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Recoil 26 Inch Ladies Mountain Bike",
+        "price": "105.00 ",
+      
+        "sizedetail": "26\"",
+        "id": 43
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93843632_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Synergy Ladies' Hybrid Bike",
+        "price": "95.00",
+      
+        "sizedetail": "26\"",
+        "id": 44
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91681404_l.jpg",
+        "brand": "Specialized",
+        "title": "Rockhopper Elite 2022 Mountain Bike",
+        "price": "950.00",
+      
+        "sizedetail": "XS, S, M, L, 2XL",
+        "id": 45
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91681415_l.jpg",
+        "brand": "Specialized",
+        "title": "Rockhopper Elite 2022 Mountain Bike",
+        "price": "950.00 ",
+      
+        "sizedetail": "XS, S, M, 2XL",
+        "id": 46
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91681213_l.jpg",
+        "brand": "Specialized",
+        "title": "Rockhopper Sport 2022 Mountain Bike",
+        "price": "630.00",
+      
+        "sizedetail": "XS, S, M, L, XL",
+        "id": 47
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93844748_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Anarchy 100 Men's Mountain Bike",
+        "price": "160.00 ",
+      
+        "sizedetail": "18\", 20\", 22\"",
+        "id": 48
+    },
+    {
+        "category": 1,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93405203_l.jpg",
+        "brand": "Trek",
+        "title": "Domane AL 5 Disc 2022 Road Bike",
+        "price": "1900.00",
+      
+        "sizedetail": "54cm, 56cm, 58cm",
+        "id": 49
+    },
+    {
+        "category": 1,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/70913702_l.jpg",
+        "brand": "Cannondale",
+        "title": "Synapse Carbon 105 Road Bike",
+        "price": "2500.00 ",
+      
+        "sizedetail": "54cm",
+        "id": 50
+    },
+    {
+        "category": 1,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93435140_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Laterite 2 Road Bike",
+        "price": "575.00",
+      
+        "sizedetail": "S, M",
+        "id": 51
+    },
+    {
+        "category": 1,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93435002_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Laterite 1 Road Bike",
+        "price": "349.00 ",
+      
+        "sizedetail": "XS, M, L, XL",
+        "id": 52
+    },
+    {
+        "category": 1,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93405001_l.jpg",
+        "brand": "Trek",
+        "title": "Domane AL 3 Disc 2022 Road Bike",
+        "price": "879.00 ",
+      
+        "sizedetail": "49cm, 52cm, 54cm, 56cm, 58cm",
+        "id": 53
+    },
+    {
+        "category": 1,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93404903_l.jpg",
+        "brand": "Trek",
+        "title": "Domane AL 2 Disc 2022 Road Bike",
+        "price": "779.00",
+      
+        "sizedetail": "44cm, 49cm, 52cm, 54cm, 56cm, 58cm",
+        "id": 54
+    },
+    {
+        "category": 1,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93435240_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Laterite 3 2021 Road Bike",
+        "price": "650.00",
+      
+        "sizedetail": "S, M, XL",
+        "id": 55
+    },
+    {
+        "category": 1,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93405002_l.jpg",
+        "brand": "Trek",
+        "title": "Domane AL 3 Disc 2022 Road Bike",
+        "price": "879.00",
+      
+        "sizedetail": "44cm, 49cm, 52cm, 54cm, 56cm, 58cm",
+        "id": 56
+    },
+    {
+        "category": 1,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/71223902_l.jpg",
+        "brand": "Specialized",
+        "title": "Roubaix Comp 2022 Road Bike",
+        "price": "5000.00",
+      
+        "sizedetail": "52cm",
+        "id": 57
+    },
+    {
+        "category": 1,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93435703_l.jpg",
+        "brand": "Trek",
+        "title": "Domane AL 2 2022 Road Bike",
+        "price": "559.00",
+      
+        "sizedetail": "52cm, 54cm, 56cm, 58cm, 60cm",
+        "id": 58
+    },
+    {
+        "category": 1,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93350740_l.jpg",
+        "brand": "Specialized",
+        "title": "Allez E5 Road Bike",
+        "price": "950.00",
+      
+        "sizedetail": "44, 49, 52, 54, 56, 58, 61",
+        "id": 59
+    },
+    {
+        "category": 1,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/70762603_l.jpg",
+        "brand": "Specialized",
+        "title": "Allez Sprint Comp 2022 Road Bike",
+        "price": "2650.00",
+      
+        "sizedetail": "52cm",
+        "id": 60
+    },
+    {
+        "category": 1,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/71341903_l.jpg",
+        "brand": "Cannondale",
+        "title": "Synapse Carbon 2 RL 2022 Road Bike",
+        "price": "3199.00",
+      
+        "sizedetail": "51cm",
+        "id": 61
+    },
+    {
+        "category": 1,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/71286603_l.jpg",
+        "brand": "Cannondale",
+        "title": "Synapse Carbon 3 L 2022 Road Bike",
+        "price": "2879.00",
+      
+        "sizedetail": "54cm, 58cm",
+        "id": 62
+    },
+    {
+        "category": 1,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93404918_l.jpg",
+        "brand": "Trek",
+        "title": "Domane AL 2 Disc 2022 Road Bike",
+        "price": "779.00",
+      
+        "sizedetail": "44cm, 49cm, 52cm, 54cm, 56cm, 58cm",
+        "id": 63
+    },
+    {
+        "category": 1,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93350502_l.jpg",
+        "brand": "Specialized",
+        "title": "Allez E5 Elite 2022 Road Bike",
+        "price": "1430.00",
+      
+        "sizedetail": "54, 61",
+        "id": 64
+    },
+    {
+        "category": 1,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93350540_l.jpg",
+        "brand": "Specialized",
+        "title": "Allez E5 Elite 2022 Road Bike",
+        "price": "1430.00",
+      
+        "sizedetail": "49, 52, 54, 56, 61",
+        "id": 65
+    },
+    {
+        "category": 1,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/70762615_l.jpg",
+        "brand": "Specialized",
+        "title": "Allez Sprint Comp 2022 Road Bike",
+        "price": "2650.00",
+      
+        "sizedetail": "56cm",
+        "id": 66
+    },
+    {
+        "category": 1,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/71286411_l.jpg",
+        "brand": "Cannondale",
+        "title": "Synapse Carbon 4 2022 Road Bike",
+        "price": "2159.00",
+      
+        "sizedetail": "54cm, 56cm, 58cm",
+        "id": 67
+    },
+    {
+        "category": 1,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93405103_l.jpg",
+        "brand": "Trek",
+        "title": "Domane AL 4 Disc 2022 Road Bike",
+        "price": "1625.00",
+      
+        "sizedetail": "44cm, 49cm, 54cm, 56cm, 58cm",
+        "id": 68
+    },
+    {
+        "category": 1,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93405101_l.jpg",
+        "brand": "Trek",
+        "title": "Domane AL 4 Disc 2022 Road Bike",
+        "price": "1625.00",
+      
+        "sizedetail": "44cm, 49cm, 52cm, 54cm",
+        "id": 69
+    },
+    {
+        "category": 1,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93456003_l.jpg",
+        "brand": "Ceres",
+        "title": "RD 1 2021 Road Bike",
+        "price": "279.00",
+      
+        "sizedetail": "S",
+        "id": 70
+    },
+    {
+        "category": 1,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93435718_l.jpg",
+        "brand": "Trek",
+        "title": "Domane AL 2 2022 Road Bike",
+        "price": "559.00",
+      
+        "sizedetail": "52cm, 54cm, 56cm, 58cm, 60cm",
+        "id": 71
+    },
+    {
+        "category": 1,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93350618_l.jpg",
+        "brand": "Specialized",
+        "title": "Allez E5 Sport 2022 Road Bike",
+        "price": "1160.00",
+      
+        "sizedetail": "54",
+        "id": 72
+    },
+    {
+        "category": 1,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93500044_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Atom BMX Bike",
+        "price": "80.00",
+      
+        "sizedetail": "20\"",
+        "id": 73
+    },
+    {
+        "category": 1,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93500141_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Lithium Kids' BMX Bike",
+        "price": "105.00",
+      
+        "sizedetail": "20\"",
+        "id": 74
+    },
+    {
+        "category": 1,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93007903_l.jpg",
+        "brand": "GT",
+        "title": "Air 20 BMX Bike",
+        "price": "350.00",
+      
+        "sizedetail": "Onesize",
+        "id": 75
+    },
+    {
+        "category": 1,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93008415_l.jpg",
+        "brand": "Mongoose",
+        "title": "Legion L20 BMX Bike",
+        "price": "330.00",
+      
+        "sizedetail": "Onesize",
+        "id": 76
+    },
+    {
+        "category": 1,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93065503_l.jpg",
+        "brand": "Mongoose",
+        "title": "Legion L10 BMX Bike",
+        "price": "290.00",
+      
+        "sizedetail": "Onesize",
+        "id": 77
+    },
+    {
+        "category": 1,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93008011_l.jpg",
+        "brand": "Mongoose",
+        "title": "Legion L18 BMX Bike",
+        "price": "300.00",
+      
+        "sizedetail": "Onesize",
+        "id": 78
+    },
+    {
+        "category": 1,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93065518_l.jpg",
+        "brand": "Mongoose",
+        "title": "Legion L10 BMX Bike",
+        "price": "260.00",
+      
+        "sizedetail": "Onesize",
+        "id": 79
+    },
+    {
+        "category": 1,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93443303_l.jpg",
+        "brand": "GT",
+        "title": "Slammer BMX Bike",
+        "price": "350.00",
+      
+        "sizedetail": "Onesize",
+        "id": 80
+    },
+    {
+        "category": 1,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93458918_l.jpg",
+        "brand": "Mongoose",
+        "title": "Legion L60 BMX",
+        "price": "380.00",
+      
+        "sizedetail": "Onesize",
+        "id": 81
+    },
+    {
+        "category": 1,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93460418_l.jpg",
+        "brand": "GT",
+        "title": "Lil Performer 16 2020 BMX Bike",
+        "price": "300.00",
+      
+        "sizedetail": "Onesize",
+        "id": 82
+    },
+    {
+        "category": 1,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93199118_l.jpg",
+        "brand": "HOY",
+        "title": "Bonaly 20 Inch Wheel Kids Lightweight Bike",
+        "price": "279.00",
+      
+        "sizedetail": "20\"",
+        "id": 83
+    },
+    {
+        "category": 1,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93918313_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Aspen 24 Inch Kids Bike",
+        "price": "175.00",
+      
+        "sizedetail": "Onesize",
+        "id": 84
+    },
+    {
+        "category": 1,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93844544_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Anarchy 24 Inch Boy's Mountain Bike",
+        "price": "219.00",
+      
+        "sizedetail": "24\"",
+        "id": 85
+    },
+    {
+        "category": 1,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93918206_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Ash 20 Inch Kids Bike",
+        "price": "250.00",
+      
+        "sizedetail": "Onesize",
+        "id": 86
+    },
+    {
+        "category": 1,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93843948_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Recoil 24 Inch Junior Mountain Bike",
+        "price": "115.00",
+      
+        "sizedetail": "24\"",
+        "id": 87
+    },
+    {
+        "category": 1,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93199108_l.jpg",
+        "brand": "HOY",
+        "title": "Bonaly 20 Inch Wheel Kids Lightweight Bike",
+        "price": "400.00",
+      
+        "sizedetail": "20\"",
+        "id": 88
+    },
+    {
+        "category": 1,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93199106_l.jpg",
+        "brand": "HOY",
+        "title": "Bonaly 20 Inch Wheel Kids Lightweight Bike",
+        "price": "319.00",
+      
+        "sizedetail": "20\"",
+        "id": 89
+    },
+    {
+        "category": 1,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93199412_l.jpg",
+        "brand": "HOY",
+        "title": "Bonaly 26 Inch Wheel Disc Kids Bike",
+        "price": "560.00",
+      
+        "sizedetail": "26\"",
+        "id": 90
+    },
+    {
+        "category": 1,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93918315_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Aspen 24 Inch Kids Bike",
+        "price": "285.00",
+      
+        "sizedetail": "Onesize",
+        "id": 91
+    },
+    {
+        "category": 1,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93199218_l.jpg",
+        "brand": "HOY",
+        "title": "Bonaly 24 Inch Wheel Kids Bike",
+        "price": "450.00",
+      
+        "sizedetail": "2020",
+        "id": 92
+    },
+    {
+        "category": 1,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93844643_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Divine 24 Inch Girl's Mountain Bike",
+        "price": "219.00",
+      
+        "sizedetail": "24\"",
+        "id": 93
+    },
+    {
+        "category": 1,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93199318_l.jpg",
+        "brand": "HOY",
+        "title": "Bonaly 24 Inch Wheel Disc Kids Bike",
+        "price": "439.00",
+      
+        "sizedetail": "2020",
+        "id": 94
+    },
+    {
+        "category": 1,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93918118_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Koto 16 Inch Kids' Bike",
+        "price": "150.00",
+      
+        "sizedetail": "Onesize",
+        "id": 95
+    },
+    {
+        "category": 1,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93918303_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Aspen 24 Inch Kids Bike",
+        "price": "285.00",
+      
+        "sizedetail": "Onesize",
+        "id": 96
+    },
+    {
+        "category": 1,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93843748_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Recoil 20 Inch Kids Mountain Bike",
+        "price": "105.00",
+      
+        "sizedetail": "20\"",
+        "id": 97
+    },
+    {
+        "category": 1,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93199006_l.jpg",
+        "brand": "HOY",
+        "title": "Bonaly 16 Inch Wheel Kids Bike",
+        "price": "245.00",
+      
+        "sizedetail": "2020",
+        "id": 98
+    },
+    {
+        "category": 1,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93199018_l.jpg",
+        "brand": "HOY",
+        "title": "Bonaly 16 Inch Wheel Kids Bike",
+        "price": "279.00",
+      
+        "sizedetail": "2020",
+        "id": 99
+    },
+    {
+        "category": 1,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93459815_l.jpg",
+        "brand": "Cosmic",
+        "title": "Urban 16 Inch Kids Bike",
+        "price": "65.00",
+      
+        "sizedetail": "16\"",
+        "id": 100
+    },
+    {
+        "category": 1,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93918203_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Ash 20 Inch Kids Bike",
+        "price": "250.00",
+      
+        "sizedetail": "Onesize",
+        "id": 101
+    },
+    {
+        "category": 1,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93844406_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Divine 20 Inch Girl's Mountain Bike",
+        "price": "199.00",
+      
+        "sizedetail": "20\"",
+        "id": 102
+    },
+    {
+        "category": 1,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93918218_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Ash 20 Inch Kids Bike",
+        "price": "250.00",
+      
+        "sizedetail": "Onesize",
+        "id": 103
+    },
+    {
+        "category": 1,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93918403_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Kauri 26 Inch Kids Bike",
+        "price": "375.00",
+      
+        "sizedetail": "Onesize",
+        "id": 104
+    },
+    {
+        "category": 1,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93918415_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Kauri 26 Inch Kids Bike",
+        "price": "375.00",
+      
+        "sizedetail": "Onesize",
+        "id": 105
+    },
+    {
+        "category": 1,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93459712_l.jpg",
+        "brand": "Cosmic",
+        "title": "Storm 14 Inch Kids Bike",
+        "price": "63.00",
+      
+        "sizedetail": "14\"",
+        "id": 106
+    },
+    {
+        "category": 1,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/91692002_l.jpg",
+        "brand": "Cannondale",
+        "title": "Topstone 1 2022 Gravel Bike",
+        "price": "1399.00",
+      
+        "sizedetail": "S, M, XL",
+        "id": 107
+    },
+    {
+        "category": 1,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/91575911_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Arkose 1 Gravel Bike",
+        "price": "800.00",
+      
+        "sizedetail": "M, L, XL",
+        "id": 108
+    },
+    {
+        "category": 1,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/91692102_l.jpg",
+        "brand": "Cannondale",
+        "title": "Topstone 2 2022 Gravel Bike",
+        "price": "1199.00",
+      
+        "sizedetail": "XS, M, L, XL",
+        "id": 109
+    },
+    {
+        "category": 1,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/91692318_l.jpg",
+        "brand": "Cannondale",
+        "title": "Topstone 4 2022 Gravel Bike",
+        "price": "799.00",
+      
+        "sizedetail": "S, L, XL",
+        "id": 110
+    },
+    {
+        "category": 1,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/91692202_l.jpg",
+        "brand": "Cannondale",
+        "title": "Topstone 3 2022 Gravel Bike",
+        "price": "899.00",
+      
+        "sizedetail": "S, M, L, XL",
+        "id": 111
+    },
+    {
+        "category": 1,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/91576018_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Arkose 2 Gravel Bike",
+        "price": "950.00",
+      
+        "sizedetail": "XL",
+        "id": 112
+    },
+    {
+        "category": 1,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/91692012_l.jpg",
+        "brand": "Cannondale",
+        "title": "Topstone 1 2022 Gravel Bike",
+        "price": "1399.00",
+      
+        "sizedetail": "M, XL",
+        "id": 113
+    },
+    {
+        "category": 1,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/91692124_l.jpg",
+        "brand": "Cannondale",
+        "title": "Topstone 2 2022 Gravel Bike",
+        "price": "1199.00",
+      
+        "sizedetail": "S, M",
+        "id": 114
+    },
+    {
+        "category": 1,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/91692303_l.jpg",
+        "brand": "Cannondale",
+        "title": "Topstone 4 2022 Gravel Bike",
+        "price": "799.00",
+      
+        "sizedetail": "S, L, XS, M, XL",
+        "id": 115
+    },
+    {
+        "category": 1,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/71180302_l.jpg",
+        "brand": "Specialized",
+        "title": "Diverge Sport Carbon 2022 Gravel Bike",
+        "price": "3000.00",
+      
+        "sizedetail": "52cm, 61cm",
+        "id": 116
+    },
+    {
+        "category": 1,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/73193102_l.jpg",
+        "brand": "Cannondale",
+        "title": "Topstone Carbon 3 2022 Gravel Bike",
+        "price": "2879.00",
+      
+        "sizedetail": "XS, S, M, L",
+        "id": 117
+    },
+    {
+        "category": 1,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/91692208_l.jpg",
+        "brand": "Cannondale",
+        "title": "Topstone 3 2022 Gravel Bike",
+        "price": "899.00",
+      
+        "sizedetail": "S, M, L",
+        "id": 118
+    },
+    {
+        "category": 1,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/91706125_l.jpg",
+        "brand": "Specialized",
+        "title": "Diverge E5 2022 Gravel Bike",
+        "price": "1200.00",
+      
+        "sizedetail": "52, 54, 56, 58",
+        "id": 119
+    },
+    {
+        "category": 1,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/91706113_l.jpg",
+        "brand": "Specialized",
+        "title": "Diverge E5 2022 Gravel Bike",
+        "price": "1200.00",
+      
+        "sizedetail": "52, 54, 56, 58",
+        "id": 120
+    },
+    {
+        "category": 1,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/70145703_l.jpg",
+        "brand": "Specialized",
+        "title": "Crux Comp 2022",
+        "price": "4250.00",
+      
+        "sizedetail": "Onesize",
+        "id": 121
+    },
+    {
+        "category": 1,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/70555018_l.jpg",
+        "brand": "Specialized",
+        "title": "Diverge Expert Carbon Gravel Bike",
+        "price": "6100.00",
+      
+        "sizedetail": "58cm",
+        "id": 122
+    },
+    {
+        "category": 1,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/71180327_l.jpg",
+        "brand": "Specialized",
+        "title": "Diverge Sport Carbon 2022 Gravel Bike",
+        "price": "3000.00",
+      
+        "sizedetail": "61cm",
+        "id": 123
+    },
+    {
+        "category": 1,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/71341315_l.jpg",
+        "brand": "Cannondale",
+        "title": "Topstone Carbon 2 L 2022 Gravel Bike",
+        "price": "4049.00",
+      
+        "sizedetail": "S, M",
+        "id": 124
+    },
+    {
+        "category": 1,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/71622115_l.jpg",
+        "brand": "Specialized",
+        "title": "Diverge Comp Carbon 2022 Gravel Bike",
+        "price": "4500.00",
+      
+        "sizedetail": "52cm",
+        "id": 125
+    },
+    {
+        "category": 1,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/73193104_l.jpg",
+        "brand": "Cannondale",
+        "title": "Topstone Carbon 3 2022 Gravel Bike",
+        "price": "2879.00",
+      
+        "sizedetail": "S",
+        "id": 126
+    },
+    {
+        "category": 1,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/91705915_l.jpg",
+        "brand": "Specialized",
+        "title": "Diverge E5 Comp 2022 Gravel Bike",
+        "price": "2400.00",
+      
+        "sizedetail": "58, 61",
+        "id": 127
+    },
+    {
+        "category": 1,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/91706019_l.jpg",
+        "brand": "Specialized",
+        "title": "Diverge E5 Elite 2022 Gravel Bike",
+        "price": "2050.00",
+      
+        "sizedetail": "61",
+        "id": 128
+    },
+    {
+        "category": 2,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71331215_l.jpg",
+        "brand": "Haibike",
+        "title": "AllTrail 4 27.5 2022 Electric Mountain Bike",
+        "price": "3500.00",
+      
+        "sizedetail": "M",
+        "id": 129
+    },
+    {
+        "category": 2,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71331904_l.jpg",
+        "brand": "Haibike",
+        "title": "HardSeven 5 2022 Electric Mountain Bike",
+        "price": "2500.00",
+      
+        "sizedetail": "S, M, L",
+        "id": 130
+    },
+    {
+        "category": 2,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71331418_l.jpg",
+        "brand": "Haibike",
+        "title": "HardNine 5 2022 Electric Mountain Bike",
+        "price": "2500.00",
+      
+        "sizedetail": "M, L",
+        "id": 131
+    },
+    {
+        "category": 2,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71815103_l.jpg",
+        "brand": "Specialized",
+        "title": "Turbo Levo Comp Alloy 2022 Electric Mountain Bike",
+        "price": "6099.00",
+      
+        "sizedetail": "S, L, M, XL",
+        "id": 132
+    },
+    {
+        "category": 2,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91705101_l.jpg",
+        "brand": "Trek",
+        "title": "Rail 5 625Wh 2022 Electric Mountain Bike",
+        "price": "4900.00",
+      
+        "sizedetail": "M, L",
+        "id": 133
+    },
+    {
+        "category": 2,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91569501_l.jpg",
+        "brand": "Trek",
+        "title": "Rail 5 500 2022 Electric Mountain Bike",
+        "price": "4600.00",
+      
+        "sizedetail": "M, L",
+        "id": 134
+    },
+    {
+        "category": 2,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70606501_l.jpg",
+        "brand": "Trek",
+        "title": "Powerfly 5 2022 Electric Mountain Bike",
+        "price": "3950.00",
+      
+        "sizedetail": "M, L",
+        "id": 135
+    },
+    {
+        "category": 2,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70476203_l.jpg",
+        "brand": "Specialized",
+        "title": "Turbo Tero 4.0 Electric Mountain Bike",
+        "price": "4200.00",
+      
+        "sizedetail": "M, L",
+        "id": 136
+    },
+    {
+        "category": 2,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71330202_l.jpg",
+        "brand": "Haibike",
+        "title": "AllMtn 3 2022 Electric Mountain Bike",
+        "price": "4200.00",
+      
+        "sizedetail": "S, M, L, XL",
+        "id": 137
+    },
+    {
+        "category": 2,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71330302_l.jpg",
+        "brand": "Haibike",
+        "title": "AllMtn 1 2022 Electric Mountain Bike",
+        "price": "3950.00",
+      
+        "sizedetail": "M, L, XL",
+        "id": 138
+    },
+    {
+        "category": 2,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70497601_l.jpg",
+        "brand": "Specialized",
+        "title": "Tero 3.0 2022 Electric Mountain Bike",
+        "price": "3100.00",
+      
+        "sizedetail": "L",
+        "id": 139
+    },
+    {
+        "category": 2,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71331602_l.jpg",
+        "brand": "Haibike",
+        "title": "HardSeven 7 Electric Mountain Bike",
+        "price": "3000.00",
+      
+        "sizedetail": "M",
+        "id": 140
+    },
+    {
+        "category": 2,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70497615_l.jpg",
+        "brand": "Specialized",
+        "title": "Tero 3.0 2022 Electric Mountain Bike",
+        "price": "3100.00",
+      
+        "sizedetail": "S, M, L, XL",
+        "id": 141
+    },
+    {
+        "category": 2,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70614801_l.jpg",
+        "brand": "Trek",
+        "title": "Powerfly 7 625Wh 2022 Electric Mountain Bike",
+        "price": "4700.00",
+      
+        "sizedetail": "M, L",
+        "id": 142
+    },
+    {
+        "category": 2,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70724302_l.jpg",
+        "brand": "Specialized",
+        "title": "Kenevo SL Comp 2022",
+        "price": "6659.00",
+      
+        "sizedetail": "S, M, L",
+        "id": 143
+    },
+    {
+        "category": 2,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71161302_l.jpg",
+        "brand": "Cannondale",
+        "title": "Habit Neo 4+",
+        "price": "5400.00",
+      
+        "sizedetail": "L",
+        "id": 144
+    },
+    {
+        "category": 2,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71329608_l.jpg",
+        "brand": "Haibike",
+        "title": "AllMtn CF 12 Electric Mountain Bike",
+        "price": "6000.00",
+      
+        "sizedetail": "M, L",
+        "id": 145
+    },
+    {
+        "category": 2,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71331302_l.jpg",
+        "brand": "Haibike",
+        "title": "HardNine 7 Electric Mountain Bike",
+        "price": "3000.00",
+      
+        "sizedetail": "L",
+        "id": 146
+    },
+    {
+        "category": 2,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71331604_l.jpg",
+        "brand": "Haibike",
+        "title": "HardSeven 7 Electric Mountain Bike",
+        "price": "3000.00",
+      
+        "sizedetail": "M",
+        "id": 147
+    },
+    {
+        "category": 2,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71331703_l.jpg",
+        "brand": "Haibike",
+        "title": "HardSeven 6 2022 Electric Mountain Bike",
+        "price": "2700.00",
+      
+        "sizedetail": "S, M",
+        "id": 148
+    },
+    {
+        "category": 2,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71815108_l.jpg",
+        "brand": "Specialized",
+        "title": "Turbo Levo Comp Alloy 2022 Electric Mountain Bike",
+        "price": "6099.00",
+      
+        "sizedetail": "S, L, M, XL",
+        "id": 149
+    },
+    {
+        "category": 2,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71815115_l.jpg",
+        "brand": "Specialized",
+        "title": "Turbo Levo Comp Alloy 2022 Electric Mountain Bike",
+        "price": "6099.00",
+      
+        "sizedetail": "S, L",
+        "id": 150
+    },
+    {
+        "category": 2,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/73143411_l.jpg",
+        "brand": "Cannondale",
+        "title": "Moterra Neo 3 Electric Mountain Bike",
+        "price": "5750.00",
+      
+        "sizedetail": "S, M, L",
+        "id": 151
+    },
+    {
+        "category": 2,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/73143418_l.jpg",
+        "brand": "Cannondale",
+        "title": "Moterra Neo 3 Electric Mountain Bike",
+        "price": "5750.00",
+      
+        "sizedetail": "S, M, L, XL",
+        "id": 152
+    },
+    {
+        "category": 2,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/91789211_l.jpg",
+        "brand": "Raleigh",
+        "title": "Array Exclusive Electric Hybrid Bike",
+        "price": "1699.00",
+      
+        "sizedetail": "45cm, 50cm",
+        "id": 153
+    },
+    {
+        "category": 2,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/91574615_l.jpg",
+        "brand": "Specialized",
+        "title": "Turbo Vado SL 4.0 2022 Electric Hybrid Bike",
+        "price": "3150.00",
+      
+        "sizedetail": "L, XL",
+        "id": 154
+    },
+    {
+        "category": 2,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/91574640_l.jpg",
+        "brand": "Specialized",
+        "title": "Turbo Vado SL 4.0 2022 Electric Hybrid Bike",
+        "price": "3150.00",
+      
+        "sizedetail": "M",
+        "id": 155
+    },
+    {
+        "category": 2,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/71340915_l.jpg",
+        "brand": "Cannondale",
+        "title": "Treadwell Neo 2 2022 Electric Hybrid Bike",
+        "price": "1800.00",
+      
+        "sizedetail": "S, M, L",
+        "id": 156
+    },
+    {
+        "category": 2,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/71333418_l.jpg",
+        "brand": "Haibike",
+        "title": "Trekking 5 High 2022 Electric Hybrid Bike",
+        "price": "2700.00",
+      
+        "sizedetail": "M, L, XL",
+        "id": 157
+    },
+    {
+        "category": 2,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/91790103_l.jpg",
+        "brand": "Trek",
+        "title": "Allant + 5 Low Step 2021 Electric Hybrid Bike",
+        "price": "3100.00",
+      
+        "sizedetail": "M",
+        "id": 158
+    },
+    {
+        "category": 2,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/71332302_l.jpg",
+        "brand": "Haibike",
+        "title": "Trekking 7 Mid 2022 Electric Hybrid Bike",
+        "price": "3000.00",
+      
+        "sizedetail": "M, XL",
+        "id": 159
+    },
+    {
+        "category": 2,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/71332202_l.jpg",
+        "brand": "Haibike",
+        "title": "Trekking 7 High Electric Hybrid Bike",
+        "price": "3000.00",
+      
+        "sizedetail": "L",
+        "id": 160
+    },
+    {
+        "category": 2,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/91574103_l.jpg",
+        "brand": "Specialized",
+        "title": "Turbo Vado 4.0 Electric Hybrid Bike",
+        "price": "3900.00",
+      
+        "sizedetail": "S, M, L",
+        "id": 161
+    },
+    {
+        "category": 2,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/91040003_l.jpg",
+        "brand": "Brompton",
+        "title": "Electric P Line Urban - High Handlebar",
+        "price": "3695.00",
+      
+        "sizedetail": "Onesize",
+        "id": 162
+    },
+    {
+        "category": 2,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/91040303_l.jpg",
+        "brand": "Brompton",
+        "title": "Electric P Line Urban - Mid Handlebar",
+        "price": "3695.00",
+      
+        "sizedetail": "Onesize",
+        "id": 163
+    },
+    {
+        "category": 2,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/71333518_l.jpg",
+        "brand": "Haibike",
+        "title": "Trekking 4 High 2022 Electric Hybrid Bike",
+        "price": "2600.00",
+      
+        "sizedetail": "M, L",
+        "id": 164
+    },
+    {
+        "category": 2,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/71139803_l.jpg",
+        "brand": "Cannondale",
+        "title": "Tesoro Neo SL EQ Electric Hybrid Bike",
+        "price": "2500.00",
+      
+        "sizedetail": "S, M, L",
+        "id": 165
+    },
+    {
+        "category": 2,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/70647015_l.jpg",
+        "brand": "Brompton",
+        "title": "Electric C Line Explore - High Handlebar",
+        "price": "2995.00",
+      
+        "sizedetail": "Onesize",
+        "id": 166
+    },
+    {
+        "category": 2,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/70051603_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Electric Avenue Hybrid Bike",
+        "price": "799.00",
+      
+        "sizedetail": "S, M, L",
+        "id": 167
+    },
+    {
+        "category": 2,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/70051611_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Electric Avenue Hybrid Bike",
+        "price": "550.00",
+      
+        "sizedetail": "S, M, L",
+        "id": 168
+    },
+    {
+        "category": 2,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/71341015_l.jpg",
+        "brand": "Cannondale",
+        "title": "Treadwell Neo 2 Remixte 2022 Electric Hybrid Bike",
+        "price": "1800.00",
+      
+        "sizedetail": "S, L",
+        "id": 169
+    },
+    {
+        "category": 2,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/75598403_l.jpg",
+        "brand": "Mongoose",
+        "title": "React E4 Kids Electric Scooter",
+        "price": "199.00",
+      
+        "sizedetail": "Onesize",
+        "id": 170
+    },
+    {
+        "category": 2,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/70562203_l.jpg",
+        "brand": "Specialized",
+        "title": "Turbo Vado 3.0 2021 Electric Hybrid Bike",
+        "price": "3350.00",
+      
+        "sizedetail": "S, M, L",
+        "id": 171
+    },
+    {
+        "category": 2,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/70017302_l.jpg",
+        "brand": "Electra",
+        "title": "Townie Go! 7D Step-Through 2022 Electric Hybrid Bike",
+        "price": "1750.00",
+      
+        "sizedetail": "26\"",
+        "id": 172
+    },
+    {
+        "category": 2,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/70080118_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Lithium Ion Ld13",
+        "price": "1900.00",
+      
+        "sizedetail": "M",
+        "id": 173
+    },
+    {
+        "category": 2,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/70126503_l.jpg",
+        "brand": "Haibike",
+        "title": "Trekking 6 Mid 2022 Electric Hybrid Bike",
+        "price": "2850.00",
+      
+        "sizedetail": "M",
+        "id": 174
+    },
+    {
+        "category": 2,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/70171803_l.jpg",
+        "brand": "Decent",
+        "title": "One Electric Scooter",
+        "price": "349.99",
+      
+        "sizedetail": "Onesize",
+        "id": 175
+    },
+    {
+        "category": 2,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/70187803_l.jpg",
+        "brand": "Decent",
+        "title": "One Max Electric Scooter",
+        "price": "449.99",
+      
+        "sizedetail": "Onesize",
+        "id": 176
+    },
+    {
+        "category": 3,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93354903_l.jpg",
+        "brand": "Shimano",
+        "title": "RS500 SPD-SL Road Pedal",
+        "price": "59.99",
+      
+        "sizedetail": "Onesize",
+        "id": 177
+    },
+    {
+        "category": 3,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93010701_l.jpg",
+        "brand": "Shimano",
+        "title": "M324 SPD Pedals",
+        "price": "55.00",
+      
+        "sizedetail": "Onesize",
+        "id": 178
+    },
+    {
+        "category": 3,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93224903_l.jpg",
+        "brand": "Shimano",
+        "title": "PD-GR500 Flat Pedals",
+        "price": "60.00",
+      
+        "sizedetail": "Onesize",
+        "id": 179
+    },
+    {
+        "category": 3,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93368703_l.jpg",
+        "brand": "Shimano",
+        "title": "ES600 SPD Pedals",
+        "price": "65.00",
+      
+        "sizedetail": "Onesize",
+        "id": 180
+    },
+    {
+        "category": 3,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93249403_l.jpg",
+        "brand": "Shimano",
+        "title": "105 R7000 SPD SL Clipless Road Pedal",
+        "price": "105.00",
+      
+        "sizedetail": "Onesize",
+        "id": 181
+    },
+    {
+        "category": 3,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93097403_l.jpg",
+        "brand": "DMR",
+        "title": "V12 Flat Mountain Bike Pedals",
+        "price": "60.00",
+      
+        "sizedetail": "Onesize",
+        "id": 182
+    },
+    {
+        "category": 3,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93186503_l.jpg",
+        "brand": "DMR",
+        "title": "V8 Pedal V2",
+        "price": "43.00",
+      
+        "sizedetail": "Onesize",
+        "id": 183
+    },
+    {
+        "category": 3,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93180803_l.jpg",
+        "brand": "Shimano",
+        "title": "Deore XT T8000 Trekking Pedal",
+        "price": "90.00",
+      
+        "sizedetail": "Onesize",
+        "id": 184
+    },
+    {
+        "category": 3,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93448303_l.jpg",
+        "brand": "Shimano",
+        "title": "PD-ME700 SPD Pedals",
+        "price": "54.99",
+      
+        "sizedetail": "Onesize",
+        "id": 185
+    },
+    {
+        "category": 3,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93224703_l.jpg",
+        "brand": "Shimano",
+        "title": "Saint PD-M828 Flat Pedal",
+        "price": "130.00",
+      
+        "sizedetail": "Onesize",
+        "id": 186
+    },
+    {
+        "category": 3,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93786103_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Alloy MTB Pedals",
+        "price": "8.99",
+      
+        "sizedetail": "Onesize",
+        "id": 187
+    },
+    {
+        "category": 3,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93219102_l.jpg",
+        "brand": "Shimano",
+        "title": "Ultegra PD R8000 Carbon SPD SL Road Clipless Pedal - 4mm Longer Axle",
+        "price": "120.00",
+      
+        "sizedetail": "Onesize",
+        "id": 188
+    },
+    {
+        "category": 3,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93097416_l.jpg",
+        "brand": "DMR",
+        "title": "V12 Flat Mountain Bike Pedals",
+        "price": "60.00",
+      
+        "sizedetail": "Onesize",
+        "id": 189
+    },
+    {
+        "category": 3,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93762390_l.jpg",
+        "brand": "Look",
+        "title": "Keo Classic 3 Road Pedal",
+        "price": "48.00",
+      
+        "sizedetail": "Onesize",
+        "id": 190
+    },
+    {
+        "category": 3,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93081503_l.jpg",
+        "brand": "Shimano",
+        "title": "R550 SPD SL Pedals",
+        "price": "76.99",
+      
+        "sizedetail": "Onesize",
+        "id": 191
+    },
+    {
+        "category": 3,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93097408_l.jpg",
+        "brand": "DMR",
+        "title": "V12 Flat Mountain Bike Pedals",
+        "price": "60.00",
+      
+        "sizedetail": "Onesize",
+        "id": 192
+    },
+    {
+        "category": 3,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93025803_l.jpg",
+        "brand": "Shimano",
+        "title": "M520 SPD Pedals",
+        "price": "44.99",
+      
+        "sizedetail": "Onesize",
+        "id": 193
+    },
+    {
+        "category": 3,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93242803_l.jpg",
+        "brand": "FWE",
+        "title": "Thermoplastic Flat Pedal",
+        "price": "25.99",
+      
+        "sizedetail": "Onesize",
+        "id": 194
+    },
+    {
+        "category": 3,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93762403_l.jpg",
+        "brand": "Look",
+        "title": "Keo 2 Max Pedal",
+        "price": "78.00",
+      
+        "sizedetail": "Onesize",
+        "id": 195
+    },
+    {
+        "category": 3,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93097411_l.jpg",
+        "brand": "DMR",
+        "title": "V12 Flat Mountain Bike Pedals",
+        "price": "40.00",
+      
+        "sizedetail": "Onesize",
+        "id": 196
+    },
+    {
+        "category": 3,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93268103_l.jpg",
+        "brand": "DMR",
+        "title": "Vault Flat Pedal",
+        "price": "80.00",
+      
+        "sizedetail": "Onesize",
+        "id": 197
+    },
+    {
+        "category": 3,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93025811_l.jpg",
+        "brand": "Shimano",
+        "title": "M520 SPD Pedals",
+        "price": "44.99",
+      
+        "sizedetail": "Onesize",
+        "id": 198
+    },
+    {
+        "category": 3,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93003601_l.jpg",
+        "brand": "Brompton",
+        "title": "Folding Left Hand Pedal",
+        "price": "47.00",
+      
+        "sizedetail": "Onesize",
+        "id": 199
+    },
+    {
+        "category": 3,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93186803_l.jpg",
+        "brand": "DMR",
+        "title": "V6 Plastic Pedal Cro-Mo Axle",
+        "price": "20.00",
+      
+        "sizedetail": "Onesize",
+        "id": 200
+    },
+    {
+        "category": 3,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/97236203_l.jpg",
+        "brand": "Continental",
+        "title": "Grand Prix 4 Season 700C Folding Duraskin Road Tyre",
+        "price": "70.00",
+      
+        "sizedetail": "60",
+        "id": 201
+    },
+    {
+        "category": 3,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/97230801_l.jpg",
+        "brand": "Continental",
+        "title": "Gatorskin 700C Duraskin Wired Road Tyre",
+        "price": "32.95",
+      
+        "sizedetail": "23mm, 25mm, 28",
+        "id": 202
+    },
+    {
+        "category": 3,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/91448603_l.jpg",
+        "brand": "Continental",
+        "title": "Grand Prix 5000 700C Folding Clincher Road Tyre",
+        "price": "59.95",
+      
+        "sizedetail": "60",
+        "id": 203
+    },
+    {
+        "category": 3,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/97410803_l.jpg",
+        "brand": "Continental",
+        "title": "Gatorskin 700C Duraskin Folding Road Tyre",
+        "price": "39.95",
+      
+        "sizedetail": "23mm, 25mm, 28",
+        "id": 204
+    },
+    {
+        "category": 3,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/91085303_l.jpg",
+        "brand": "Specialized",
+        "title": "All Condition Armadillo Elite II Folding 700C Road Tyre",
+        "price": "45.00",
+      
+        "sizedetail": "23mm, 25mm, 28, 32mm",
+        "id": 205
+    },
+    {
+        "category": 3,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/91162503_l.jpg",
+        "brand": "Specialized",
+        "title": "Turbo S-Works 700C Performance Road Tyre",
+        "price": "37.50",
+      
+        "sizedetail": "Onesize",
+        "id": 206
+    },
+    {
+        "category": 3,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/97601403_l.jpg",
+        "brand": "Continental",
+        "title": "Gator Hardshell 700C Duraskin Wired Road Tyre",
+        "price": "39.95",
+      
+        "sizedetail": "23mm, 28",
+        "id": 207
+    },
+    {
+        "category": 3,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/91506203_l.jpg",
+        "brand": "Vittoria",
+        "title": "Rubino Pro IV G2.0 700C Folding Clincher Road Tyre",
+        "price": "41.99",
+      
+        "sizedetail": "25mm",
+        "id": 208
+    },
+    {
+        "category": 3,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/97620903_l.jpg",
+        "brand": "Specialized",
+        "title": "Roubaix Pro Tyre",
+        "price": "35.00",
+      
+        "sizedetail": "700x25/28C",
+        "id": 209
+    },
+    {
+        "category": 3,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/91089701_l.jpg",
+        "brand": "Specialized",
+        "title": "All Condition Armadillo Wired Road Tyre",
+        "price": "40.00",
+      
+        "sizedetail": "23mm, 28",
+        "id": 210
+    },
+    {
+        "category": 3,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/91506603_l.jpg",
+        "brand": "Vittoria",
+        "title": "Zaffrio Pro IV G2.0 700C Folding Clincher Road Tyre",
+        "price": "19.00",
+      
+        "sizedetail": "XL, 28, 30mm, 32C",
+        "id": 211
+    },
+    {
+        "category": 3,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/91081403_l.jpg",
+        "brand": "Continental",
+        "title": "Grand Sport Race Clincher Folding Tyre",
+        "price": "29.95",
+      
+        "sizedetail": "25mm, 28",
+        "id": 212
+    },
+    {
+        "category": 3,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/70757603_l.jpg",
+        "brand": "Vittoria",
+        "title": "Zaffiro Pro V Road Tyres",
+        "price": "24.99",
+      
+        "sizedetail": "25, 28C, 30C, 32C",
+        "id": 213
+    },
+    {
+        "category": 3,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/71149603_l.jpg",
+        "brand": "Vittoria",
+        "title": "Zaffiro V Road Tyres",
+        "price": "12.99",
+      
+        "sizedetail": "30, 32",
+        "id": 214
+    },
+    {
+        "category": 3,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/71148503_l.jpg",
+        "brand": "Vittoria",
+        "title": "Rubino IV Tyres",
+        "price": "21.99",
+      
+        "sizedetail": "25, 28",
+        "id": 215
+    },
+    {
+        "category": 3,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/91505442_l.jpg",
+        "brand": "Vittoria",
+        "title": "Corsa G2.0 700C Folding Clincher Road Tyre - Retail Packaged",
+        "price": "48.00",
+      
+        "sizedetail": "25mm",
+        "id": 216
+    },
+    {
+        "category": 3,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/91505503_l.jpg",
+        "brand": "Vittoria",
+        "title": "Rubino Pro IV Speed G2.0 700C Folding Clincher Road Tyre",
+        "price": "23.00",
+      
+        "sizedetail": "XL",
+        "id": 217
+    },
+    {
+        "category": 3,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/70886203_l.jpg",
+        "brand": "Vittoria",
+        "title": "Rubino Pro IV 700c Fold G2.0 Clincher Road Tyre Twin Pack",
+        "price": "84.99",
+      
+        "sizedetail": "25mm, 28",
+        "id": 218
+    },
+    {
+        "category": 3,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/70886403_l.jpg",
+        "brand": "Vittoria",
+        "title": "Rubino Pro IV Control Road Tyres",
+        "price": "41.99",
+      
+        "sizedetail": "25mm, 28",
+        "id": 219
+    },
+    {
+        "category": 3,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/91524703_l.jpg",
+        "brand": "Bontrager",
+        "title": "AW2 Hard Case Lite 700C TLR Folding Road Bike Tyre",
+        "price": "20.00",
+      
+        "sizedetail": "24",
+        "id": 220
+    },
+    {
+        "category": 3,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93321816_l.jpg",
+        "brand": "Fizik",
+        "title": "Tempo Microtex Bondcush Classic Bar Tape",
+        "price": "11.00",
+      
+        "sizedetail": "Onesize",
+        "id": 221
+    },
+    {
+        "category": 3,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/97412403_l.jpg",
+        "brand": "Continental",
+        "title": "Gator Hardshell 700C Duraskin Folding Road Tyre",
+        "price": "60.00",
+      
+        "sizedetail": "23mm, 25mm, 28",
+        "id": 222
+    },
+    {
+        "category": 3,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93218202_l.jpg",
+        "brand": "Shimano",
+        "title": "Ultegra R8000 Brake Caliper",
+        "price": "73.00",
+      
+        "sizedetail": "Onesize, Rear",
+        "id": 223
+    },
+    {
+        "category": 3,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93066603_l.jpg",
+        "brand": "Shimano",
+        "title": "Sora Grade R353 2013 Road Flat Bar V-Brakes",
+        "price": "22.00",
+      
+        "sizedetail": "Onesize, Rear",
+        "id": 224
+    },
+    {
+        "category": 3,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93182903_l.jpg",
+        "brand": "Shimano",
+        "title": "L04C Alloy Backed Metal Sintered Disc Brake Pads With Cooling Fins",
+        "price": "32.00",
+      
+        "sizedetail": "Onesize",
+        "id": 225
+    },
+    {
+        "category": 3,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93155701_l.jpg",
+        "brand": "FWE",
+        "title": "Sram Road Hydro Disc Models And Level Ultimate And TLM Resin Disc Brake Pads.",
+        "price": "5.00",
+      
+        "sizedetail": "Onesize",
+        "id": 226
+    },
+    {
+        "category": 3,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93041501_l.jpg",
+        "brand": "Shimano",
+        "title": "RT86 XT Ice-Tec 203mm 6-Bolt Disc Rotor",
+        "price": "45.00",
+      
+        "sizedetail": "203mm",
+        "id": 227
+    },
+    {
+        "category": 3,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93047703_l.jpg",
+        "brand": "Shimano",
+        "title": "Tiagra R451 Dual Pivot Brake Caliper",
+        "price": "32.00",
+      
+        "sizedetail": "Onesize, Rear",
+        "id": 228
+    },
+    {
+        "category": 3,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93041601_l.jpg",
+        "brand": "Shimano",
+        "title": "RT86 XT Ice-Tec 180mm 6-Bolt Disc Rotor",
+        "price": "42.00",
+      
+        "sizedetail": "180mm",
+        "id": 229
+    },
+    {
+        "category": 3,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/71483703_l.jpg",
+        "brand": "SRAM",
+        "title": "Hydraulic Disc Brake Pads Force/ Red AXS/Level",
+        "price": "24.00",
+      
+        "sizedetail": "Onesize",
+        "id": 230
+    },
+    {
+        "category": 3,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93066701_l.jpg",
+        "brand": "Shimano",
+        "title": "ZEE/SLX RT66 2013 6-Bolt Rotor",
+        "price": "22.99",
+      
+        "sizedetail": "S, L, 180mm",
+        "id": 231
+    },
+    {
+        "category": 3,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93071001_l.jpg",
+        "brand": "Shimano",
+        "title": "Dura-Ace/Ultegra/105 Brake Pads",
+        "price": "15.00",
+      
+        "sizedetail": "Onesize",
+        "id": 232
+    },
+    {
+        "category": 3,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93057901_l.jpg",
+        "brand": "Aztec",
+        "title": "Disc Brake Pads for Shimano Deore M515 Mechanical / M525 Hydraulic",
+        "price": "8.00",
+      
+        "sizedetail": "Onesize",
+        "id": 233
+    },
+    {
+        "category": 3,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93027603_l.jpg",
+        "brand": "Aztec",
+        "title": "V-type One Piece Brake Blocks",
+        "price": "3.50",
+      
+        "sizedetail": "Onesize",
+        "id": 234
+    },
+    {
+        "category": 3,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93388303_l.jpg",
+        "brand": "Shimano",
+        "title": "Altus BR-MT200 & BL-MT200 Post Mount Hydraulic Bled Disc Brake",
+        "price": "29.99",
+      
+        "sizedetail": "Front, Rear",
+        "id": 235
+    },
+    {
+        "category": 3,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/71489703_l.jpg",
+        "brand": "SRAM",
+        "title": "FR5 Leaver Pair",
+        "price": "19.00",
+      
+        "sizedetail": "Onesize",
+        "id": 236
+    },
+    {
+        "category": 3,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/71491303_l.jpg",
+        "brand": "SRAM",
+        "title": "Rotor Centerline Rounded 160mm",
+        "price": "41.00",
+      
+        "sizedetail": "Onesize",
+        "id": 237
+    },
+    {
+        "category": 3,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/71493503_l.jpg",
+        "brand": "SRAM",
+        "title": "Rotor Centerline CenterLock Black Rounded",
+        "price": "39.00",
+      
+        "sizedetail": "Onesize",
+        "id": 238
+    },
+    {
+        "category": 3,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93009101_l.jpg",
+        "brand": "Shimano",
+        "title": "Deore BRM515 Cable Actuated Disc Brake Pads",
+        "price": "11.99",
+      
+        "sizedetail": "Onesize",
+        "id": 239
+    },
+    {
+        "category": 3,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93063101_l.jpg",
+        "brand": "Shimano",
+        "title": "SM-BH90 2.1mm Bore Olive and Connecter Insert",
+        "price": "4.00",
+      
+        "sizedetail": "Onesize",
+        "id": 240
+    },
+    {
+        "category": 3,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/70892603_l.jpg",
+        "brand": "Aztec",
+        "title": "Organic Disc Brake Pads for Avid Mechanical Callipers",
+        "price": "8.00",
+      
+        "sizedetail": "Onesize",
+        "id": 241
+    },
+    {
+        "category": 3,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93143203_l.jpg",
+        "brand": "Shimano",
+        "title": "XT M8000 I-Spec II Disc Brake Assembly",
+        "price": "70.00",
+      
+        "sizedetail": "Onesize",
+        "id": 242
+    },
+    {
+        "category": 3,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93330601_l.jpg",
+        "brand": "Shimano",
+        "title": "SLX M7000 I-Spec-II Post Mount Hydraulic Disc Brake - Euro Style",
+        "price": "48.00",
+      
+        "sizedetail": "Right",
+        "id": 243
+    },
+    {
+        "category": 3,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93014401_l.jpg",
+        "brand": "Shimano",
+        "title": "M600 V Brake Blocks Set",
+        "price": "9.99",
+      
+        "sizedetail": "Onesize",
+        "id": 244
+    },
+    {
+        "category": 3,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93025501_l.jpg",
+        "brand": "Shimano",
+        "title": "RT76 XT 6-Bolt Disc Rotor",
+        "price": "20.00",
+      
+        "sizedetail": "Onesize",
+        "id": 245
+    },
+    {
+        "category": 3,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93045201_l.jpg",
+        "brand": "Avid",
+        "title": "Elixir Disc Brake Pads Organic Compound Steel Backplate",
+        "price": "10.00",
+      
+        "sizedetail": "Onesize",
+        "id": 246
+    },
+    {
+        "category": 3,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/91398003_l.jpg",
+        "brand": "Shimano",
+        "title": "RS100 700C 9-11 Speed Rear Road Wheel",
+        "price": "136.99",
+      
+        "sizedetail": "Onesize",
+        "id": 247
+    },
+    {
+        "category": 3,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93377903_l.jpg",
+        "brand": "Raleigh",
+        "title": "700c Rear 6 Bolt Disc QR Wheel -  8/9 Speed Cassette",
+        "price": "61.99",
+      
+        "sizedetail": "700 cc",
+        "id": 248
+    },
+    {
+        "category": 3,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/91398103_l.jpg",
+        "brand": "Shimano",
+        "title": "RS100 700C Front Road Wheel",
+        "price": "132.99",
+      
+        "sizedetail": "Onesize",
+        "id": 249
+    },
+    {
+        "category": 3,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/91178803_l.jpg",
+        "brand": "Shimano",
+        "title": "RX010 700C 11 Speed Disc Rear Road Wheel",
+        "price": "109.99",
+      
+        "sizedetail": "Onesize",
+        "id": 250
+    },
+    {
+        "category": 3,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/70523003_l.jpg",
+        "brand": "Raleigh",
+        "title": "Rear Disc Wheel 27.5/650B",
+        "price": "53.99",
+      
+        "sizedetail": "Onesize",
+        "id": 251
+    },
+    {
+        "category": 3,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93378311_l.jpg",
+        "brand": "Raleigh",
+        "title": "700c Rear Rim Brake QR Wheel - 8/9 Speed Cassette",
+        "price": "39.99",
+      
+        "sizedetail": "700 cc",
+        "id": 252
+    },
+    {
+        "category": 3,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93378211_l.jpg",
+        "brand": "Raleigh",
+        "title": "700c Rear Rim Brake QR Wheel - Free Wheel",
+        "price": "37.99",
+      
+        "sizedetail": "700 cc",
+        "id": 253
+    },
+    {
+        "category": 3,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93379311_l.jpg",
+        "brand": "Raleigh",
+        "title": "26\" Rear Rim Brake Nutted Wheel - Free Wheel",
+        "price": "18.99",
+      
+        "sizedetail": "26\"",
+        "id": 254
+    },
+    {
+        "category": 3,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/71143903_l.jpg",
+        "brand": "Mavic",
+        "title": "Crossride FTS-X 6 bolts 27.5 Rear Wheel",
+        "price": "60.00",
+      
+        "sizedetail": "27½",
+        "id": 255
+    },
+    {
+        "category": 3,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93379211_l.jpg",
+        "brand": "Raleigh",
+        "title": "26\" Front Rim Brake Nutted Wheel",
+        "price": "17.99",
+      
+        "sizedetail": "26\"",
+        "id": 256
+    },
+    {
+        "category": 3,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93378503_l.jpg",
+        "brand": "Raleigh",
+        "title": "700c Rear Single Speed Rim Brake Nutted Track Wheel - Flip Flop Hub",
+        "price": "40.00",
+      
+        "sizedetail": "700 cc",
+        "id": 257
+    },
+    {
+        "category": 3,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/70555303_l.jpg",
+        "brand": "Raleigh",
+        "title": "Rear Wheel 27.5\"",
+        "price": "15.00",
+      
+        "sizedetail": "Onesize",
+        "id": 258
+    },
+    {
+        "category": 3,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/70552511_l.jpg",
+        "brand": "Raleigh",
+        "title": "Rr Wl 26 Stl H 00",
+        "price": "19.99",
+      
+        "sizedetail": "Onesize",
+        "id": 259
+    },
+    {
+        "category": 3,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93006101_l.jpg",
+        "brand": "Fisher",
+        "title": "700c Hybrid QR Single Wall Front Wheel",
+        "price": "10.00",
+      
+        "sizedetail": "Onesize",
+        "id": 260
+    },
+    {
+        "category": 3,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/91379303_l.jpg",
+        "brand": "Mavic",
+        "title": "Aksium Clincher Centrelock Disc Brake 700c Road Front Wheel",
+        "price": "33.00",
+      
+        "sizedetail": "Onesize",
+        "id": 261
+    },
+    {
+        "category": 3,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/70013703_l.jpg",
+        "brand": "Zipp",
+        "title": "303S CL Carbon Tubeless Center Lock Disc Brake 700C Sram 10/11 Speed 12X142mm Rear Wheel",
+        "price": "515.00",
+      
+        "sizedetail": "Onesize",
+        "id": 262
+    },
+    {
+        "category": 3,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/70550203_l.jpg",
+        "brand": "Raleigh",
+        "title": "27.5 Inch Disc Front Wheel",
+        "price": "43.99",
+      
+        "sizedetail": "Onesize",
+        "id": 263
+    },
+    {
+        "category": 3,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/70554603_l.jpg",
+        "brand": "Raleigh",
+        "title": "29 Inch Disc Front Wheel",
+        "price": "43.99",
+      
+        "sizedetail": "Onesize",
+        "id": 264
+    },
+    {
+        "category": 3,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/71143103_l.jpg",
+        "brand": "Mavic",
+        "title": "Crossmax XL 27.5 Rear Wheel",
+        "price": "199.00",
+      
+        "sizedetail": "Onesize",
+        "id": 265
+    },
+    {
+        "category": 3,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/71143203_l.jpg",
+        "brand": "Mavic",
+        "title": "Crossmax XL 29 Rear Wheel",
+        "price": "125.00",
+      
+        "sizedetail": "Onesize",
+        "id": 266
+    },
+    {
+        "category": 3,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/71143603_l.jpg",
+        "brand": "Mavic",
+        "title": "Crossmax XL 29 Front Wheel",
+        "price": "139.00",
+      
+        "sizedetail": "Onesize",
+        "id": 267
+    },
+    {
+        "category": 3,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/91087711_l.jpg",
+        "brand": "Brompton",
+        "title": "Standard Front Wheel",
+        "price": "61.00",
+      
+        "sizedetail": "Onesize",
+        "id": 268
+    },
+    {
+        "category": 3,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/91178903_l.jpg",
+        "brand": "Shimano",
+        "title": "RX010 700C Disc Front Road Wheel",
+        "price": "89.99",
+      
+        "sizedetail": "Onesize",
+        "id": 269
+    },
+    {
+        "category": 3,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/91379903_l.jpg",
+        "brand": "Mavic",
+        "title": "Crossmax Elite UST Boost 29 Mountainbike Wheelset",
+        "price": "545.00",
+      
+        "sizedetail": "Onesize",
+        "id": 270
+    },
+    {
+        "category": 3,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/93782103_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Tour Saddle",
+        "price": "10.99",
+      
+        "sizedetail": "Onesize",
+        "id": 271
+    },
+    {
+        "category": 3,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/93046801_l.jpg",
+        "brand": "FWE",
+        "title": "Gel Saddle Cover",
+        "price": "16.00",
+      
+        "sizedetail": "Onesize",
+        "id": 272
+    },
+    {
+        "category": 3,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/93782003_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Gel Saddle Cover",
+        "price": "9.99",
+      
+        "sizedetail": "Onesize",
+        "id": 273
+    },
+    {
+        "category": 3,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/93710903_l.jpg",
+        "brand": "Ergon",
+        "title": "SFC3 Fitness Gel Comfort Saddle",
+        "price": "40.00",
+      
+        "sizedetail": "S",
+        "id": 274
+    },
+    {
+        "category": 3,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/93332203_l.jpg",
+        "brand": "Bontrager",
+        "title": "InForm Ajna Pro WSD Saddle",
+        "price": "80.00",
+      
+        "sizedetail": "Onesize, 144",
+        "id": 275
+    },
+    {
+        "category": 3,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/93145103_l.jpg",
+        "brand": "Specialized",
+        "title": "Romin Evo Pro Saddle",
+        "price": "90.00",
+      
+        "sizedetail": "155",
+        "id": 276
+    },
+    {
+        "category": 3,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/93782203_l.jpg",
+        "brand": "Muddyfox",
+        "title": "MTB Saddle",
+        "price": "12.99",
+      
+        "sizedetail": "Onesize",
+        "id": 277
+    },
+    {
+        "category": 3,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/93126916_l.jpg",
+        "brand": "Fabric",
+        "title": "Scoop Shallow Elite Saddle",
+        "price": "23.00",
+      
+        "sizedetail": "Onesize",
+        "id": 278
+    },
+    {
+        "category": 3,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/93124803_l.jpg",
+        "brand": "Fabric",
+        "title": "Scoop Radius Elite Saddle",
+        "price": "23.00",
+      
+        "sizedetail": "Onesize",
+        "id": 279
+    },
+    {
+        "category": 3,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/93296403_l.jpg",
+        "brand": "Fizik",
+        "title": "Arione R3 Versus Evo Saddle",
+        "price": "80.00",
+      
+        "sizedetail": "Reg",
+        "id": 280
+    },
+    {
+        "category": 3,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/93137403_l.jpg",
+        "brand": "ISM",
+        "title": "1.0 Saddle",
+        "price": "60.00",
+      
+        "sizedetail": "Onesize",
+        "id": 281
+    },
+    {
+        "category": 3,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/93294803_l.jpg",
+        "brand": "Fizik",
+        "title": "Aliante R3 Open Saddle",
+        "price": "70.00",
+      
+        "sizedetail": "Reg",
+        "id": 282
+    },
+    {
+        "category": 3,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/93138503_l.jpg",
+        "brand": "Selle Italia",
+        "title": "Italia Flite Friction Free Flow Saddle",
+        "price": "70.00",
+      
+        "sizedetail": "Onesize",
+        "id": 283
+    },
+    {
+        "category": 3,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/93295603_l.jpg",
+        "brand": "Fizik",
+        "title": "Antares R3 Open Saddle",
+        "price": "70.00",
+      
+        "sizedetail": "Reg",
+        "id": 284
+    },
+    {
+        "category": 3,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/71253103_l.jpg",
+        "brand": "Fizik",
+        "title": "Antares R5 Open Saddle",
+        "price": "50.00",
+      
+        "sizedetail": "L",
+        "id": 285
+    },
+    {
+        "category": 3,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/71253403_l.jpg",
+        "brand": "Fizik",
+        "title": "Vento Argo R5 Saddle",
+        "price": "50.00",
+      
+        "sizedetail": "140mm, 150mm",
+        "id": 286
+    },
+    {
+        "category": 3,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/93265803_l.jpg",
+        "brand": "Selle Italia",
+        "title": "Italia Novus Boost TM Superflow Saddle - L3",
+        "price": "30.00",
+      
+        "sizedetail": "Onesize",
+        "id": 287
+    },
+    {
+        "category": 3,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/93331903_l.jpg",
+        "brand": "Bontrager",
+        "title": "InForm Ajna Elite WSD Saddle",
+        "price": "27.00",
+      
+        "sizedetail": "Onesize",
+        "id": 288
+    },
+    {
+        "category": 3,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/93127203_l.jpg",
+        "brand": "Fabric",
+        "title": "Scoop Flat Race Saddle",
+        "price": "22.00",
+      
+        "sizedetail": "Onesize",
+        "id": 289
+    },
+    {
+        "category": 3,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/71252903_l.jpg",
+        "brand": "Fizik",
+        "title": "Transiro Mistica Kium Saddle",
+        "price": "48.00",
+      
+        "sizedetail": "M, L",
+        "id": 290
+    },
+    {
+        "category": 3,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/93294740_l.jpg",
+        "brand": "Fizik",
+        "title": "Aliante R3 K:IUM Saddle",
+        "price": "42.00",
+      
+        "sizedetail": "Reg",
+        "id": 291
+    },
+    {
+        "category": 3,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/71253003_l.jpg",
+        "brand": "Fizik",
+        "title": "Arione R5 Open Men's Saddle",
+        "price": "70.00",
+      
+        "sizedetail": "M",
+        "id": 292
+    },
+    {
+        "category": 3,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/71253703_l.jpg",
+        "brand": "Fizik",
+        "title": "Transiro Mistica Carbon Saddle",
+        "price": "115.00",
+      
+        "sizedetail": "L",
+        "id": 293
+    },
+    {
+        "category": 3,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/93227003_l.jpg",
+        "brand": "ISM",
+        "title": "1.1 Saddle",
+        "price": "90.00",
+      
+        "sizedetail": "Onesize",
+        "id": 294
+    },
+    {
+        "category": 4,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93715403_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Buzz 10L Hydration Pack",
+        "price": "34.99",
+      
+        "sizedetail": "Onesize",
+        "id": 295
+    },
+    {
+        "category": 4,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93782603_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Hydration Bag 1.5L",
+        "price": "16.99",
+      
+        "sizedetail": "Onesize",
+        "id": 296
+    },
+    {
+        "category": 4,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93782744_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Hydrate Bag 2.0",
+        "price": "21.99",
+      
+        "sizedetail": "Onesize",
+        "id": 297
+    },
+    {
+        "category": 4,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71094203_l.jpg",
+        "brand": "Ortlieb",
+        "title": "Velocity Backpack 17 Litre",
+        "price": "90.00",
+      
+        "sizedetail": "Onesize",
+        "id": 298
+    },
+    {
+        "category": 4,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70877603_l.jpg",
+        "brand": "Camelbak",
+        "title": "MULE Pro Hydration Pack 14L with 3L Reservoir",
+        "price": "140.00",
+      
+        "sizedetail": "Onesize",
+        "id": 299
+    },
+    {
+        "category": 4,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71095699_l.jpg",
+        "brand": "Ortlieb",
+        "title": "Velocity Design Backpack 23 Litres",
+        "price": "88.00",
+      
+        "sizedetail": "Onesize",
+        "id": 300
+    },
+    {
+        "category": 4,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70889903_l.jpg",
+        "brand": "Osprey",
+        "title": "Talon 11 10",
+        "price": "70.00",
+      
+        "sizedetail": "L",
+        "id": 301
+    },
+    {
+        "category": 4,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71094403_l.jpg",
+        "brand": "Ortlieb",
+        "title": "Commuter Daypack City Backpack 21 Litre",
+        "price": "125.00",
+      
+        "sizedetail": "Onesize",
+        "id": 302
+    },
+    {
+        "category": 4,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71094401_l.jpg",
+        "brand": "Ortlieb",
+        "title": "Commuter Daypack City Backpack 21 Litre",
+        "price": "100.00",
+      
+        "sizedetail": "Onesize",
+        "id": 303
+    },
+    {
+        "category": 4,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93390413_l.jpg",
+        "brand": "Ortlieb",
+        "title": "Velocity High Vis",
+        "price": "135.00",
+      
+        "sizedetail": "Onesize",
+        "id": 304
+    },
+    {
+        "category": 4,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70890203_l.jpg",
+        "brand": "Osprey",
+        "title": "Tempest 20",
+        "price": "85.00",
+      
+        "sizedetail": "L",
+        "id": 305
+    },
+    {
+        "category": 4,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71093503_l.jpg",
+        "brand": "Osprey",
+        "title": "Metron Backpack",
+        "price": "70.00",
+      
+        "sizedetail": "Onesize",
+        "id": 306
+    },
+    {
+        "category": 4,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70889603_l.jpg",
+        "brand": "Osprey",
+        "title": "Siskin 8  10",
+        "price": "49.00",
+      
+        "sizedetail": "Onesize",
+        "id": 307
+    },
+    {
+        "category": 4,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91753202_l.jpg",
+        "brand": "Altura",
+        "title": "Vortex 2 Waterproof Frame Bag",
+        "price": "58.00",
+      
+        "sizedetail": "Onesize",
+        "id": 308
+    },
+    {
+        "category": 4,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71011813_l.jpg",
+        "brand": "Ortlieb",
+        "title": "Velocity Backpack",
+        "price": "90.00",
+      
+        "sizedetail": "Onesize",
+        "id": 309
+    },
+    {
+        "category": 4,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93704203_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Buzz 4L Hydration Pack",
+        "price": "29.99",
+      
+        "sizedetail": "Onesize",
+        "id": 310
+    },
+    {
+        "category": 4,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71020418_l.jpg",
+        "brand": "Osprey",
+        "title": "Escapist Backpack 32/30 Litre",
+        "price": "98.00",
+      
+        "sizedetail": "M",
+        "id": 311
+    },
+    {
+        "category": 4,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70877715_l.jpg",
+        "brand": "Camelbak",
+        "title": "Chase Bike Vest 4L With 1.5L Reservoir",
+        "price": "78.00",
+      
+        "sizedetail": "Onesize",
+        "id": 312
+    },
+    {
+        "category": 4,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71131602_l.jpg",
+        "brand": "Camelbak",
+        "title": "Classic Light Hydration Pack 4L with 2L Reservoir",
+        "price": "60.00",
+      
+        "sizedetail": "Onesize",
+        "id": 313
+    },
+    {
+        "category": 4,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71047403_l.jpg",
+        "brand": "Topeak",
+        "title": "MTX Trunk Bag EXP",
+        "price": "72.99",
+      
+        "sizedetail": "Onesize",
+        "id": 314
+    },
+    {
+        "category": 4,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71042216_l.jpg",
+        "brand": "Osprey",
+        "title": "Ultralight Stuff Backpack",
+        "price": "24.00",
+      
+        "sizedetail": "Onesize",
+        "id": 315
+    },
+    {
+        "category": 4,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93778903_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Corner Bag",
+        "price": "6.99",
+      
+        "sizedetail": "Onesize",
+        "id": 316
+    },
+    {
+        "category": 4,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71095669_l.jpg",
+        "brand": "Ortlieb",
+        "title": "Velocity Design Backpack 23 Litres",
+        "price": "75.00",
+      
+        "sizedetail": "Onesize",
+        "id": 317
+    },
+    {
+        "category": 4,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91750001_l.jpg",
+        "brand": "FWE",
+        "title": "Top Tube Tri Bag",
+        "price": "12.00",
+      
+        "sizedetail": "Onesize",
+        "id": 318
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93237745_l.jpg",
+        "brand": "Kryptonite",
+        "title": "Evolution Mini-7 D Lock with Kryptoflex Cable Sold Secure Gold",
+        "price": "59.99",
+      
+        "sizedetail": "Onesize",
+        "id": 319
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93238166_l.jpg",
+        "brand": "Kryptonite",
+        "title": "Kyptolok Mini-7 D Lock with Kryptoflex Cable Sold Secure Gold",
+        "price": "39.99",
+      
+        "sizedetail": "Onesize",
+        "id": 320
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93018001_l.jpg",
+        "brand": "Kryptonite",
+        "title": "New York M18 Lock Sold Secure Gold",
+        "price": "110.00",
+      
+        "sizedetail": "Onesize",
+        "id": 321
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93052401_l.jpg",
+        "brand": "Kryptonite",
+        "title": "Evolution 4 1090 Chain Integrated Chain Lock Sold Secure Gold",
+        "price": "79.99",
+      
+        "sizedetail": "90cm",
+        "id": 322
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/71335403_l.jpg",
+        "brand": "Kryptonite",
+        "title": "Keeper U-Lock with 4 foot Kryptoflex cable",
+        "price": "27.99",
+      
+        "sizedetail": "Onesize",
+        "id": 323
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93778203_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Armour Lock",
+        "price": "8.99",
+      
+        "sizedetail": "Onesize",
+        "id": 324
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93237645_l.jpg",
+        "brand": "Kryptonite",
+        "title": "Evolution D Lock Sold Secure Gold",
+        "price": "72.99",
+      
+        "sizedetail": "Onesize",
+        "id": 325
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93052801_l.jpg",
+        "brand": "Kryptonite",
+        "title": "Keeper 785 Integrated Chain Lock Sold Secure Bronze",
+        "price": "50.00",
+      
+        "sizedetail": "85cm",
+        "id": 326
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93253103_l.jpg",
+        "brand": "Litelok",
+        "title": "GOLD Wearable Sold Secure Gold",
+        "price": "109.99",
+      
+        "sizedetail": "S, M",
+        "id": 327
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93238646_l.jpg",
+        "brand": "Kryptonite",
+        "title": "New York D Lock",
+        "price": "87.99",
+      
+        "sizedetail": "Onesize",
+        "id": 328
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93128603_l.jpg",
+        "brand": "Hiplok",
+        "title": "GOLD Wearable Chain Lock",
+        "price": "89.99",
+      
+        "sizedetail": "Onesize",
+        "id": 329
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93053101_l.jpg",
+        "brand": "Kryptonite",
+        "title": "New York Fahgettaboudit Chain and Padlock",
+        "price": "160.00",
+      
+        "sizedetail": "Chain",
+        "id": 330
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93052901_l.jpg",
+        "brand": "Kryptonite",
+        "title": "Keeper Standard Lock Sold Secure Bronze",
+        "price": "19.99",
+      
+        "sizedetail": "Onesize",
+        "id": 331
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93238266_l.jpg",
+        "brand": "Kryptonite",
+        "title": "Kyptolok Standard D Lock Sold Secure Gold",
+        "price": "44.99",
+      
+        "sizedetail": "Onesize",
+        "id": 332
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/70178199_l.jpg",
+        "brand": "Litelok",
+        "title": "ONE Flexi-O",
+        "price": "80.00",
+      
+        "sizedetail": "Onesize",
+        "id": 333
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93052501_l.jpg",
+        "brand": "Kryptonite",
+        "title": "Kryptolok Series 2 955 Mini Integrated Chain Lock Sold Secure Gold",
+        "price": "47.99",
+      
+        "sizedetail": "55cm",
+        "id": 334
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/71360003_l.jpg",
+        "brand": "Hiplok",
+        "title": "DXF",
+        "price": "84.99",
+      
+        "sizedetail": "Onesize",
+        "id": 335
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93143001_l.jpg",
+        "brand": "FWE",
+        "title": "Security Extension Cable 7ft",
+        "price": "10.00",
+      
+        "sizedetail": "Onesize, 7ft",
+        "id": 336
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/70178103_l.jpg",
+        "brand": "Litelok",
+        "title": "ONE Flexi-O",
+        "price": "80.00",
+      
+        "sizedetail": "Onesize",
+        "id": 337
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/70178115_l.jpg",
+        "brand": "Litelok",
+        "title": "ONE Flexi-O",
+        "price": "80.00",
+      
+        "sizedetail": "Onesize",
+        "id": 338
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93148001_l.jpg",
+        "brand": "Hiplok",
+        "title": "ORIGINAL Superbright Wearable Chain Lock",
+        "price": "74.99",
+      
+        "sizedetail": "Onesize",
+        "id": 339
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93387903_l.jpg",
+        "brand": "Hiplok",
+        "title": "SPIN Wearable Chain Lock",
+        "price": "34.99",
+      
+        "sizedetail": "Onesize",
+        "id": 340
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93777403_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Combination Lock",
+        "price": "5.99",
+      
+        "sizedetail": "Onesize",
+        "id": 341
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93317544_l.jpg",
+        "brand": "Abus",
+        "title": "Ultimate 420 D Lock Sold Secure Gold",
+        "price": "54.99",
+      
+        "sizedetail": "Onesize",
+        "id": 342
+    },
+    {
+        "category": 4,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93098044_l.jpg",
+        "brand": "FWE",
+        "title": "Rechargeable Light Set - 80/15 Lumen",
+        "price": "27.50",
+      
+        "sizedetail": "Onesize",
+        "id": 343
+    },
+    {
+        "category": 4,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93221803_l.jpg",
+        "brand": "Lezyne",
+        "title": "Zecto Drive Y11 Light Set - 250/80 Lumen",
+        "price": "64.00",
+      
+        "sizedetail": "Onesize",
+        "id": 344
+    },
+    {
+        "category": 4,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93276603_l.jpg",
+        "brand": "Bontrager",
+        "title": "Ion Pro RT Front Light - 1300 Lumen",
+        "price": "90.00",
+      
+        "sizedetail": "Onesize",
+        "id": 345
+    },
+    {
+        "category": 4,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93346003_l.jpg",
+        "brand": "Lezyne",
+        "title": "Mirco Drive 600XL/KTV Light Set - 600/10 Lumen",
+        "price": "71.00",
+      
+        "sizedetail": "Onesize",
+        "id": 346
+    },
+    {
+        "category": 4,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93164403_l.jpg",
+        "brand": "Cateye",
+        "title": "AMPP 100 / Viz 100 Bike Light Set",
+        "price": "39.99",
+      
+        "sizedetail": "Onesize",
+        "id": 347
+    },
+    {
+        "category": 4,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93346803_l.jpg",
+        "brand": "Moon",
+        "title": "Meteor X Pro/Comet X Light Set - 600/50 Lumen",
+        "price": "69.99",
+      
+        "sizedetail": "Onesize",
+        "id": 348
+    },
+    {
+        "category": 4,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/70268503_l.jpg",
+        "brand": "Cateye",
+        "title": "Ampp 400/ Vis 150 Bike Light Set",
+        "price": "49.99",
+      
+        "sizedetail": "Onesize",
+        "id": 349
+    },
+    {
+        "category": 4,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93320901_l.jpg",
+        "brand": "Bontrager",
+        "title": "Glo/Ember Light Set",
+        "price": "16.00",
+      
+        "sizedetail": "Onesize",
+        "id": 350
+    },
+    {
+        "category": 4,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93169003_l.jpg",
+        "brand": "Bontrager",
+        "title": "Ion 100/Flare R City Light Set - 100/35 Lumen",
+        "price": "59.99",
+      
+        "sizedetail": "Onesize",
+        "id": 351
+    },
+    {
+        "category": 4,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93454603_l.jpg",
+        "brand": "Cateye",
+        "title": "AMPP 500 / VIZ 150 Bike Light Set",
+        "price": "59.99",
+      
+        "sizedetail": "Onesize",
+        "id": 352
+    },
+    {
+        "category": 4,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93920203_l.jpg",
+        "brand": "Bontrager",
+        "title": "Ion 120/Flare 1 Light Set",
+        "price": "24.00",
+      
+        "sizedetail": "Onesize",
+        "id": 353
+    },
+    {
+        "category": 4,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93075201_l.jpg",
+        "brand": "Cateye",
+        "title": "Omni 3 Light Set",
+        "price": "19.99",
+      
+        "sizedetail": "Onesize",
+        "id": 354
+    },
+    {
+        "category": 4,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93454303_l.jpg",
+        "brand": "Cateye",
+        "title": "Volt 100XC / ORB Rechargable Light Set",
+        "price": "55.00",
+      
+        "sizedetail": "Onesize",
+        "id": 355
+    },
+    {
+        "category": 4,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93276903_l.jpg",
+        "brand": "Bontrager",
+        "title": "Ion 200 RT / Flare RT2 Lightset - 200/90 Lumen",
+        "price": "84.99",
+      
+        "sizedetail": "Onesize",
+        "id": 356
+    },
+    {
+        "category": 4,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93345603_l.jpg",
+        "brand": "Lezyne",
+        "title": "Strip Drive Pro 300 Rear Light - 300 Lumen",
+        "price": "52.00",
+      
+        "sizedetail": "Onesize",
+        "id": 357
+    },
+    {
+        "category": 4,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93164503_l.jpg",
+        "brand": "Cateye",
+        "title": "AMPP 200 / VIZ 100 Bike Light Set",
+        "price": "44.99",
+      
+        "sizedetail": "Onesize",
+        "id": 358
+    },
+    {
+        "category": 4,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93345903_l.jpg",
+        "brand": "Lezyne",
+        "title": "Micro 800XL / Strip Drive Rechargable Light Set",
+        "price": "97.00",
+      
+        "sizedetail": "Onesize",
+        "id": 359
+    },
+    {
+        "category": 4,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93346701_l.jpg",
+        "brand": "Moon",
+        "title": "Nebula Rear Light - 200 Lumen",
+        "price": "39.99",
+      
+        "sizedetail": "Onesize",
+        "id": 360
+    },
+    {
+        "category": 4,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93370303_l.jpg",
+        "brand": "Lezyne",
+        "title": "Femto USB Drive Light Set - 15/5 Lumen",
+        "price": "31.00",
+      
+        "sizedetail": "Onesize",
+        "id": 361
+    },
+    {
+        "category": 4,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/91744603_l.jpg",
+        "brand": "Garmin",
+        "title": "Varia RTL515 Radar Tail Light",
+        "price": "169.99",
+      
+        "sizedetail": "Onesize",
+        "id": 362
+    },
+    {
+        "category": 4,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93221903_l.jpg",
+        "brand": "Lezyne",
+        "title": "Drive Max Y11 Rear Light - 250 Lumen",
+        "price": "42.00",
+      
+        "sizedetail": "Onesize",
+        "id": 363
+    },
+    {
+        "category": 4,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/71241503_l.jpg",
+        "brand": "Moon",
+        "title": "Nebular Set",
+        "price": "65.00",
+      
+        "sizedetail": "Onesize",
+        "id": 364
+    },
+    {
+        "category": 4,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93344203_l.jpg",
+        "brand": "Cateye",
+        "title": "EL135/Orb light Set",
+        "price": "26.99",
+      
+        "sizedetail": "Onesize",
+        "id": 365
+    },
+    {
+        "category": 4,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93345403_l.jpg",
+        "brand": "Lezyne",
+        "title": "Micro Drive 600XL Front Light - 600 Lumen",
+        "price": "55.00",
+      
+        "sizedetail": "Onesize",
+        "id": 366
+    },
+    {
+        "category": 5,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70167108_l.jpg",
+        "brand": "Specialized",
+        "title": "Men's Body Geometry Dual-Gel Gloves",
+        "price": "30.00",
+      
+        "sizedetail": "S, M, XL, 2XL",
+        "id": 367
+    },
+    {
+        "category": 5,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70167103_l.jpg",
+        "brand": "Specialized",
+        "title": "Men's Body Geometry Dual-Gel Gloves",
+        "price": "30.00",
+      
+        "sizedetail": "S, 2XL",
+        "id": 368
+    },
+    {
+        "category": 5,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93775903_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Bike Mitts",
+        "price": "7.99",
+      
+        "sizedetail": "S, M, L, XL",
+        "id": 369
+    },
+    {
+        "category": 5,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91316803_l.jpg",
+        "brand": "Endura",
+        "title": "FS260 Pro Aerogel Mitt",
+        "price": "34.99",
+      
+        "sizedetail": "XS, S, M, XL, 2XL",
+        "id": 370
+    },
+    {
+        "category": 5,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/91316716_l.jpg",
+        "brand": "Endura",
+        "title": "Xtract II Mitt",
+        "price": "19.99",
+      
+        "sizedetail": "S, M, XL",
+        "id": 371
+    },
+    {
+        "category": 5,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93291915_l.jpg",
+        "brand": "Fox",
+        "title": "Defend Full Finger Glove",
+        "price": "40.00",
+      
+        "sizedetail": "S, M, L, XL, 2XL",
+        "id": 372
+    },
+    {
+        "category": 5,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93775943_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Bike Mitts",
+        "price": "7.99",
+      
+        "sizedetail": "XS, S, M, L",
+        "id": 373
+    },
+    {
+        "category": 5,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93234003_l.jpg",
+        "brand": "Endura",
+        "title": "Hummvee Plus II Full Finger Glove",
+        "price": "24.99",
+      
+        "sizedetail": "S, M, L, XL, 2XL",
+        "id": 374
+    },
+    {
+        "category": 5,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93352203_l.jpg",
+        "brand": "Sealskinz",
+        "title": "Water Repellent All Weather Glove",
+        "price": "30.00",
+      
+        "sizedetail": "S, M, L, XL",
+        "id": 375
+    },
+    {
+        "category": 5,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70280703_l.jpg",
+        "brand": "Castelli",
+        "title": "Entrata V Sn00",
+        "price": "36.00",
+      
+        "sizedetail": "XS, S, M, L, XL, 2XL",
+        "id": 376
+    },
+    {
+        "category": 5,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/72028103_l.jpg",
+        "brand": "Altura",
+        "title": "Airstream Mit Sn23",
+        "price": "16.00",
+      
+        "sizedetail": "XS-S, S, M, L, XL",
+        "id": 377
+    },
+    {
+        "category": 5,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93291908_l.jpg",
+        "brand": "Fox",
+        "title": "Defend Full Finger Glove",
+        "price": "40.00",
+      
+        "sizedetail": "S, M, L, XL",
+        "id": 378
+    },
+    {
+        "category": 5,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70668303_l.jpg",
+        "brand": "Sealskinz",
+        "title": "Waterproof Extreme Cold Weather Cycle Split Finger Glove",
+        "price": "44.00",
+      
+        "sizedetail": "S, M, L, XL",
+        "id": 379
+    },
+    {
+        "category": 5,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/71990903_l.jpg",
+        "brand": "Fox",
+        "title": "Ranger Park Gloves",
+        "price": "27.00",
+      
+        "sizedetail": "S, M, L",
+        "id": 380
+    },
+    {
+        "category": 5,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93776641_l.jpg",
+        "brand": "Muddyfox",
+        "title": "MTB Mitt Cycle Gloves",
+        "price": "12.99",
+      
+        "sizedetail": "S, M, L, XL",
+        "id": 381
+    },
+    {
+        "category": 5,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93776403_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Cycle Mitts",
+        "price": "5.50",
+      
+        "sizedetail": "S, L",
+        "id": 382
+    },
+    {
+        "category": 5,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93348403_l.jpg",
+        "brand": "Fox",
+        "title": "Ranger Water Glove",
+        "price": "35.00",
+      
+        "sizedetail": "S, M, XL, 2XL",
+        "id": 383
+    },
+    {
+        "category": 5,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70658103_l.jpg",
+        "brand": "Sealskinz",
+        "title": "All Weather MTB Waterproof Cycling Gloves",
+        "price": "45.00",
+      
+        "sizedetail": "S, M, L, XL",
+        "id": 384
+    },
+    {
+        "category": 5,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93234044_l.jpg",
+        "brand": "Endura",
+        "title": "Hummvee Plus II Full Finger Glove",
+        "price": "24.99",
+      
+        "sizedetail": "XS, S, M, L, XL, 2XL",
+        "id": 385
+    },
+    {
+        "category": 5,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70696403_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Waterproof Gloves",
+        "price": "25.00",
+      
+        "sizedetail": "S, M, L, XL",
+        "id": 386
+    },
+    {
+        "category": 5,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70668103_l.jpg",
+        "brand": "Sealskinz",
+        "title": "Waterproof Cold Weather Glove with Fusion Control",
+        "price": "75.00",
+      
+        "sizedetail": "S, M, L, XL",
+        "id": 387
+    },
+    {
+        "category": 5,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93777041_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Mountain Biking Gloves",
+        "price": "14.99",
+      
+        "sizedetail": "S, M, L, XL",
+        "id": 388
+    },
+    {
+        "category": 5,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93776003_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Bike Gloves",
+        "price": "9.99",
+      
+        "sizedetail": "S, M, L, XL",
+        "id": 389
+    },
+    {
+        "category": 5,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93351902_l.jpg",
+        "brand": "Sealskinz",
+        "title": "Waterproof All Weather Women's Cycle Glove",
+        "price": "45.00",
+      
+        "sizedetail": "S, L, XL",
+        "id": 390
+    },
+    {
+        "category": 5,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/63632706_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Competition Cycling Jacket Ladies",
+        "price": "40.00",
+      
+        "sizedetail": "10, 12, 14, 16",
+        "id": 391
+    },
+    {
+        "category": 5,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/63632502_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Fully Reflective Cycling Jacket Ladies",
+        "price": "60.00",
+      
+        "sizedetail": "8, 10, 12, 14, 16",
+        "id": 392
+    },
+    {
+        "category": 5,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/63934513_l.jpg",
+        "brand": "Endura",
+        "title": "Hummvee Waterproof Jacket",
+        "price": "79.99",
+      
+        "sizedetail": "M, L, XL, 2XL",
+        "id": 393
+    },
+    {
+        "category": 5,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/29042402_l.jpg",
+        "brand": "Endura",
+        "title": "Hummvee Waterproof Hooded Jacket",
+        "price": "99.99",
+      
+        "sizedetail": "S, M, L, XL, 2XL",
+        "id": 394
+    },
+    {
+        "category": 5,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/63633311_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Cycling Jacket Mens",
+        "price": "60.00",
+      
+        "sizedetail": "S, M, L, XL, 2XL",
+        "id": 395
+    },
+    {
+        "category": 5,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/29042703_l.jpg",
+        "brand": "Endura",
+        "title": "Women's Hummvee Waterpoof Hooded Jacket",
+        "price": "100.00",
+      
+        "sizedetail": "8, 10, 12, 14, 16",
+        "id": 396
+    },
+    {
+        "category": 5,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/63633113_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Performance Cycling Jacket Mens",
+        "price": "30.00",
+      
+        "sizedetail": "XS, S, M, XL, 3XL",
+        "id": 397
+    },
+    {
+        "category": 5,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/63935403_l.jpg",
+        "brand": "Fox",
+        "title": "Ranger 3l Water Jacket",
+        "price": "185.00",
+      
+        "sizedetail": "S, M, L, XL",
+        "id": 398
+    },
+    {
+        "category": 5,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/29040303_l.jpg",
+        "brand": "Fox",
+        "title": "Ranger 2.5L Water Jacket",
+        "price": "90.00",
+      
+        "sizedetail": "S, M, L, XL, 2XL",
+        "id": 399
+    },
+    {
+        "category": 5,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/32043213_l.jpg",
+        "brand": "Endura",
+        "title": "FS260 Pro Adrenaline Race Cape II",
+        "price": "79.99",
+      
+        "sizedetail": "S, M, L, XL, 2XL",
+        "id": 400
+    },
+    {
+        "category": 5,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/32016413_l.jpg",
+        "brand": "Altura",
+        "title": "Airstream Jacket",
+        "price": "25.00",
+      
+        "sizedetail": "S, M, L, XL",
+        "id": 401
+    },
+    {
+        "category": 5,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/63632813_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Wind Cycling Jacket Mens",
+        "price": "25.00",
+      
+        "sizedetail": "S, M, L, XL, 2XL",
+        "id": 402
+    },
+    {
+        "category": 5,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/63934503_l.jpg",
+        "brand": "Endura",
+        "title": "Hummvee Waterproof Jacket",
+        "price": "79.99",
+      
+        "sizedetail": "S, M, L, XL",
+        "id": 403
+    },
+    {
+        "category": 5,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/63933103_l.jpg",
+        "brand": "Endura",
+        "title": "MT500 Waterproof Jacket II",
+        "price": "229.99",
+      
+        "sizedetail": "S, M, XL, 2XL",
+        "id": 404
+    },
+    {
+        "category": 5,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/63918813_l.jpg",
+        "brand": "Endura",
+        "title": "Urban Luminite Jacket II",
+        "price": "99.99",
+      
+        "sizedetail": "S, M, L, XL, 2XL",
+        "id": 405
+    },
+    {
+        "category": 5,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/63633103_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Performance Cycling Jacket Mens",
+        "price": "30.00",
+      
+        "sizedetail": "S, M, L, XL, 2XL",
+        "id": 406
+    },
+    {
+        "category": 5,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/32022303_l.jpg",
+        "brand": "Endura",
+        "title": "Hummvee Waterproof Shell Jacket",
+        "price": "59.99",
+      
+        "sizedetail": "S, M, L, XL, 2XL",
+        "id": 407
+    },
+    {
+        "category": 5,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/63918818_l.jpg",
+        "brand": "Endura",
+        "title": "Urban Luminite Jacket II",
+        "price": "99.99",
+      
+        "sizedetail": "S, M, L, XL, 2XL",
+        "id": 408
+    },
+    {
+        "category": 5,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/63633413_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Compeition Cycling Jacket Mens",
+        "price": "40.00",
+      
+        "sizedetail": "S, M, L, XL, 2XL",
+        "id": 409
+    },
+    {
+        "category": 5,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/33099512_l.jpg",
+        "brand": "Castelli",
+        "title": "Emergency 2 Rain Jacket",
+        "price": "160.00",
+      
+        "sizedetail": "S, M, L, XL, 2XL, 3XL",
+        "id": 410
+    },
+    {
+        "category": 5,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/29042403_l.jpg",
+        "brand": "Endura",
+        "title": "Hummvee Waterproof Hooded Jacket",
+        "price": "100.00",
+      
+        "sizedetail": "S, M, L, XL, 2XL",
+        "id": 411
+    },
+    {
+        "category": 5,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/33099413_l.jpg",
+        "brand": "Castelli",
+        "title": "Squadra Jacket",
+        "price": "70.00",
+      
+        "sizedetail": "XS, S, M, L, XL, 2XL, 3XL",
+        "id": 412
+    },
+    {
+        "category": 5,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/45055618_l.jpg",
+        "brand": "Endura",
+        "title": "Xtract II Jacket",
+        "price": "40.00",
+      
+        "sizedetail": "S, M, L, XL",
+        "id": 413
+    },
+    {
+        "category": 5,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/63633403_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Compeition Cycling Jacket Mens",
+        "price": "40.00",
+      
+        "sizedetail": "S, M, L, XL, 2XL",
+        "id": 414
+    },
+    {
+        "category": 5,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/63601403_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Padded Cycling Shorts Mens",
+        "price": "19.00",
+      
+        "sizedetail": "S, M, L, XL, 2XL, 3XL",
+        "id": 415
+    },
+    {
+        "category": 5,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/63137703_l.jpg",
+        "brand": "Endura",
+        "title": "FS260-Pro Bibshort",
+        "price": "84.99",
+      
+        "sizedetail": "S, M, L, XL",
+        "id": 416
+    },
+    {
+        "category": 5,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/63630903_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Bib Cycling Shorts Mens",
+        "price": "40.00",
+      
+        "sizedetail": "S, M, L, XL, 2XL",
+        "id": 417
+    },
+    {
+        "category": 5,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/63600203_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Mountain Bike Shorts Mens",
+        "price": "18.00",
+      
+        "sizedetail": "L",
+        "id": 418
+    },
+    {
+        "category": 5,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/63232403_l.jpg",
+        "brand": "Endura",
+        "title": "Pro SL Bibshort",
+        "price": "113.99",
+      
+        "sizedetail": "Black",
+        "id": 419
+    },
+    {
+        "category": 5,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/63630803_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Race Cycling Shorts Mens",
+        "price": "35.00",
+      
+        "sizedetail": "S, M, L, XL, 2XL",
+        "id": 420
+    },
+    {
+        "category": 5,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/63138622_l.jpg",
+        "brand": "Endura",
+        "title": "Hummvee Short II",
+        "price": "59.99",
+      
+        "sizedetail": "S, M, XL, 2XL",
+        "id": 421
+    },
+    {
+        "category": 5,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/63138602_l.jpg",
+        "brand": "Endura",
+        "title": "Hummvee Short II",
+        "price": "59.99",
+      
+        "sizedetail": "XS, L, XL, 2XL",
+        "id": 422
+    },
+    {
+        "category": 5,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/63192903_l.jpg",
+        "brand": "Endura",
+        "title": "Xtract Gel II Waist Short",
+        "price": "44.99",
+      
+        "sizedetail": "S, M, L, 2XL",
+        "id": 423
+    },
+    {
+        "category": 5,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/63656203_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Cycling Padded Shorts Ladies",
+        "price": "14.00",
+      
+        "sizedetail": "8, 10, 12, 14, 16, 18, 20",
+        "id": 424
+    },
+    {
+        "category": 5,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/33099103_l.jpg",
+        "brand": "Castelli",
+        "title": "Competizione Bib Shorts",
+        "price": "110.00",
+      
+        "sizedetail": "S, L, XL, 2XL, 3XL",
+        "id": 425
+    },
+    {
+        "category": 5,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/91451403_l.jpg",
+        "brand": "Endura",
+        "title": "Engineered II Boxer",
+        "price": "29.99",
+      
+        "sizedetail": "S, M, L, XL, 2XL",
+        "id": 426
+    },
+    {
+        "category": 5,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/63925203_l.jpg",
+        "brand": "Odlo",
+        "title": "Women's Essential Padded Shorts",
+        "price": "44.00",
+      
+        "sizedetail": "10, 12, 14, 16",
+        "id": 427
+    },
+    {
+        "category": 5,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/63656003_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Padded Cycling Shorts Mens",
+        "price": "14.00",
+      
+        "sizedetail": "XS, S, M, L, XL, 2XL, 3XL",
+        "id": 428
+    },
+    {
+        "category": 5,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/63141715_l.jpg",
+        "brand": "Endura",
+        "title": "Women's Hummvee Shorts II",
+        "price": "64.99",
+      
+        "sizedetail": "8, 10, 12, 14, 16",
+        "id": 429
+    },
+    {
+        "category": 5,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/63138605_l.jpg",
+        "brand": "Endura",
+        "title": "Hummvee Short II",
+        "price": "59.99",
+      
+        "sizedetail": "S, M, L, XL, 2XL",
+        "id": 430
+    },
+    {
+        "category": 5,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/63138603_l.jpg",
+        "brand": "Endura",
+        "title": "Hummvee Short II",
+        "price": "59.99",
+      
+        "sizedetail": "L, XL, 2XL",
+        "id": 431
+    },
+    {
+        "category": 5,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/33099126_l.jpg",
+        "brand": "Castelli",
+        "title": "Competizione Bib Shorts",
+        "price": "110.00",
+      
+        "sizedetail": "M, L, XL",
+        "id": 432
+    },
+    {
+        "category": 5,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/63632103_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Baggy Shorts Mens",
+        "price": "29.99",
+      
+        "sizedetail": "S, M, L, XL, 2XL",
+        "id": 433
+    },
+    {
+        "category": 5,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/91451603_l.jpg",
+        "brand": "Endura",
+        "title": "Engineered Padded Boxer With Clickfast",
+        "price": "29.99",
+      
+        "sizedetail": "S, M, L, XL, 2XL",
+        "id": 434
+    },
+    {
+        "category": 5,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/63656503_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Urban Cycling Shorts Mens",
+        "price": "21.99",
+      
+        "sizedetail": "XS, S, M, L, XL, 2XL, 3XL",
+        "id": 435
+    },
+    {
+        "category": 5,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/63192803_l.jpg",
+        "brand": "Endura",
+        "title": "Xtract Gel II Bibshort",
+        "price": "54.99",
+      
+        "sizedetail": "S, M, XL, 2XL",
+        "id": 436
+    },
+    {
+        "category": 5,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/63141703_l.jpg",
+        "brand": "Endura",
+        "title": "Women's Hummvee Shorts II",
+        "price": "59.99",
+      
+        "sizedetail": "XS, S, M, L, XL",
+        "id": 437
+    },
+    {
+        "category": 5,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/63241803_l.jpg",
+        "brand": "Fox",
+        "title": "Ranger Utility Baggy Short",
+        "price": "65.00",
+      
+        "sizedetail": "30, 28",
+        "id": 438
+    },
+    {
+        "category": 5,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/14069803_l.jpg",
+        "brand": "Specialized",
+        "title": "Torch 1.0 Road Shoe",
+        "price": "95.00",
+      
+        "sizedetail": "3, 38, 39, 40, 41, XL, 11, 47, 48",
+        "id": 439
+    },
+    {
+        "category": 5,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/14057701_l.jpg",
+        "brand": "Specialized",
+        "title": "S-Works Road Shoe",
+        "price": "299.00",
+      
+        "sizedetail": "7½ (41), 8 (42), 9 (43), 9½ (44), 10½ (45), 11 (46), 12 (47), 12½ (48)",
+        "id": 440
+    },
+    {
+        "category": 5,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/14093101_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Radium Road Mens Cycling Shoes",
+        "price": "50.00",
+      
+        "sizedetail": "From 7 (41) to 13 (48.5)",
+        "id": 441
+    },
+    {
+        "category": 5,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/14053503_l.jpg",
+        "brand": "Specialized",
+        "title": "Torch 3.0 Road Shoe",
+        "price": "230.00",
+      
+        "sizedetail": "38, 39, 41, 42, 43, 45, 46",
+        "id": 442
+    },
+    {
+        "category": 5,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/14093103_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Radium Road Mens Cycling Shoes",
+        "price": "39.00",
+      
+        "sizedetail": "7 (41), 8 (42), 9 (43), 10 (45), 11 (46)",
+        "id": 443
+    },
+    {
+        "category": 5,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/14053403_l.jpg",
+        "brand": "Specialized",
+        "title": "Torch 2.0 Road Shoe",
+        "price": "160.00",
+      
+        "sizedetail": "37, 38, 39, 40, 42, 43, 46, 47",
+        "id": 444
+    },
+    {
+        "category": 5,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/14100703_l.jpg",
+        "brand": "Shimano",
+        "title": "RC1 SPDSL Rd Ld23",
+        "price": "69.99",
+      
+        "sizedetail": "4 (37), 5 (38), 6 (39), 7 (40), 8 (41)",
+        "id": 445
+    },
+    {
+        "category": 5,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/14092601_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Radium Road Ladies Cycling Shoes",
+        "price": "50.00",
+      
+        "sizedetail": "4 (37), 5 (38), 5½ (38.5), 6 (39), 6½ (39.5), 7 (40), 8 (41)",
+        "id": 446
+    },
+    {
+        "category": 5,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/02040203_l.jpg",
+        "brand": "Giro",
+        "title": "Savix II Road Shoe",
+        "price": "119.99",
+      
+        "sizedetail": "40, 41, 42, 43, 44, 45, 46, 47, 48",
+        "id": 447
+    },
+    {
+        "category": 5,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/14057703_l.jpg",
+        "brand": "Specialized",
+        "title": "S-Works Road Shoe",
+        "price": "299.00",
+      
+        "sizedetail": "9 (43), 10½ (45), 11 (46)",
+        "id": 448
+    },
+    {
+        "category": 5,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/11579603_l.jpg",
+        "brand": "Fizik",
+        "title": "Vento Infinito Carbon 2",
+        "price": "235.00",
+      
+        "sizedetail": "10 (45)",
+        "id": 449
+    },
+    {
+        "category": 5,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/11117303_l.jpg",
+        "brand": "Shimano",
+        "title": "RC1 Road Shoe",
+        "price": "65.00",
+      
+        "sizedetail": "6½ (40), 7 (41), 11 (46), 12 (47), 12½ (48)",
+        "id": 450
+    },
+    {
+        "category": 5,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/14408901_l.jpg",
+        "brand": "Muddyfox",
+        "title": "RBS100 Mens Cycling Shoes",
+        "price": "37.99",
+      
+        "sizedetail": "From 7 (41) to 13 (48.5)",
+        "id": 451
+    },
+    {
+        "category": 5,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/14062013_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Radium Rd K Sn31",
+        "price": "70.00",
+      
+        "sizedetail": "7 (41), 8 (42), 9 (43), 10 (45), 11 (46)",
+        "id": 452
+    },
+    {
+        "category": 5,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/11117203_l.jpg",
+        "brand": "Shimano",
+        "title": "RC3 Mens Road Cycling Shoes",
+        "price": "89.99",
+      
+        "sizedetail": "8 (42), 9½ (44), 12½ (48)",
+        "id": 453
+    },
+    {
+        "category": 5,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/14049001_l.jpg",
+        "brand": "Bontrager",
+        "title": "Circuit Road Shoe",
+        "price": "129.99",
+      
+        "sizedetail": "4 (38), 5 (39), 6 (40), 7 (41), 8 (42), 9 (43), 10 (44), 11 (45), 12 (46)",
+        "id": 454
+    },
+    {
+        "category": 5,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/14082703_l.jpg",
+        "brand": "Bkool",
+        "title": "EXTREME PRO",
+        "price": "239.00",
+      
+        "sizedetail": "44, 41",
+        "id": 455
+    },
+    {
+        "category": 5,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/02036403_l.jpg",
+        "brand": "Giro",
+        "title": "Cadet Road Shoe",
+        "price": "98.00",
+      
+        "sizedetail": "40, 42, 47, 48",
+        "id": 456
+    },
+    {
+        "category": 5,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/14069816_l.jpg",
+        "brand": "Specialized",
+        "title": "Torch 1.0 Road Shoe",
+        "price": "95.00",
+      
+        "sizedetail": "37, 38, 9",
+        "id": 457
+    },
+    {
+        "category": 5,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/14101003_l.jpg",
+        "brand": "Bontrager",
+        "title": "Solstce Rd Sn23",
+        "price": "89.99",
+      
+        "sizedetail": "From 3 (37) to 13 (47)",
+        "id": 458
+    },
+    {
+        "category": 5,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/14410001_l.jpg",
+        "brand": "Muddyfox",
+        "title": "RBS100 Ladies Cycling Shoes",
+        "price": "37.99",
+      
+        "sizedetail": "4 (37), 5 (38), 5½ (38.5), 6 (39), 6½ (39.5), 7 (40), 8 (41)",
+        "id": 459
+    },
+    {
+        "category": 5,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/02040303_l.jpg",
+        "brand": "Giro",
+        "title": "Stylus Road Shoe",
+        "price": "89.99",
+      
+        "sizedetail": "6½ (40), 7 (41), 8 (42), 10 (45), 12 (47), 12½ (48)",
+        "id": 460
+    },
+    {
+        "category": 5,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/02050303_l.jpg",
+        "brand": "Giro",
+        "title": "Women's Cadet Road Shoe",
+        "price": "115.00",
+      
+        "sizedetail": "36, 37, 38, 39, 40, 42",
+        "id": 461
+    },
+    {
+        "category": 5,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/09007001_l.jpg",
+        "brand": "Muddyfox",
+        "title": "RBS100 Junior Cycling Shoes",
+        "price": "21.00",
+      
+        "sizedetail": "3 (35.5), 4 (36.5), 5 (38), 5½ (38.5), 6 (39), 6½ (40)",
+        "id": 462
+    },
+    {
+        "category": 5,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/41186318_l.jpg",
+        "brand": "Endura",
+        "title": "Coolmax Stripe Socks Twin Pack",
+        "price": "15.99",
+      
+        "sizedetail": "6-12, 12+",
+        "id": 463
+    },
+    {
+        "category": 5,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/70520603_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Coolmax 3 Pack Socks",
+        "price": "6.75",
+      
+        "sizedetail": "4-8, 7-11",
+        "id": 464
+    },
+    {
+        "category": 5,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/70525203_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Merino 2 Pack Socks",
+        "price": "7.50",
+      
+        "sizedetail": "4-8, 7-11",
+        "id": 465
+    },
+    {
+        "category": 5,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/41186201_l.jpg",
+        "brand": "Endura",
+        "title": "Coolmax Race Sock - Triple Pack",
+        "price": "14.99",
+      
+        "sizedetail": "S-M, L-XL",
+        "id": 466
+    },
+    {
+        "category": 5,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/41186418_l.jpg",
+        "brand": "Endura",
+        "title": "Coolmax Race Sock - Triple Pack",
+        "price": "12.00",
+      
+        "sizedetail": "Onesize",
+        "id": 467
+    },
+    {
+        "category": 5,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/70679003_l.jpg",
+        "brand": "Sealskinz",
+        "title": "Waterproof Cold Weather Knee Length Sock",
+        "price": "37.00",
+      
+        "sizedetail": "S, M, L, XL",
+        "id": 468
+    },
+    {
+        "category": 5,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/70325901_l.jpg",
+        "brand": "Castelli",
+        "title": "Entrata 13 Socks",
+        "price": "15.00",
+      
+        "sizedetail": "S-M, L-XL, 2XL",
+        "id": 469
+    },
+    {
+        "category": 5,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/41186203_l.jpg",
+        "brand": "Endura",
+        "title": "Coolmax Race Sock - Triple Pack",
+        "price": "14.99",
+      
+        "sizedetail": "S-M",
+        "id": 470
+    },
+    {
+        "category": 5,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/71826018_l.jpg",
+        "brand": "Castelli",
+        "title": "Prologo 15 Socks",
+        "price": "17.00",
+      
+        "sizedetail": "S-M, L-XL, 2XL",
+        "id": 471
+    },
+    {
+        "category": 5,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/41186313_l.jpg",
+        "brand": "Endura",
+        "title": "Coolmax Stripe Socks Twin Pack",
+        "price": "16.99",
+      
+        "sizedetail": "S-M, L-XL",
+        "id": 472
+    },
+    {
+        "category": 5,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/71844002_l.jpg",
+        "brand": "Castelli",
+        "title": "Endurance 15 Socks",
+        "price": "19.00",
+      
+        "sizedetail": "S-M, L-XL, 2XL",
+        "id": 473
+    },
+    {
+        "category": 5,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/71844001_l.jpg",
+        "brand": "Castelli",
+        "title": "Endurance 15 Socks",
+        "price": "19.00",
+      
+        "sizedetail": "S-M, L-XL, 2XL",
+        "id": 474
+    },
+    {
+        "category": 5,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/70341918_l.jpg",
+        "brand": "Fox",
+        "title": "6in Rnger Sock Sn00",
+        "price": "10.00",
+      
+        "sizedetail": "S-M, L-XL",
+        "id": 475
+    },
+    {
+        "category": 5,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/41186358_l.jpg",
+        "brand": "Endura",
+        "title": "Coolmax Stripe Socks Twin Pack",
+        "price": "14.99",
+      
+        "sizedetail": "L-XL",
+        "id": 476
+    },
+    {
+        "category": 5,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/71990512_l.jpg",
+        "brand": "Fox",
+        "title": "8 Inch Ranger Park Socks",
+        "price": "16.00",
+      
+        "sizedetail": "S-M, L-XL",
+        "id": 477
+    },
+    {
+        "category": 5,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/41187718_l.jpg",
+        "brand": "Endura",
+        "title": "RideLondon 2020 Socks",
+        "price": "3.00",
+      
+        "sizedetail": "XL",
+        "id": 478
+    },
+    {
+        "category": 5,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/70123801_l.jpg",
+        "brand": "Kalas",
+        "title": "Aero Z1 Socks",
+        "price": "29.00",
+      
+        "sizedetail": "37-39, 40-42, 43-45",
+        "id": 479
+    },
+    {
+        "category": 5,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/71826003_l.jpg",
+        "brand": "Castelli",
+        "title": "Prologo 15 Socks",
+        "price": "17.00",
+      
+        "sizedetail": "S-M, L-XL, 2XL",
+        "id": 480
+    },
+    {
+        "category": 5,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/70341903_l.jpg",
+        "brand": "Fox",
+        "title": "6in Rnger Sock Sn00",
+        "price": "12.00",
+      
+        "sizedetail": "S-M, L-XL",
+        "id": 481
+    },
+    {
+        "category": 5,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/70872813_l.jpg",
+        "brand": "Endura",
+        "title": "Bandwidth Sock",
+        "price": "12.99",
+      
+        "sizedetail": "6-12, 12+",
+        "id": 482
+    },
+    {
+        "category": 5,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/41186319_l.jpg",
+        "brand": "Endura",
+        "title": "Coolmax Stripe Socks Twin Pack",
+        "price": "16.99",
+      
+        "sizedetail": "S-M, L-XL",
+        "id": 483
+    },
+    {
+        "category": 5,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/71811108_l.jpg",
+        "brand": "Madison",
+        "title": "Premio Extra Long Socks",
+        "price": "5.99",
+      
+        "sizedetail": "S, M, L, XL",
+        "id": 484
+    },
+    {
+        "category": 5,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/93213140_l.jpg",
+        "brand": "Fox",
+        "title": "8 Inch Ranger Cushion Sock",
+        "price": "13.00",
+      
+        "sizedetail": "S-M, L-XL",
+        "id": 485
+    },
+    {
+        "category": 5,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/71241818_l.jpg",
+        "brand": "Santini",
+        "title": "Maillot Jaune Tour De France 2022 Socks",
+        "price": "14.00",
+      
+        "sizedetail": "XS, M, XL",
+        "id": 486
+    }
+],
+"homepageSlider":[
+    {
+        "category": 2,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/91040003_l.jpg",
+        "brand": "Brompton",
+        "title": "Electric P Line Urban - High Handlebar",
+        "price": "3695.00",
+      
+        "sizedetail": "Onesize",
+        "id": 162
+    },
+    {
+        "category": 1,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70936403_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Kapur 1 2022 Mountain Bike",
+        "price": "400.00",
+      
+        "sizedetail": "XS, S, M, L, XL",
+        "id": 10
+    },
+    {
+        "category": 4,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93346803_l.jpg",
+        "brand": "Moon",
+        "title": "Meteor X Pro/Comet X Light Set - 600/50 Lumen",
+        "price": "69.99",
+      
+        "sizedetail": "Onesize",
+        "id": 348
+    },
+    {
+        "category": 5,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/29042402_l.jpg",
+        "brand": "Endura",
+        "title": "Hummvee Waterproof Hooded Jacket",
+        "price": "99.99",
+      
+        "sizedetail": "S, M, L, XL, 2XL",
+        "id": 394
+    },
+    {
+        "category": 3,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93041501_l.jpg",
+        "brand": "Shimano",
+        "title": "RT86 XT Ice-Tec 203mm 6-Bolt Disc Rotor",
+        "price": "45.00",
+      
+        "sizedetail": "203mm",
+        "id": 227
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93253103_l.jpg",
+        "brand": "Litelok",
+        "title": "GOLD Wearable Sold Secure Gold",
+        "price": "109.99",
+      
+        "sizedetail": "S, M",
+        "id": 327
+    },
+    {
+        "category": 4,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93782603_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Hydration Bag 1.5L",
+        "price": "16.99",
+      
+        "sizedetail": "Onesize",
+        "id": 296
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/70178199_l.jpg",
+        "brand": "Litelok",
+        "title": "ONE Flexi-O",
+        "price": "80.00",
+      
+        "sizedetail": "Onesize",
+        "id": 333
+    },
+    {
+        "category": 5,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/70167103_l.jpg",
+        "brand": "Specialized",
+        "title": "Men's Body Geometry Dual-Gel Gloves",
+        "price": "30.00",
+      
+        "sizedetail": "S, 2XL",
+        "id": 368
+    },
+    {
+        "category": 5,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/63633403_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Compeition Cycling Jacket Mens",
+        "price": "40.00",
+      
+        "sizedetail": "S, M, L, XL, 2XL",
+        "id": 414
+    },
+    {
+        "category": 5,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/63601403_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Padded Cycling Shorts Mens",
+        "price": "19.00",
+      
+        "sizedetail": "S, M, L, XL, 2XL, 3XL",
+        "id": 415
+    },
+    {
+        "category": 5,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/09007001_l.jpg",
+        "brand": "Muddyfox",
+        "title": "RBS100 Junior Cycling Shoes",
+        "price": "21.00",
+      
+        "sizedetail": "3 (35.5), 4 (36.5), 5 (38), 5½ (38.5), 6 (39), 6½ (40)",
+        "id": 462
+    },
+    {
+        "category": 5,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/41186318_l.jpg",
+        "brand": "Endura",
+        "title": "Coolmax Stripe Socks Twin Pack",
+        "price": "15.99",
+      
+        "sizedetail": "6-12, 12+",
+        "id": 463
+    },
+    {
+        
+        "category": 2,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/71333518_l.jpg",
+        "brand": "Haibike",
+        "title": "Trekking 4 High 2022 Electric Hybrid Bike",
+        "price": "2600.00",
+      
+        "sizedetail": "M, L",
+        "id": 164
+    },
+    {
+        "category": 1,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93008011_l.jpg",
+        "brand": "Mongoose",
+        "title": "Legion L18 BMX Bike",
+        "price": "300.00",
+      
+        "sizedetail": "Onesize",
+        "id": 78
+    }
+],
+"homepageSlider1":[
+    {
+        "category": 5,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/63633403_l.jpg",
+        "brand": "Pinnacle",
+        "title": "Compeition Cycling Jacket Mens",
+        "price": "40.00",
+      
+        "sizedetail": "S, M, L, XL, 2XL",
+        "id": 414
+    },
+    {
+        "category": 5,
+        "subcategory": 5,
+        "image": "https://www.evanscycles.com/images/products/71844002_l.jpg",
+        "brand": "Castelli",
+        "title": "Endurance 15 Socks",
+        "price": "19.00",
+      
+        "sizedetail": "S-M, L-XL, 2XL",
+        "id": 473
+    },
+    {
+        "category": 2,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/70647015_l.jpg",
+        "brand": "Brompton",
+        "title": "Electric C Line Explore - High Handlebar",
+        "price": "2995.00",
+      
+        "sizedetail": "Onesize",
+        "id": 166
+    },
+    {
+        "category": 4,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93098044_l.jpg",
+        "brand": "FWE",
+        "title": "Rechargeable Light Set - 80/15 Lumen",
+        "price": "27.50",
+      
+        "sizedetail": "Onesize",
+        "id": 343
+    },
+    {
+        "category": 5,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93291915_l.jpg",
+        "brand": "Fox",
+        "title": "Defend Full Finger Glove",
+        "price": "40.00",
+      
+        "sizedetail": "S, M, L, XL, 2XL",
+        "id": 372
+    },
+    {
+        "category": 5,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/63656003_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Padded Cycling Shorts Mens",
+        "price": "14.00",
+      
+        "sizedetail": "XS, S, M, L, XL, 2XL, 3XL",
+        "id": 428
+    },
+    {
+        "category": 5,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/63241803_l.jpg",
+        "brand": "Fox",
+        "title": "Ranger Utility Baggy Short",
+        "price": "65.00",
+      
+        "sizedetail": "30, 28",
+        "id": 438
+    },
+    {
+        "category": 5,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/14069803_l.jpg",
+        "brand": "Specialized",
+        "title": "Torch 1.0 Road Shoe",
+        "price": "95.00",
+      
+        "sizedetail": "3, 38, 39, 40, 41, XL, 11, 47, 48",
+        "id": 439
+    },
+    {
+        "category": 3,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/71143903_l.jpg",
+        "brand": "Mavic",
+        "title": "Crossride FTS-X 6 bolts 27.5 Rear Wheel",
+        "price": "60.00",
+      
+        "sizedetail": "27½",
+        "id": 255
+    },
+    {
+        "category": 3,
+        "subcategory": 4,
+        "image": "https://www.evanscycles.com/images/products/93379211_l.jpg",
+        "brand": "Raleigh",
+        "title": "26\" Front Rim Brake Nutted Wheel",
+        "price": "17.99",
+      
+        "sizedetail": "26\"",
+        "id": 256
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/93253103_l.jpg",
+        "brand": "Litelok",
+        "title": "GOLD Wearable Sold Secure Gold",
+        "price": "109.99",
+      
+        "sizedetail": "S, M",
+        "id": 327
+    },
+    {
+        "category": 4,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93782603_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Hydration Bag 1.5L",
+        "price": "16.99",
+      
+        "sizedetail": "Onesize",
+        "id": 296
+    },
+    {
+        "category": 4,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/70178199_l.jpg",
+        "brand": "Litelok",
+        "title": "ONE Flexi-O",
+        "price": "80.00",
+      
+        "sizedetail": "Onesize",
+        "id": 333
+    },
+    {
+        "category": 3,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/70886403_l.jpg",
+        "brand": "Vittoria",
+        "title": "Rubino Pro IV Control Road Tyres",
+        "price": "41.99",
+      
+        "sizedetail": "25mm, 28",
+        "id": 219
+    },
+    {
+        "category": 3,
+        "subcategory": 2,
+        "image": "https://www.evanscycles.com/images/products/91524703_l.jpg",
+        "brand": "Bontrager",
+        "title": "AW2 Hard Case Lite 700C TLR Folding Road Bike Tyre",
+        "price": "20.00",
+      
+        "sizedetail": "24",
+        "id": 220
+    },
+    {
+        "category": 5,
+        "subcategory": 1,
+        "image": "https://www.evanscycles.com/images/products/93775943_l.jpg",
+        "brand": "Muddyfox",
+        "title": "Bike Mitts",
+        "price": "7.99",
+      
+        "sizedetail": "XS, S, M, L",
+        "id": 373
+    },
+    {
+        "category": 1,
+        "subcategory": 3,
+        "image": "https://www.evanscycles.com/images/products/93008011_l.jpg",
+        "brand": "Mongoose",
+        "title": "Legion L18 BMX Bike",
+        "price": "300.00",
+      
+        "sizedetail": "Onesize",
+        "id": 78
+    }
+],
+"brands": [
+    {
+      "id": 1,
+      "name": "Cannondale"
+    },
+    {
+      "id": 2,
+      "name": "Trek"
+    },
+    {
+      "id": 3,
+      "name": "Haibike"
+    },
+    {
+      "id": 4,
+      "name": "Pinnacle"
+    },
+    {
+      "id": 5,
+      "name": "Specialized"
+    },
+    {
+      "id": 6,
+      "name": "Muddyfox"
+    },
+    {
+      "id": 7,
+      "name": "GT"
+    },
+    {
+      "id": 8,
+      "name": "Ceres"
+    },
+    {
+      "id": 9,
+      "name": "Mongoose"
+    },
+    {
+      "id": 10,
+      "name": "HOY"
+    },
+    {
+      "id": 11,
+      "name": "Cosmic"
+    },
+    {
+      "id": 12,
+      "name": "Raleigh"
+    },
+    {
+      "id": 13,
+      "name": "Brompton"
+    },
+    {
+      "id": 14,
+      "name": "Electra"
+    },
+    {
+      "id": 15,
+      "name": "Decent"
+    },
+    {
+      "id": 16,
+      "name": "Shimano"
+    },
+    {
+      "id": 17,
+      "name": "DMR"
+    },
+    {
+      "id": 18,
+      "name": "Look"
+    },
+    {
+      "id": 19,
+      "name": "FWE"
+    },
+    {
+      "id": 20,
+      "name": "Continental"
+    },
+    {
+      "id": 21,
+      "name": "Vittoria"
+    },
+    {
+      "id": 22,
+      "name": "Bontrager"
+    },
+    {
+      "id": 23,
+      "name": "Fizik"
+    },
+    {
+      "id": 24,
+      "name": "SRAM"
+    },
+    {
+      "id": 25,
+      "name": "Aztec"
+    },
+    {
+      "id": 26,
+      "name": "Avid"
+    },
+    {
+      "id": 27,
+      "name": "Mavic"
+    },
+    {
+      "id": 28,
+      "name": "Fisher"
+    },
+    {
+      "id": 29,
+      "name": "Zipp"
+    },
+    {
+      "id": 30,
+      "name": "Ergon"
+    },
+    {
+      "id": 31,
+      "name": "Fabric"
+    },
+    {
+      "id": 32,
+      "name": "ISM"
+    },
+    {
+      "id": 33,
+      "name": "Selle Italia"
+    },
+    {
+      "id": 34,
+      "name": "Ortlieb"
+    },
+    {
+      "id": 35,
+      "name": "Camelbak"
+    },
+    {
+      "id": 36,
+      "name": "Osprey"
+    },
+    {
+      "id": 37,
+      "name": "Altura"
+    },
+    {
+      "id": 38,
+      "name": "Topeak"
+    },
+    {
+      "id": 39,
+      "name": "Kryptonite"
+    },
+    {
+      "id": 40,
+      "name": "Litelok"
+    },
+    {
+      "id": 41,
+      "name": "Hiplok"
+    },
+    {
+      "id": 42,
+      "name": "Abus"
+    },
+    {
+      "id": 43,
+      "name": "Lezyne"
+    },
+    {
+      "id": 44,
+      "name": "Cateye"
+    },
+    {
+      "id": 45,
+      "name": "Moon"
+    },
+    {
+      "id": 46,
+      "name": "Garmin"
+    },
+    {
+      "id": 47,
+      "name": "Endura"
+    },
+    {
+      "id": 48,
+      "name": "Fox"
+    },
+    {
+      "id": 49,
+      "name": "Sealskinz"
+    },
+    {
+      "id": 50,
+      "name": "Castelli"
+    },
+    {
+      "id": 51,
+      "name": "Odlo"
+    },
+    {
+      "id": 52,
+      "name": "Giro"
+    },
+    {
+      "id": 53,
+      "name": "Bkool"
+    },
+    {
+      "id": 54,
+      "name": "Kalas"
+    },
+    {
+      "id": 55,
+      "name": "Madison"
+    },
+    {
+      "id": 56,
+      "name": "Santini"
+    }
+  ]
+}

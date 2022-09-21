@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { connect } from "react-redux";
+import { Link } from "react-router-dom";
 function Basket({ basket, dispatch }) {
   const [products, setProducts] = useState([]);
   useEffect(() => {
@@ -110,108 +111,14 @@ function Basket({ basket, dispatch }) {
             }}   className="fa-solid fa-trash"><span className="remove-i">Silmək</span></i>
                 </div>
                 </div>
+              <Link to="/form" className="basket-submit">Sifarisi Resmilesdir</Link>
               </div>
             </div>
           </section> 
-            //   <div key={a.id} className="tables">
-            //     <table>
-            //       <thead>
-            //         <tr>
-            //           <th colSpan={3} className="th-1">
-            //             <span>Məhsul</span>
-            //           </th>
-            //           <th>
-            //             <span>Qiymət</span>
-            //           </th>
-            //           <th>
-            //             <span>Ədəd</span>
-            //           </th>
-            //           <th>
-            //             <span>Məbləğ</span>
-            //           </th>
-            //         </tr>
-            //       </thead>
-            //       <tbody>
-            //         <tr>
-            //           <td colSpan={3} className="td-image">
-            //             <img src={product.image} alt="" />
-            //           </td>
-            //           <td>{product.price}</td>
-            //           <td>
-            //             <div className="operations">
-            //               <span onClick={() => decreaseCount(a.id)}>-</span>
-            //               {/* <h4>{a.count}</h4> */}
-            //               <h4>{a.count}</h4>
-            //               <span onClick={() => increaseCount(a.id)}>+</span>
-            //             </div>
-            //           </td>
-            //           <td className="td-price">
-            //             <h3>{(product.price * a.count).toFixed(2)} Azn</h3>
-            //           </td>
-            //           <td className="td-delete">
-            //           <i  onClick={() => {
-            //   dispatch({
-            //     type: "SET_BASKET",
-            //     payload:[...basket.filter((t) => t.id !== a.id)],
-            //   });
-            // }}   className="fa-solid fa-trash"></i>
-            //           </td>
-            //           {/* <td>
-            //           <h3>{basket.reduce((acc,item)=>acc+products.find(t=>t.id===item.id).price * item.count,1).toFixed(2)} Azn</h3>
-            //           </td> */}
-                      
-            //         </tr>
-            //       </tbody>
-            //       {/* <tr>
-            //         <th>
-            //           adasd
-            //         </th>
-            //         </tr> */}
-            //     </table>
-            //   </div>
-              // return <div key={a.id}>
-              //     <img src={product.image} alt="" />
-              //     <h2>{product.title}</h2>
-              //     <h2>{product.price}</h2>
-              //     <div className="operations">
-              //         <button onClick={()=>decreaseCount(a.id)}>-</button>
-              //         <h4>{a.count}</h4>
-              //         <button onClick={()=>increaseCount(a.id)}>+</button>
-              //     </div>
-              // </div>
-              
             );
           })}
       </div>
-            
     </section>
-          {/* <section>
-            <div className="container">
-              <div className="basket-bag-item">
-                <div className="basket-bag-head">
-                  <span>Mehsul</span>
-                </div>
-                <div className="basket-bag-body">
-                  <img src={product.image} alt="" />
-                </div>
-                <div className="basket-bag-head">
-                  <span>Mehsul</span>
-                </div>
-                <div className="basket-bag-body">
-                </div>
-                <div className="basket-bag-head">
-                  <span>Mehsul</span>
-                </div>
-                <div className="basket-bag-body">
-                </div>
-                <div className="basket-bag-head">
-                  <span>Mehsul</span>
-                </div>
-                <div className="basket-bag-body">
-                </div>
-              </div>
-            </div>
-          </section> */}
     </>
   );
 }

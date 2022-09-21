@@ -127,6 +127,9 @@ function Subcategory() {
   }, [filter,priceFilter]);
   return (
       <div className="category-main">
+            <div onClick={()=>{
+          window.scrollTo({top:0,behavior:'smooth'});
+        }} className="back-to-top">&uarr;</div>
       <div className="subcategory-image-main">
         <div className="subcategory-image">
           {/* <img src={subcategory.image && subcategory.image} alt="" /> */}
@@ -139,7 +142,7 @@ function Subcategory() {
       </div>
       <div className="container">
       <div className="sidebar ">
-          <div className="collapse-div  ">
+          <div className="collapse-div z">
             {/* <button onClick={()=>setCollapse(!collapse)}>Size<i  class="fa-solid fa-angle-right"></i></button> */}
             <h2>
             Ölçü

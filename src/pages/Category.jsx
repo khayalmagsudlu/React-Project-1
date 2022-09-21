@@ -145,7 +145,7 @@ function Category() {
       </div>
       <div className="container">
       <div className="sidebar ">
-          <div className="collapse-div  ">
+          <div className="collapse-div z">
             {/* <button onClick={()=>setCollapse(!collapse)}>Size<i  class="fa-solid fa-angle-right"></i></button> */}
             <h2>
             Ölçü

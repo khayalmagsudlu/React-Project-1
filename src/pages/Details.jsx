@@ -128,12 +128,9 @@ function Details({ basket, wish,dispatch }) {
           </div>
           <div className="container">
           <div className="description">
-          <h1>Description</h1>
-          <p>Life moves fast. Make the most of it on this lightweight, versatile e-bike. Power up your daily commute, speed through your errands, or explore the road less traveled.
-
-
-Where it thrives: City streets and backroads</p>
-<p>A steel frame provides classical retro-style tubing, as well as offering a more comfortable ride thanks to the way the material absorbs bumps in the road. A fully customised chain cover and integrated double sided chain guard gives maximum protection from clothes getting stuck, and the chain dropping of during your ride. Colour matched mudguards help complete the vintage look, as well as protecting your clothes from any puddles you happen to ride through. Pedal Uptown features a rear v-brake for easy control and braking power while you're cruising around town. This is a bike made for fun with friends and cruising around to get from A to B and everything in between.</p>
+          <h1>Məlumat</h1>
+          <p>Bu yüngül, çox yönlü elektron velosipeddə ondan maksimum yararlanın. Gündəlik gediş-gəlişinizi gücləndirin, tapşırıqlarınızı sürətləndirin və ya daha az səyahət edilən yolu kəşf edin. Harada inkişaf edir: Şəhər küçələri və arxa yollar</p>
+<p>Polad çərçivə klassik retro tipli boruları təmin etməklə yanaşı, materialın yoldakı zərbələri udması sayəsində daha rahat gəzinti təklif edir. Tam fərdiləşdirilmiş zəncir örtüyü və inteqrasiya olunmuş ikitərəfli zəncir qoruyucusu gəzinti zamanı paltarın ilişib qalmasından və zəncirin düşməsindən maksimum qoruma təmin edir. Rənglə uyğunlaşdırılmış palçıq qoruyucuları köhnə görünüşü tamamlamağa kömək edir, həmçinin paltarlarınızı keçdiyiniz hər hansı gölməçələrdən qoruyur. Pedal Uptown siz şəhər ətrafında səyahət edərkən asan idarəetmə və əyləc gücü üçün arxa v-tormozla təchiz edilmişdir. Bu, dostlarla əylənmək və A-dan B-yə getmək üçün ətrafda gəzmək üçün hazırlanmış velosipeddir.</p>
           </div>
           </div>
           </>

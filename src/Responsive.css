@@ -360,7 +360,7 @@ font-size: 16px;
     font-size: 15px;
 }
 .basket-price h2{
-    font-size: 16px;
+    font-size: 15px;
 }
 .basket-price h3{
     font-size: 14px;
@@ -386,8 +386,58 @@ font-size: 16px;
     height: 178px !important;
     object-fit: cover;
 }
+.back-to-top{
+    width: 30px;
+    height: 30px;
+}
+.z{
+    z-index: 1000;
+}
+.collapse-div{
+    width: 180px;
+}
+.collapse-div ul{
+    width: 180px;
+}
+.wish-modal{
+    max-height: 300px;
+}
+.user-form form{
+    max-width: 250px;
+    max-height: 400px;
+}
+.user-form form input{
+    max-width: 150px;
+}
+.rccs__card--unknown > div{
+    margin-top: 20px !important;
+}
+.rccs__card {
+    max-width: 250px;
+}
+.swal2-title{
+    font-size: 18px !important;
+}
+.swal2-html-container{
+    font-size:15px !important;
+}
+.rccs{
+    max-width: 250px;
 }
 
+.wish-image img{
+    width: 80px;
+    height: 80px;
+}
+.wish-about span{
+    font-size: 14px;
+}
+.wish-remove{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+}
 @media screen  and (max-width:425px){
     .slick-slide img{
         width: 50% !important;
@@ -487,14 +537,17 @@ font-size: 16px;
             display: block;
             max-width: 150px !important;
         }
+        .basket-item{
+            width: 200px !important;
+        }
         .basket-modal i{
             font-size: 15px;
         }
         .basket-price h2{
-            font-size: 16px;
+            font-size: 13px;
         }
         .basket-price h3{
-            font-size: 14px;
+            font-size: 12px;
         }
         .contact-item{
             width: 90% !important;
@@ -743,4 +796,15 @@ font-size: 16px;
     .card-head1{
         text-align: center !important;
     }
+    .sidebar{
+        display: block !important;
+    }
+    .z{
+        z-index: 1000;
+    }
+    .basket-item img{
+        width: 30px;
+         height: 30px;
+    }
+  
 }

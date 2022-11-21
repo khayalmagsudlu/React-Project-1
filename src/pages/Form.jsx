@@ -9,37 +9,7 @@ function Form() {
     const [expiry,setExpiry]=useState('');
     const [cvc,setCvc]=useState('');
     const [focus,setFocus]=useState('');
-    const[user,setUser]=useState({
-        name:"",
-        surname:"",
-        birthday:"",
-    })
-    const [errors,setErrors]=useState({
-        name:null,
-        surname:null,
-
-    });
-    useEffect(()=>{
-        if (user.name.length<8) {
-            setErrors({...errors,name:"Sifre 8 simvol olmalidir !"})
-        }
-    },[user])
-    const[users,setUsers]=useState([]);
-    const handleInput=e=>{
-        setUser({...user,[e.target.name]:e.target.value});
-    }
-    const saveUser=(e)=>{
-        e.preventDefault();
-        setUsers([...users,user]);
-        setUser({
-            name:"",
-            surname:"",
-            birthday:"",
-            password:"",
-            confirmpassword:"", 
-            
-        });
-    };
+  
   return (
     <>
     <Cards number={number}
@@ -58,7 +28,7 @@ function Form() {
                 onFocus={e=>setFocus(e.target.name)} maxLength={4}  />
                 <input type="text" name="cvc" placeholder="CVC" value={cvc} onChange={e=>setCvc(e.target.value)}
                 onFocus={e=>setFocus(e.target.name)} maxLength={3}  />
-                <input type="submit" value="save" onClick={(e)=>{
+             <input type="submit" value="save" onClick={(e)=>{
                     e.preventDefault();
                     Swal.fire(
                         'Sifarişiniz Qeydə Alındı',
@@ -67,22 +37,8 @@ function Form() {
                       )
                 }}/>
             </form>
-         
-   {/* <form onSubmit={saveUser}>
-    <input onChange={handleInput} name="name" type="text" value={user.name} placeholder="Name" />
-    <input onChange={handleInput} name="surname" type="text" value={user.surname}  placeholder="Surname" />
-    <input onChange={handleInput} name="birthday"value={user.birthday}   type="date"  />
-    <input onChange={handleInput} name="password" type="password" value={user.password}  placeholder="password" />
-    <input onChange={handleInput} name="confirmpassword" type="password" value={user.confirmpassword}  placeholder="confirmpassword" />
-    <input type="submit" value="Save" />
-   </form> */}
    </div>
    </section>
-    <section>
-        <form action="">
-
-        </form>
-    </section>
    </>
   )
 }

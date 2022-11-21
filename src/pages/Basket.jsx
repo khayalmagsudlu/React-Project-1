@@ -110,8 +110,9 @@ function Basket({ basket, dispatch }) {
               });
             }}   className="fa-solid fa-trash"><span className="remove-i">Silmək</span></i>
                 </div>
+                <Link to="/form" className="basket-submit">Sifarisi Resmilesdir</Link>
                 </div>
-              <Link to="/form" className="basket-submit">Sifarisi Resmilesdir</Link>
+              {/* <Link to="/form" className="basket-submit">Sifarisi Resmilesdir</Link> */}
               </div>
             </div>
           </section> 

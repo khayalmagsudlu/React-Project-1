@@ -4,19 +4,19 @@
     "id":1,
     "name":"Velosipedlər ",
     "imagename":"Velosipedlər ",
-    "image":"https://www.bike-components.de/cache/Fahrraeder_Desktop_3840x1000-jpg-0947205fbb82afb580eca55ea4341c76.jpeg",
+    "image":"https://cdn.rosebikes.de/cms/cms.636360fb99dc31.90474788.jpg?im=Resize=(1920%2C800)",
     "subcategories":[
       {
         "id":1,
         "name":"Dağ (МТВ)",
         "imagename":"Dağ",
-        "image":"https://www.bike-components.de/cache/MTB_Desktop_3840x1000-jpg-d9def5fb2122ca8709874de91e2b36e0.jpeg"
+        "image":"https://cdn.rosebikes.de/cms/cms.628b336388e2e1.92065978.jpg?im=Resize=(2400)"
       },
       {
         "id":2,
         "name":"Yol",
         "imagename":"Yol",
-        "image":"https://www.bike-components.de/cache/Rennraeder_Desktop_3840x1000-jpg-74ba0c923f4c90142bb97c6ab3b701d8.jpeg"
+        "image":"https://cdn.rosebikes.de/cms/cms.62bbf47c1e4e08.89357066.jpg?im=Resize=(2400)"
 
         
       },
@@ -43,7 +43,7 @@
     "id":2,
     "name":"E-Velosiped",
     "imagename":"E-Velosiped",
-    "image":"https://www.bike-components.de/cache/E-Trekking_Desktop_3840x1000-jpg-44aea759382247376a39f24e0b3e9539.jpeg",
+    "image":"https://cdn.rosebikes.de/cms/cms.636b4c7f7622f9.39328303.jpg?im=Resize=(1920%2C800)",
     "subcategories":[
       {
         "id":1,
@@ -97,6 +97,8 @@
   {
     "id":4,
     "name":"Aksesuarlar",
+    "imagename":"Aksesuarlar",
+    "image":"https://cdn.rosebikes.de/cms/cms.633d303b43f732.71896554.jpg?im=Resize=(1920%2C800)",
     "subcategories":[
       {
         "id":1,
@@ -106,20 +108,20 @@
       },
       {
         "id":2,
-        "name":"KİLİD"
+        "name":"Kilid"
       },
       {
         "id":3,
         "name":"İşıqlandırma ",
         "imagename":"İşıq",
-        "image":"https://www.bike-components.de/cache/XXL_Header_Desktop_01_DE-jpg-50f112882c27ec5458af8ac27233a40a.jpeg"
+        "image":"https://www.bike-components.de/assets/a/XXL_Header_Desktop_01_DE-jpg-7ebb1a68af0ebed0cb69739564c38a3d.avif"
       }
     ]
   },
   {
     "id":5,
     "name":"Geyim",
-    "imagename":"CLOTHING",
+    "imagename":"Geyim",
     "image":"https://www.bike-components.de/cache/210917_HW21_Bekleidung_Casual_Hoodies_3840x1000-jp-95b961f15b703ddfb1c058f0a1dd2447.jpeg",
     "subcategories":[
       {
@@ -4972,7 +4974,7 @@
         "title": "Torch 1.0 Road Shoe",
         "price": "95.00",
       
-        "sizedetail": "3, 38, 39, 40, 41, XL, 11, 47, 48",
+        "sizedetail": "3, 38, 39, 40,",
         "id": 439
     },
     {
@@ -4983,7 +4985,7 @@
         "title": "S-Works Road Shoe",
         "price": "299.00",
       
-        "sizedetail": "7½ (41), 8 (42), 9 (43), 9½ (44), 10½ (45), 11 (46), 12 (47), 12½ (48)",
+        "sizedetail": "7½ (41)  12½ (48)",
         "id": 440
     },
     {
@@ -5005,7 +5007,7 @@
         "title": "Torch 3.0 Road Shoe",
         "price": "230.00",
       
-        "sizedetail": "38, 39, 41, 42, 43, 45, 46",
+        "sizedetail": "38, 39, 41, 42, ",
         "id": 442
     },
     {
@@ -5016,7 +5018,7 @@
         "title": "Radium Road Mens Cycling Shoes",
         "price": "39.00",
       
-        "sizedetail": "7 (41), 8 (42), 9 (43), 10 (45), 11 (46)",
+        "sizedetail": "7 (41), 8 (42), ",
         "id": 443
     },
     {
@@ -5027,7 +5029,7 @@
         "title": "Torch 2.0 Road Shoe",
         "price": "160.00",
       
-        "sizedetail": "37, 38, 39, 40, 42, 43, 46, 47",
+        "sizedetail": "37, 38, 39, 40, ",
         "id": 444
     },
     {
@@ -5038,7 +5040,7 @@
         "title": "RC1 SPDSL Rd Ld23",
         "price": "69.99",
       
-        "sizedetail": "4 (37), 5 (38), 6 (39), 7 (40), 8 (41)",
+        "sizedetail": "4 (37), 5 (38), ",
         "id": 445
     },
     {
@@ -5049,7 +5051,7 @@
         "title": "Radium Road Ladies Cycling Shoes",
         "price": "50.00",
       
-        "sizedetail": "4 (37), 5 (38), 5½ (38.5), 6 (39), 6½ (39.5), 7 (40), 8 (41)",
+        "sizedetail": "4 (37), 5 (38), 5½ (38.5), ",
         "id": 446
     },
     {
@@ -5060,7 +5062,7 @@
         "title": "Savix II Road Shoe",
         "price": "119.99",
       
-        "sizedetail": "40, 41, 42, 43, 44, 45, 46, 47, 48",
+        "sizedetail": "40, 41, 42, 43, ",
         "id": 447
     },
     {
@@ -5071,7 +5073,7 @@
         "title": "S-Works Road Shoe",
         "price": "299.00",
       
-        "sizedetail": "9 (43), 10½ (45), 11 (46)",
+        "sizedetail": "9 (43), 10½ (45),",
         "id": 448
     },
     {
@@ -5093,7 +5095,7 @@
         "title": "RC1 Road Shoe",
         "price": "65.00",
       
-        "sizedetail": "6½ (40), 7 (41), 11 (46), 12 (47), 12½ (48)",
+        "sizedetail": "6½ (40), 7 (41), ",
         "id": 450
     },
     {
@@ -5115,7 +5117,7 @@
         "title": "Radium Rd K Sn31",
         "price": "70.00",
       
-        "sizedetail": "7 (41), 8 (42), 9 (43), 10 (45), 11 (46)",
+        "sizedetail": "7 (41), 8 (42),",
         "id": 452
     },
     {
@@ -5137,7 +5139,7 @@
         "title": "Circuit Road Shoe",
         "price": "129.99",
       
-        "sizedetail": "4 (38), 5 (39), 6 (40), 7 (41), 8 (42), 9 (43), 10 (44), 11 (45), 12 (46)",
+        "sizedetail": "4 (38), 5 (39), 6 (40), ",
         "id": 454
     },
     {
@@ -5192,7 +5194,7 @@
         "title": "RBS100 Ladies Cycling Shoes",
         "price": "37.99",
       
-        "sizedetail": "4 (37), 5 (38), 5½ (38.5), 6 (39), 6½ (39.5), 7 (40), 8 (41)",
+        "sizedetail": "4 (37), 5 (38),)",
         "id": 459
     },
     {
@@ -5203,7 +5205,7 @@
         "title": "Stylus Road Shoe",
         "price": "89.99",
       
-        "sizedetail": "6½ (40), 7 (41), 8 (42), 10 (45), 12 (47), 12½ (48)",
+        "sizedetail": "6½ (40), 7 (41), ",
         "id": 460
     },
     {
@@ -5225,7 +5227,7 @@
         "title": "RBS100 Junior Cycling Shoes",
         "price": "21.00",
       
-        "sizedetail": "3 (35.5), 4 (36.5), 5 (38), 5½ (38.5), 6 (39), 6½ (40)",
+        "sizedetail": "3 (35.5), 4 (36.5), ",
         "id": 462
     },
     {
@@ -5851,6 +5853,232 @@
     }
 ],
 "brands": [
+    {
+      "id": 1,
+      "name": "Cannondale"
+    },
+    {
+      "id": 2,
+      "name": "Trek"
+    },
+    {
+      "id": 3,
+      "name": "Haibike"
+    },
+    {
+      "id": 4,
+      "name": "Pinnacle"
+    },
+    {
+      "id": 5,
+      "name": "Specialized"
+    },
+    {
+      "id": 6,
+      "name": "Muddyfox"
+    },
+    {
+      "id": 7,
+      "name": "GT"
+    },
+    {
+      "id": 8,
+      "name": "Ceres"
+    },
+    {
+      "id": 9,
+      "name": "Mongoose"
+    },
+    {
+      "id": 10,
+      "name": "HOY"
+    },
+    {
+      "id": 11,
+      "name": "Cosmic"
+    },
+    {
+      "id": 12,
+      "name": "Raleigh"
+    },
+    {
+      "id": 13,
+      "name": "Brompton"
+    },
+    {
+      "id": 14,
+      "name": "Electra"
+    },
+    {
+      "id": 15,
+      "name": "Decent"
+    },
+    {
+      "id": 16,
+      "name": "Shimano"
+    },
+    {
+      "id": 17,
+      "name": "DMR"
+    },
+    {
+      "id": 18,
+      "name": "Look"
+    },
+    {
+      "id": 19,
+      "name": "FWE"
+    },
+    {
+      "id": 20,
+      "name": "Continental"
+    },
+    {
+      "id": 21,
+      "name": "Vittoria"
+    },
+    {
+      "id": 22,
+      "name": "Bontrager"
+    },
+    {
+      "id": 23,
+      "name": "Fizik"
+    },
+    {
+      "id": 24,
+      "name": "SRAM"
+    },
+    {
+      "id": 25,
+      "name": "Aztec"
+    },
+    {
+      "id": 26,
+      "name": "Avid"
+    },
+    {
+      "id": 27,
+      "name": "Mavic"
+    },
+    {
+      "id": 28,
+      "name": "Fisher"
+    },
+    {
+      "id": 29,
+      "name": "Zipp"
+    },
+    {
+      "id": 30,
+      "name": "Ergon"
+    },
+    {
+      "id": 31,
+      "name": "Fabric"
+    },
+    {
+      "id": 32,
+      "name": "ISM"
+    },
+    {
+      "id": 33,
+      "name": "Selle Italia"
+    },
+    {
+      "id": 34,
+      "name": "Ortlieb"
+    },
+    {
+      "id": 35,
+      "name": "Camelbak"
+    },
+    {
+      "id": 36,
+      "name": "Osprey"
+    },
+    {
+      "id": 37,
+      "name": "Altura"
+    },
+    {
+      "id": 38,
+      "name": "Topeak"
+    },
+    {
+      "id": 39,
+      "name": "Kryptonite"
+    },
+    {
+      "id": 40,
+      "name": "Litelok"
+    },
+    {
+      "id": 41,
+      "name": "Hiplok"
+    },
+    {
+      "id": 42,
+      "name": "Abus"
+    },
+    {
+      "id": 43,
+      "name": "Lezyne"
+    },
+    {
+      "id": 44,
+      "name": "Cateye"
+    },
+    {
+      "id": 45,
+      "name": "Moon"
+    },
+    {
+      "id": 46,
+      "name": "Garmin"
+    },
+    {
+      "id": 47,
+      "name": "Endura"
+    },
+    {
+      "id": 48,
+      "name": "Fox"
+    },
+    {
+      "id": 49,
+      "name": "Sealskinz"
+    },
+    {
+      "id": 50,
+      "name": "Castelli"
+    },
+    {
+      "id": 51,
+      "name": "Odlo"
+    },
+    {
+      "id": 52,
+      "name": "Giro"
+    },
+    {
+      "id": 53,
+      "name": "Bkool"
+    },
+    {
+      "id": 54,
+      "name": "Kalas"
+    },
+    {
+      "id": 55,
+      "name": "Madison"
+    },
+    {
+      "id": 56,
+      "name": "Santini"
+    }
+  ],
+  "marka": [
     {
       "id": 1,
       "name": "Cannondale"

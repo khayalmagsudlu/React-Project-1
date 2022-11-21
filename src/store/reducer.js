@@ -4,6 +4,7 @@ const initalState={
     wish: JSON.parse(window.localStorage.getItem("wish")) || [],
     basketModal:false,
     wishModal:false,
+    mobileMenu:false,
 };
 export default function reducer(state=initalState,action){
     switch(action.type){
@@ -19,6 +20,8 @@ export default function reducer(state=initalState,action){
                     return {...state,basketModal:action.payload};
                     case "SET_WISHMODAL":
                         return {...state,wishModal:action.payload};
+                        case "SET_MOBILEMENU":
+                            return {...state,mobileMenu:action.payload};
             default:return state;
     }
 }

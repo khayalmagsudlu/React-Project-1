@@ -1,7 +1,28 @@
 @media screen and (max-width:1024px) {
-    
+    .main-image-top-head h1{
+        font-size:30px;
+    }
+    .main-image-top-head p{
+        font-size:20px;
+    }
+    .main-body-category-head h1{
+        font-size:30px;
+    }
+    .main-body-category-buttons{
+        width: 40%;
+        margin-bottom: 30px;
+    }
+    .main-image-slides {
+        transform: translateY(10%);
+    }
+    .operations-detail{
+        justify-content: center;
+    }
     .velo img{
         object-fit: cover;
+    }
+    .Cultural-card-right-time-head h2{
+        font-size:24px;
     }
     /* .velo-image{
         min-height: 65vh;
@@ -10,7 +31,21 @@
     width: 50%;
 
 }
-.nav-items>nav>ul{
+.spare-card{
+    width: 45%;
+    margin-bottom: 40px;
+}
+.timer-left{
+    width: 50%;
+}
+.timer-hour{
+    padding: 8px;
+}
+.tours{
+    width: 40%;
+    margin-bottom: 30px;
+}
+.nav-items{
     display: none !important;
    }
    aside,.nav-i{
@@ -19,6 +54,92 @@
    header{
     height: 55px;
    }
+   .detail-left{
+    margin: 0 auto !important;
+  }
+  .detail-right{
+    width: 100%;
+    text-align: center;
+
+  }
+  .detail-left img{
+    max-width: 600px;
+    margin: 0 auto;
+    object-fit: cover;
+  }
+  .head-top{
+    display: none !important;
+  }
+  /* .timer-main{
+    max-height: 500px;
+  } */
+  .detail{
+    margin: 30px auto !important;
+  }
+  .detail-right{
+    margin-top: 40px;
+  }
+  .detail-right-desc{
+    margin: 0 auto;
+  }
+  .wish button{
+    margin: 0 auto;
+    margin-bottom: 40px;
+  }
+  .content{
+    display: none;
+  }
+  .wrapper .card5 .content1{
+    display: block;
+    text-align: center;
+}
+.content1 .details5 span{
+    display: block;
+    padding-bottom: 10px;
+}
+
+.content1 .details5 p{
+    padding-bottom: 10px;
+}
+.buttons6 button{
+    display: flex !important;
+    flex-direction: column;
+    margin: 10px auto;
+    width: 120px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+    
+
+}
+.bike-video-text{
+    font-size: 15px;
+    bottom: 30%;
+}
+.body-bottom-image{
+    max-height:300px;
+}
+.bike-orginals{
+    width: 30%;
+}
+.card5{
+    height: 450px !important;
+}
+.thems-text h2{
+    font-size: 20px;
+}
+.thems-text a{
+    width: 100px;
+}
+.category-flex-filter-right{
+    display: none;
+}
+.wrapper .card5{
+    width: 45%;
+    margin-bottom: 20px;
+}
+
 .road-text{
     width: 40%;
     font-size: 15px;
@@ -29,10 +150,50 @@
 .bike-category-text h3{
     font-size: 16px;
 }
+.trucks i{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    font-size:20px;
+}
+.truck-text{
+    width: 150px;
+}
+.trucks{
+    /* width: 45%; */
+    margin-bottom: 20px;
+}
 .card-head span{
     font-size: 15px;
 }
-
+.slide-title{
+    font-size: 30px;
+}
+.swiper-bike-button {
+    width: 250px;
+    height: 30px;
+}
+.slide-subtitle{
+    font-size: 15px !important;
+}
+.about-bottom-card{
+    display: none;
+}
+.about-bottom{
+    margin-bottom: 50px;
+}
+.about-flex{
+    display: block;
+}
+.about-bottom-image{
+    width: 100%;
+}
+.about-bottom-text{
+    width: 100%;
+    margin: 20px 0;
+}
 .buttons button{
     font-size: 12px;
 }
@@ -56,7 +217,9 @@
 .card-head::before {
     display: none;
 }
-
+.contact-card-flex{
+    width: 45%;
+}
 .clothes-text span{
     font-size: 14px;
     font-weight: bold;
@@ -65,6 +228,10 @@
 .clothes-text  h1{
     font-size: 30px;
     padding-top: 10px;
+}
+
+.bike-list-product{
+    width: 30%;
 }
 .products{
     width: 100%;
@@ -94,25 +261,25 @@
 /* .detail-left{
     width: 40% !important;
 } */
-.detail-left img{
+/* .detail-left img{
     width: 500px;
    }
 .detail-left{
     max-height: 500px;
     background-color: #fff;
 
-   }
+   } */
 .detail-right h2{
-    font-size: 18px;
+    font-size: 28px;
 }
 .detail-right p{
-    font-size: 15px;
+    font-size: 18px;
 }
 .detail-right h3{
-    font-size: 16px;
+    font-size: 22px;
 }
 .detail-right h4{
-    font-size: 16px;
+    font-size: 18px;
 }
 .clothes-image{
     max-height: 350px;
@@ -224,221 +391,580 @@ font-size: 16px;
 .slick-slide img{
     width: 50% !important;
 }
+
+
 }
 @media screen and (max-width:768px) {
-  
+    .main-image-top-head h1{
+        font-size:25x;
+    }
+    .main-image-top-head p{
+        font-size:15px;
+    }
+    .main-image{
+        height: 1000px;
+        max-height: 900px;
+    }
+    .main-body-category-head h1{
+        font-size:25px;
+    }
     .road{
         display: block !important;
     }
     .road-image{
         width: 100%;
         display: flex;
+        text-align: center;
         align-items: center;
         justify-content: center;
     }
     .road-image img{
         width: 70%;
     }
+  
+    .footer-icon ul li{
+        font-size:15px;
+        width: 30px;
+         height: 30px;
+    }
     .nav-logo h1 a{
         text-align: center;
     }
-    .road-text{
-        width: 100%;
-    }
-    .bike-category{
-        width: 45%;
-    }
-    .clothes-text span{
-        font-size: 14px !important;
-    }
-    .clothes-text h1{
-        font-size: 18px;
-    }
-    .clothes-text p{
-        font-size:12px;
-    }
-    .text-btn a{
-        font-size: 16px;
-        padding: 0 30px;
-       line-height: 40px;
-    }
-   
-    .product{
-        width: 40%;
-    }
-    .product button{
-        min-width: 80%;
-        min-height: 20px;
-        font-size: 10px;
-    }
-    .wish{
+    .sidebar{
         display: block !important;
     }
-    .wish button{
-        display: block;
-        width: 300px !important;
+    .bike-video-text{
+        font-size: 18px;
+        bottom: 50%;
+    }
+    .video-btn{
+        width: 200px;
+    }
+    .timer-left{
+        width: 100%;
+    }
+    .tours{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .timer{
+        width: 100%;
+        display: flex;
+        justify-content:center;
+        align-items: center;
+        text-align: center;
+    }
+   
+    .timer-bottom p{
+        font-size:20px;
+    }
+    .timer-bottom-button{
+        display: block !important;
+    }
+    .timer-button-left{
         margin-bottom: 20px;
     }
-    .detail{
+    .timer-bottom-add{
+        width: 300px;
+    }
+    .timer-bottom-add1{
+        width: 300px;
+    }
+    .timer-bottom-remov{
+        width: 300px;
+    }
+    .timer-bottom-remov1{
+        width: 300px;
+    }
+    /* .timer-main{
+        display: none;
+      } */
+    
+      .sd{
+        text-align: center;
+    }
+    .clothes-slider p{
+        width: auto ;
+    }
+    .review-left p{
+        font-size:16px;
+        text-align: center;
+    }
+    .review-left h2{
+        font-size:20px;
+        text-align: center;
+    }
+      .operations-detail h4{
+        display: flex;
+        line-height: 0;
+        height: 30px;
+        justify-content:center;
+    }
+      .blog-flex{
+        text-align: center;
+      }
+      .blog{
+        width: 45%;
+        margin: 0 auto;
+        margin-bottom: 20px;
+      }
+      .Cultural-sxem{
+        display: block;
+        text-align: center;
+      }
+      .Cultural-sxem span{
+        text-align: center;
+        padding-top: 20px;
+        display: block;
+      }
+      .Cultural-image-bottom{
+        gap: 0;
+        padding-bottom: 20px;
+      }
+      .Cultural-card-left{
+        width: 100%;
+      }
+      .Cultural-card-right{
+        width: 100%;
+      }
+      .Cultural-card-left-pricing{
+        text-align: center;
+      }
+      .Cultural-card-right-time-head h2{
+        text-align: center;
+      }
+      .Cultural-card-right-time-flex{
+        text-align: center;
+      }
+      .Cultural-card-right-text1 h2{
+        text-align: center;
+      }
+      .Cultural-card-right-time-level h2{
+        font-size:17px;
+      }
+      .Cultural-card-right-time-level-bottom{
+        justify-content: center;
+    }
+      .Cultural-card-right-time-flex{
+        display: block;
+        text-align: center;
+      }
+      .Cultural-card-right-time{
+        width: 100%;
+      }
+      .Cultural-image-bottom p{
+        display: block;
+      }
+        .filterr h1{
+            display: block;
+        }
+        .road-text{
+            width: 100%;
+        }
+        .bike-list-product{
+            width: 45%;
+        }
+        .contact-h4{
+            font-size:20px;
+        }
+        .contact-card-flex{
+            width: 70%;
+            margin: 0 auto !important;
+        }
+        .contact-card-flex img{
+            height: 200px;
+            object-fit: cover;;
+        }
+        .description-body-left{
+            width: 100%;
+        }
+        .description-body-left{
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .description-body-right{
+            max-width: 600px;
+            margin: 0 auto;
+    
+        }
+        .description-body-right p{
+            padding-bottom: 40px;
+        }
+        .detail-description p{
+            padding-top: 10px;
+        }
+        
+        .description-body-right{
+            width: 100%;
+        }
+        .detail-right h2{
+            font-size: 24px;
+        }
+        .detail-right p{
+            font-size: 15px;
+        }
+        .detail-right h3{
+            font-size: 18px;
+        }
+        .detail-right h4{
+            font-size: 15px;
+            padding: 20px 0 !important;
+        }
+        .body-bottom-image{
+            max-height:250px;
+        }
+        .bike-category{
+            width: 45%;
+        }
+        .slide-title{
+            font-size: 20px;
+        }
+        .swiper-bike-text4{
+            top: 30% !important;
+        }
+        .swiper-bike-button {
+            width: 180px;
+            height: 20px;
+        }
+        .slide-subtitle{
+            font-size: 13px !important;
+        }
+        .modal-body input{
+            height: 20px;
+            width: 300px;
+        }
+        .modal{
+            height: 120px;
+        }
+        .swiper-bike img{
+            max-width: 100%;
+            width: 1000px;
+            height: 500px;
+             object-fit: cover;
+        }
+        /* .category-flex-left{
+            display: none;
+        } */
+        .category-flex-left{
+            width: 80% !important;
+            margin: 0 auto;
+        }
+        .category-box-price {
+            height: 200px;
+        }
+        .category-body{
+            display: block;
+        }
+        .blog-cart{
+            width: 100%;
+        }
+        .thems{
+            width: 100%;
+            margin: 0 auto;
+        }
+        .thems-text h2{
+            font-size:15px;
+            padding-bottom: 0px;
+        }
+        .thems-image{
+            padding-bottom: 20px;
+        }
+        .thems-text a{
+            height: 20px;
+        }
+        .card5{
+            height: 500px !important;
+        }
+        
+        .wrapper .card5{
+            width: 45%;
+            margin-bottom: 20px;
+        }
+        .clothes-text span{
+            font-size: 14px !important;
+        }
+        .clothes-text h1{
+            font-size: 18px;
+        }
+        .clothes-text p{
+            font-size:12px;
+        }
+        .text-btn a{
+            font-size: 16px;
+            padding: 0 30px;
+           line-height: 40px;
+        }
+        .bike-lists{
+            margin: 0 auto;
+        }
+       
+       
+       .bike-orginal-text{
         display: block;
     }
-    .detail-left{
-        width: 100% !important;
+    .bike-orginals{
+        text-align: center;
     }
-    .detail-right {
+    .bike-orginals{
+        width: 45%;
+    }
+        .product{
+            width: 80%;
+            margin: 0 auto;
+        }
+        .trucks{
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+        .trucks i{
+            width: 100px;
+            height: 100px;
+        }
+        .truck-text{
+            width: 250px;
+            padding: 10px 0;
+        }
+        .truck-text h3{
+            font-size:25px;
+        }
+        .truck-text p{
+            font-size:20px;
+        }
+        /* .trucks{
+            margin: 20px auto;
+        } */
+        .category-flex-right{
+            width: 100%;
+        }
+        /* .category-flex-filter{
+            display: block !important;
+        } */
+       
+        .product button{
+            min-width: 80%;
+            min-height: 20px;
+            font-size: 10px;
+        }
+        .wish{
+            display: block !important;
+        }
+        .wish button{
+            display: block;
+            width: 300px !important;
+            margin-bottom: 20px;
+        }
+        /* .detail{
+            display: block;
+        }
+        .detail-left{
+            width: 100% !important;
+        }
+        .detail-right {
+            width: 100%;
+            padding-bottom: 20px;
+        } */
+        .header-left{
+            padding-right: 10px;
+        }
+       .nav-items{
+        display: none !important;
+       }
+       aside,.nav-i{
+        display: block !important;
+       }
+       header{
+        height: 55px;
+       }
+       .abouts>div{
+        width: 40%;
+       }
+       .footer-flex>div{
+        width: 40%;
+       }
+       .footer-undeline{
+        display: none;
+       }
+       .footer-undeline1{
+        display: none;
+       }
+      
+       .clothes-image{
+        display: none !important;
+        /* height: 350px;
+        max-width: 100%; */
+       }
+       .font_1{
+        padding-top: 50px;
+       }
+       .card img{
+        width: 40% !important;
+       }
+       .card h3{
+        padding-top: 0 !important;
+       }
+       .card-head{
+        padding-bottom: 15px;
+       }
+       .card-head1{
+        padding-bottom: 15px;
+       }
+       /* .detail-left img{
+        width: 400px;
+       }
+       .description{
+        max-width: 400px;
+       }
+       .detail-left{
+        background-color: #fff;
+       }
+       .detail-left{
+        max-height: 400px;
+       } */
+       .description p{
+        font-size: 15px;
+       }
+     
+       .basket-modal{
+        width: 280px;
+        top: 55px;
+       }
+       .total-button{
+        display: block;
+    }
+    .total-button button{
+        display: block;
+        margin-bottom: 30px !important;
+        width: 170px !important;
+    }
+    .total-button a{
+        display: block;
+        max-width: 170px !important;
+    }
+    .basket-modal i{
+        font-size: 15px;
+    }
+    .basket-price h2{
+        font-size: 15px;
+    }
+    .basket-price h3{
+        font-size: 14px;
+    }
+    .contact-body{
+        max-width: 100% !important;
+        flex-wrap: wrap;
+    }
+    .contact-text{
+        height: 100px;
+        font-size:13px;
+    }
+    .contact-item{
+        width: 48%;
+    }
+    .contact-button{
+        max-width: 160px;
+    }
+    .contact-image{
+        min-height: 140px;
+    }
+    .mount {
+        height: 178px !important;
+        object-fit: cover;
+    }
+    .back-to-top{
+        width: 30px;
+        height: 30px;
+    }
+    .z{
+        z-index: 1000;
+    }
+    .collapse-div{
+        width: 180px;
+    }
+    .collapse-div ul{
+        width: 150px;
+    }
+    /* .Q{
+        text-align: center;
+    } */
+    .wish-modal{
+        max-height: 300px;
+    }
+    .user-form form{
+        max-width: 250px;
+        max-height: 400px;
+    }
+    .user-form form input{
+        max-width: 150px;
+    }
+    .rccs__card--unknown > div{
+        margin-top: 20px !important;
+    }
+    .rccs__card {
+        max-width: 250px;
+    }
+    .swal2-title{
+        font-size: 18px !important;
+    }
+    .swal2-html-container{
+        font-size:15px !important;
+    }
+    .rccs{
+        max-width: 250px;
+    }
+    
+    .wish-image img{
+        width: 80px;
+        height: 80px;
+    }
+    .wish-about span{
+        font-size: 14px;
+    }
+    .wish-remove{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .blog-main-cart1{
         width: 100%;
-        padding-bottom: 20px;
     }
-    .header-left{
-        padding-right: 10px;
+    .blog-main-cart2{
+        width: 100%;
     }
-   .nav-items>nav>ul{
-    display: none !important;
-   }
-   aside,.nav-i{
-    display: block !important;
-   }
-   header{
-    height: 55px;
-   }
-   .abouts>div{
-    width: 48%;
-   }
-   .clothes-image{
-    display: none !important;
-    /* height: 350px;
-    max-width: 100%; */
-   }
-   .font_1{
-    padding-top: 50px;
-   }
-   .card img{
-    width: 40% !important;
-   }
-   .card h3{
-    padding-top: 0 !important;
-   }
-   .card-head{
-    padding-bottom: 15px;
-   }
-   .card-head1{
-    padding-bottom: 15px;
-   }
-   .detail-left img{
-    width: 400px;
-   }
-   .description{
-    max-width: 400px;
-   }
-   .detail-left{
-    background-color: #fff;
-   }
-   .detail-left{
-    max-height: 400px;
-   }
-   .description p{
-    font-size: 15px;
-   }
- 
-   .basket-modal{
-    width: 280px;
-    top: 55px;
-   }
-   .total-button{
-    display: block;
-}
-.total-button button{
-    display: block;
-    margin-bottom: 30px !important;
-    width: 170px !important;
-}
-.total-button a{
-    display: block;
-    max-width: 170px !important;
-}
-.basket-modal i{
-    font-size: 15px;
-}
-.basket-price h2{
-    font-size: 15px;
-}
-.basket-price h3{
-    font-size: 14px;
-}
-.contact-body{
-    max-width: 100% !important;
-    flex-wrap: wrap;
-}
-.contact-text{
-    height: 100px;
-    font-size:13px;
-}
-.contact-item{
-    width: 48%;
-}
-.contact-button{
-    max-width: 160px;
-}
-.contact-image{
-    min-height: 140px;
-}
-.mount {
-    height: 178px !important;
-    object-fit: cover;
-}
-.back-to-top{
-    width: 30px;
-    height: 30px;
-}
-.z{
-    z-index: 1000;
-}
-.collapse-div{
-    width: 180px;
-}
-.collapse-div ul{
-    width: 180px;
-}
-.wish-modal{
-    max-height: 300px;
-}
-.user-form form{
-    max-width: 250px;
-    max-height: 400px;
-}
-.user-form form input{
-    max-width: 150px;
-}
-.rccs__card--unknown > div{
-    margin-top: 20px !important;
-}
-.rccs__card {
-    max-width: 250px;
-}
-.swal2-title{
-    font-size: 18px !important;
-}
-.swal2-html-container{
-    font-size:15px !important;
-}
-.rccs{
-    max-width: 250px;
-}
-
-.wish-image img{
-    width: 80px;
-    height: 80px;
-}
-.wish-about span{
-    font-size: 14px;
-}
-.wish-remove{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
+    .blog-main-cart{
+        width: 100%;
+    }
 }
 @media screen  and (max-width:425px){
+    .main-image-top-head h1{
+        font-size:24px;
+        text-align: center;
+    }
+    .main-image-top-head p{
+        font-size:12px;
+        text-align: center;
+    }
+    .main-body-category-head h1{
+        font-size:25px;
+    }
+    .main-body-category-buttons{
+        z-index: 1;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .main-image-slides {
+        transform: translateY(7%);
+    }
+    .main-image-span span{
+        font-size:20px;
+    }
+    .main-image{
+        height: 1100px;
+        max-height: 1000px;
+    }
     .slick-slide img{
         width: 50% !important;
     }
@@ -449,13 +975,146 @@ font-size: 16px;
     .velo-image{
         max-height: 40vh;
     }
+    .timer-hour{
+        padding: 3px;
+    }
+    .timer-bottom p{
+        text-align: center;
+    }
+    .timer-bottom-add{
+        width: 250px;
+    }
+    .timer-bottom-add1{
+        width: 250px;
+    }
+    .buttons6 button{
+        margin: 10px auto;
+        padding-bottom: 10px;
+    }
+    .wrapper .card5 {
+        height: 600px !important;
+    }
+    .spare-card{
+        width: 100%;
+    }
     .mount{
         height: 128px !important;
+    }
+    .review-left p{
+        font-size:13px;
+        text-align: center;
+    }
+    .category-flex-left{
+        width: 100% !important;
     }
     .velo-text{
         top: 20%;
     }
-    
+    .bike-orginals{
+        width: 100%;
+    }
+    .trucks{
+        width: 100%;
+    }
+    .swiper-bike img{
+        max-width: 100%;
+        width: 1000px;
+        height: 300px;
+        object-fit: cover;
+    }
+    .trucks{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+    .footer-flex>div{
+        width: 100%;
+        text-align: center;
+    }
+    .footer-icon{
+        display: flex;
+        justify-content:center;
+        align-items: center;
+    }
+    .blog{
+        width: 100%;
+        margin: 0 auto;
+        margin-bottom: 20px;
+      }
+    .bike-video-text{
+        font-size: 15px;
+        bottom: 60%;
+    }
+    .video-btn{
+        width: 150px !important;
+    }
+    .bike-list-product{
+        width: 100%;
+    }
+    .bike-list-product img{
+        width: 100%;
+    }
+    .bike-list-product-details-operations{
+        display: none;
+    }
+    .bike-list-product-addtocart{
+        display: none !important;
+    }
+    .slide-title{
+        font-size: 17px;
+    }
+    .swiper-bike-text4{
+        top: 20% !important;
+    }
+    .contact-ask-image{
+        min-height: 200px;
+    }
+    .swiper-bike-button {
+        width: 160px;
+        height: 20px;
+    }
+    .back-to-top{
+       display: none;
+
+    }
+    .mark>li{
+        font-size:15px !important;
+    }
+    .table-l-flex{
+        display: block;
+        padding: 20px !important;
+    }
+    .table-l-star{
+        padding-bottom: 20px;
+    }
+    .detail-left img{
+        width: 80%;
+    }
+    .table-r{
+        display: flex;
+        justify-content:center;
+        align-items: center;
+    }
+    .detail-right-table{
+        display: block;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .card5{
+        height: 550px !important;
+    }
+    .wrapper .card5{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .header-search{
+        display: none !important;
+    }
+    .slide-subtitle{
+        font-size: 12px !important;
+    }
     .velo-button a{
         font-size: 12px;
         padding: 5px 20px;
@@ -470,16 +1129,49 @@ font-size: 16px;
     .velo-text1 span{
         font-size:12px;
     }
+    .bike-orginal-flex{
+        max-width: 300px;
+    }
     .nav-logo h1 a{
         font-size: 25px;
+    }
+    .bike-list-image img{
+        width: 240px !important;
+    }
+    .bike-list-h4{
+        max-width: 260px !important;
     }
     .slick-dots{
         display: none;
 
     }
+    .blog-cart{
+        width: 100%;
+    }
+    .bike-orginal-text{
+        display: block;
+    }
+    
+       .bike-orginals{
+        text-align: center;
+       }
     /* .card img{
         width: 100% !important;
     } */
+    .category-flex-filter{
+        margin: 0 auto !important;
+        display: block;
+    }
+    .thems{
+        width: 100%;
+    }
+    .thems-text h2{
+        font-size:25px;
+        padding-bottom: 0px;
+    }
+    .thems-text a{
+        height: 20px;
+    }
     .abouts>div{
         width: 96%;
     }
@@ -628,13 +1320,13 @@ font-size: 16px;
           .card span{
             display: block;
           }
-          .detail-left{
+          /* .detail-left{
             max-height: 250px;
           }
           .detail-left img{
             width: 120px !important;
             height: 120px;
-          }
+          } */
           .description{
             max-width: 270px !important;
           }
@@ -727,8 +1419,15 @@ font-size: 16px;
         padding-left: 10px;
 
     }
+    .sd{
+        text-align: center;
+    }
+    .clothes-slider p{
+        width: auto;
+    }
     .basket-bag-items-detail i{
         color: #005a54;
+        padding: 20px 0;
     }
     .wish-image img{
         width: 80px;
@@ -746,6 +1445,10 @@ font-size: 16px;
     }
     .wish-remove i{
         float: left;
+    }
+    .wish-remove{
+        
+        display: block;
     }
     .wish-price p{
         float: left;

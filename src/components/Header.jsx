@@ -1,8 +1,7 @@
-import { NavLink } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 import { useState, useEffect } from "react";
 import { connect } from "react-redux";
 import BasketModal from "./BasketModal";
-import SearchModal from "./SearchModal";
 import MobileSideBar from "./MobileSideBar";
 function Header({ basket, wish, dispatch,  }) {
   const [categories, setCategories] = useState([]);
@@ -13,30 +12,54 @@ function Header({ basket, wish, dispatch,  }) {
         setCategories(a);
       });
   }, []);
-  // useEffect(()=>{
-  //   let t=document.querySelector("basket-button");
-  //   document.addEventListener("click",(e)=>{
-  //     if (e.composedPath().includes(t)) {
-  //       setModalShow(false)
-  //     }
-  //   })
-  // })
-  const [mobileMenu,setMobileMenu]=useState(false);
   return (
     <>
-      <header>
-        <MobileSideBar mobileMenu={mobileMenu}/>
+    <div className="head-top">
+        <div className="container">
+          <div className="head-flex">
+              <div className="head-top-left">
+                <nav>
+                  <ul>
+                    <li><Link to={'shipping'}>Çatdırılma</Link></li>
+                    <li><Link to={'condition'}>Geriqaytarma</Link></li>
+                    <li><Link to={'contact'}>Əlaqə</Link></li>
+                    <li><Link to={'Blog'}>Blog</Link></li>
+                  </ul>
+                </nav>
+              </div>
+              <div className="head-top-right">
+                <nav>
+                  <ul>
+                    <li><span>Bizi izlə:</span></li>
+                  <li><i className="fa-brands fa-facebook"></i></li>
+                    <li><i className="fa-brands fa-twitter"></i></li>
+                    <li><i className="fa-brands fa-instagram"></i></li>
+                    <li><i className="fa-brands fa-youtube"></i></li>
+                    <li><i className="fa-brands fa-pinterest"></i></li>
+                  </ul>
+                </nav>
+              </div>
+          </div>
+        </div>
+    </div>
+    <header>
+        <MobileSideBar/>
         <BasketModal />
         <div className="container">
           <div className="Navbar">
-            {/* <button id="menu-toggle" onClick={()=>setMobileMenu(!mobileMenu)}>-</button> */}
             <div className="nav-i">
-            <label htmlFor="checkbox" className="hamburger">
+            <i onClick={()=>{
+              dispatch({
+                type:"SET_MOBILEMENU",
+                payload:true,
+              })
+            }}  className="fa-solid fa-bars"></i>
+            {/* <label htmlFor="checkbox" className="hamburger">
               <input onClick={()=>setMobileMenu(!mobileMenu)}  type="checkbox" id="checkbox" />
               <span className="line line-top"></span>
               <span className="line line-middle"></span>
               <span className="line line-bottom"></span>
-            </label>
+            </label> */}
             </div>
             <div className="nav-logo">
               <h1>
@@ -102,31 +125,6 @@ function Header({ basket, wish, dispatch,  }) {
            
           </div>
         </div>
-        {/* onClick={()=>{
-                        dispatch({
-                            type:"SET_BASKETMODAL",
-                            payload:true
-                        })
-                    }}  */}
-        {/* <div className="header-bottom">
-            <nav>
-                <ul>
-                    {categories.map(category=>
-                    <li key={category.id} className="has-dropdown btn">
-                        <NavLink to={`/category/${category.id}`}>{category.name}</NavLink>
-                        {category.subcategories && (
-                            <ul className="dropdown" >
-                                {category.subcategories.map(t=>
-                                <li key={t.id}>
-                                  <NavLink to={`/category/${category.id}/${t.id}`}>{t.name}</NavLink>
-                                    </li>)}
-                            </ul>
-                        )}
-                            </li>
-                            )}
-                </ul>
-            </nav>
-        </div> */}
       </header>
     </>
   );

@@ -1,20 +1,39 @@
 import { useParams, useLocation } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 import { useState, useEffect, useRef } from "react";
 import Product from "../components/Product";
 import ReactPaginate from "react-paginate";
-function Category() {
+function Category({selected, setSelected}) {
+  const [categories, setCategories] = useState([]);
+  useEffect(() => {
+    fetch("http://localhost:1313/categories")
+      .then((a) => a.json())
+      .then((a) => {
+        setCategories(a);
+      });
+  }, []);
   const list = useRef();
+  const list1 = useRef();
+  const list2 = useRef();
+  const list3 = useRef();
+  const list4 = useRef();
+  const list5 = useRef();
   let { cat_id } = useParams();
   let loc = useLocation();
   const [mobileFilter,setMobileFilter]=useState(false)
+  const [isActive,setIsActive]=useState(false)
   const [products, setProducts] = useState([]);
   const [category, setCategory] = useState({});
   const [brands, setBrands] = useState([]);
   const [collapse, setCollapse] = useState(false);
+  const [collapseprice, setCollapsePrice] = useState(false);
   const [collapse1, setCollapse1] = useState(false);
+  const choseone="react";
+  const options=['react','vue','angular']
   const [filter, setFilter] = useState({
     size: "",
     brand: "",
+    style:"",
   });
   const [counts, setcounts] = useState({
     All: 0,
@@ -27,7 +46,7 @@ function Category() {
   });
   const[priceFilter,setPriceFilter]=useState({
     min:0,
-    max:6200,
+    max:5000,
   });
 
   useEffect(() => {
@@ -71,6 +90,7 @@ function Category() {
       .then((a) => a.json())
       .then((a) => setBrands(a));
   }, [loc.pathname]);
+
   const itemsPerPage = 9;
   const [currentItems, setCurrentItems] = useState([]);
   const [pageCount, setPageCount] = useState(0);
@@ -128,8 +148,13 @@ function Category() {
 
     setPageCount(Math.ceil(f.length / itemsPerPage));
   }, [filter,priceFilter]);
+  const [asidefilter1,setAsidefilter1]=useState(false);
+  const [asidefilter2,setAsidefilter2]=useState(false);
+  const [asidefilter3,setAsidefilter3]=useState(false);
+  const [asidefilter4,setAsidefilter4]=useState(false);
+  const [asidefilter5,setAsidefilter5]=useState(false);
   return (
-      <div className="category-main">
+      <section className="category-main">
             <div onClick={()=>{
           window.scrollTo({top:0,behavior:'smooth'});
         }} className="back-to-top">&uarr;</div>
@@ -143,23 +168,18 @@ function Category() {
           {category.imagename && <span>{category.imagename}</span>}
         </div>
       </div>
-      <div className="container">
-      <div className="sidebar ">
-          <div className="collapse-div z">
-            {/* <button onClick={()=>setCollapse(!collapse)}>Size<i  class="fa-solid fa-angle-right"></i></button> */}
-            <h2>
-            Ölçü
-              <i
-                onClick={() => setCollapse1(!collapse1)}
-                className="fa-solid fa-angle-right"
-              ></i>
-            </h2>
-            <ul
-              ref={list}
-              style={{ height: collapse1 ? list.current.scrollHeight :0 }}
-              className="category-ul"
-            >
-              <li>
+      <div className="cats-body">
+        <div className="container">
+      <div className="category-body">
+          <div className="category-flex-left">
+     
+              <div className="category-box-price">
+                <h3>Qiymət</h3>
+                <input type="range" min="0" max="5000" onChange={(e)=>setPriceFilter({...priceFilter,min:e.target.value})} />
+          <h1 className="price-count">{priceFilter.min}</h1>
+                
+              </div>
+              <div className="category-box-size">
               <div className="checkbox-container">
                 <input type="checkbox" id="All" />
                 <label
@@ -167,11 +187,9 @@ function Category() {
                   htmlFor="All"
                   onClick={() => setFilter({ ...filter, size: "" })}
                 >
-                  All<span className="count">({counts["All"]})</span>
+                  All
                 </label>
               </div>
-              </li>
-              <li>
               <div className="checkbox-container">
                 <input type="checkbox" id="XS" />
                 <label
@@ -182,8 +200,6 @@ function Category() {
                   XS<span className="count">({counts["XS"]})</span>
                 </label>
               </div>
-              </li>
-              <li>
               <div className="checkbox-container">
                 <input type="checkbox" id="S" />
                 <label
@@ -194,8 +210,6 @@ function Category() {
                   S<span className="count">({counts["S"]})</span>
                 </label>
               </div>
-              </li>
-              <li>
               <div className="checkbox-container">
                 <input type="checkbox" id="M" />
                 <label
@@ -206,8 +220,6 @@ function Category() {
                   M<span className="count">({counts["M"]})</span>
                 </label>
               </div>
-              </li>
-              <li>
               <div className="checkbox-container">
                 <input type="checkbox" id="L" />
                 <label
@@ -218,8 +230,6 @@ function Category() {
                   L<span className="count">({counts["L"]})</span>
                 </label>
               </div>
-              </li>
-              <li>
               <div className="checkbox-container">
                 <input type="checkbox" id="XL" />
                 <label
@@ -230,8 +240,6 @@ function Category() {
                   XL<span className="count">({counts["XL"]})</span>
                 </label>
               </div>
-              </li>
-              <li>
               <div className="checkbox-container">
                 <input type="checkbox" id="Onesize" />
                 <label
@@ -242,76 +250,46 @@ function Category() {
                   Onesize<span className="count">({counts["Onesize"]})</span>
                 </label>
               </div>
+              </div>
+              <div className="category-box-brand">
+              <ul>
+              <li>
+              <div className="checkbox-container">
+                <input type="checkbox" id="All" />
+                <label
+                  className={!filter.brand ? "selected" : ""}
+                  onClick={() => setFilter({ ...filter, brand: "" })}
+                >
+                  All 
+                </label>
+              </div>
               </li>
-            </ul>
-          </div>
-          {/* <button className="mobile-filter">Filters</button> */}
-          <div  className="collapse-div ">
-            <h2>
-              Marka
-              <i
-                onClick={() => setCollapse(!collapse)}
-                className="fa-solid fa-angle-right"
-              ></i>
-            </h2>
-
-            <ul
-              ref={list}
-              style={{ height: collapse ? list.current.scrollHeight : 0 }}
-              className="category-ul"
-            >
-              <input
-                className="collapse-input"
-                type="text"
-                placeholder="ad"
-                value={filter.brand}
-                onChange={(e) =>
-                  setFilter({ ...filter, brand: e.target.value })
-                }
-              />
-              <li onClick={() => setFilter({ ...filter, brand: "" })}>All</li>
-              {brands
-                .filter((a) => {
-                  let len = products.filter((t) => t.brand === a.name).length;
-                  return len > 0;
-                })
-                .map((a) => (
-                  <li
-                    onClick={() => {
-                      setFilter({ ...filter, brand: a.name });
-                    }}
-                    key={a.id}
+                {brands.filter(a=>{
+                  let len=products.filter((t)=> t.brand === a.name).length;
+                  return len>0;
+                }).map((a)=>(
+                  // <li key={a.id}>
+                  //   {a.name} {products.filter((t)=>t.brand === a.name).length}
+                  // </li>
+                  <li onClick={()=>setFilter({...filter, brand: a.name})} key={a.id} >
+                  <div   className="checkbox-container">
+                  <input type="checkbox" id="All" />
+                  <label className={filter.brand === a.name ? "selected" : ""}
                   >
-                    {a.name} {products.filter((t) => t.brand === a.name).length}
-                  </li>
+                    {a.name} <span className="count">({products.filter((t)=>t.brand === a.name).length})</span>
+                  </label>
+                </div>
+                </li>
                 ))}
-              {/* <li>All</li>
-        <li>Cannondale 17</li>
-        <li>Trek 26</li>
-        <li>Haibike 6</li>
-        <li>Pinnacle 17</li>
-        <li>Specialized 30</li>
-        <li>Muddyfox 12</li>
-        <li>GT 4</li>
-        <li>Ceres 1</li>
-        <li>Mongoose 5</li>
-        <li>HOY 8</li>
-        <li>Cosmic 2</li> */}
-            </ul>
+              </ul>
+              </div>
           </div>
-          {/* <button onClick={()=>setMobileFilter(!mobileFilter)} className="mobile-filter">Filters</button> */}
-          {/* <input type="range" min="0" max="13000" onChange={(e)=>setPriceFilter({...priceFilter,min:e.target.value})} />
-          <h1>{priceFilter.min}</h1> */}
-        </div>
-        </div>
-      <div className="category-body">
-        {/* <div> */}
+        <div className="category-flex-right">
         <div className=" products ">
           {currentItems.map((a) => (
             <Product item={a} key={a.id} />
           ))}
         </div>
-        {/* </div> */}
         <div className="paginations">
           <ReactPaginate
             breakLabel="..."
@@ -326,8 +304,11 @@ function Category() {
             renderOnZeroPageCount={null}
           />
         </div>
+        </div>
       </div>
-    </div>
+      </div>
+      </div>
+    </section>
   );
 }
 

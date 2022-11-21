@@ -2,6 +2,7 @@ import "./App.css";
 import "./Responsive.css";
 import { Routes, Route, useLocation } from "react-router-dom";
 import Header from "./components/Header";
+import { useState } from "react";
 import Homepage from "./pages/Homepage";
 import Category from "./pages/Category";
 import Subcategory from "./pages/Subcategory";
@@ -20,7 +21,13 @@ import { useEffect } from "react";
 import Wish from "./pages/Wish";
 import WishModal from "./components/WishModal";
 import Form from "./pages/Form";
-function App({ modalIsOpen,wishModal,dispatch}) {
+import Blog from "./pages/Blog";
+import MobileSideBar from "./components/MobileSideBar";
+import Tour1 from "./pages/Tour1";
+import Tour2 from "./pages/Tour2";
+import Tour3 from "./pages/Tour3";
+import Tour4 from "./pages/Tour4";
+function App({ modalIsOpen,wishModal,dispatch,mobileMenu}) {
   const { pathname } = useLocation();
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -32,10 +39,19 @@ function App({ modalIsOpen,wishModal,dispatch}) {
           payload:false,
       })
   },[loc.pathname])
+  const loc1= useLocation();
+  useEffect(()=>{
+      dispatch({
+          type:"SET_MOBILEMENU",
+          payload:false,
+      })
+  },[loc1.pathname])
+  const[selected, setSelected]=useState("");
   return (
     <>
       <Header />
       {modalIsOpen && <SearchModal />}
+      {mobileMenu && <MobileSideBar />}
       {wishModal && <WishModal />}
       <AnimatePresence>
         <Routes>
@@ -54,7 +70,8 @@ function App({ modalIsOpen,wishModal,dispatch}) {
                 <About />
               </AnimatedRoute>
             }
-          /> <Route
+          /> 
+          <Route
           path="/form"
           element={
             <AnimatedRoute name="Form">
@@ -90,7 +107,7 @@ function App({ modalIsOpen,wishModal,dispatch}) {
             path="/category/:cat_id"
             element={
               <AnimatedRoute name="Category">
-                <Category />
+                <Category selected={selected} setSelected={setSelected} />
               </AnimatedRoute>
             }
           />
@@ -123,6 +140,46 @@ function App({ modalIsOpen,wishModal,dispatch}) {
             element={
               <AnimatedRoute name="wish">
                 <Wish  />
+              </AnimatedRoute>
+            }
+          />
+               <Route
+            path="/Blog"
+            element={
+              <AnimatedRoute name="Blog">
+                <Blog  />
+              </AnimatedRoute>
+            }
+          />
+             <Route
+            path="/Tour1"
+            element={
+              <AnimatedRoute name="Tour1">
+                <Tour1  />
+              </AnimatedRoute>
+            }
+          />
+               <Route
+            path="/Tour2"
+            element={
+              <AnimatedRoute name="Tour2">
+                <Tour2  />
+              </AnimatedRoute>
+            }
+          />
+              <Route
+            path="/Tour3"
+            element={
+              <AnimatedRoute name="Tour3">
+                <Tour3  />
+              </AnimatedRoute>
+            }
+          />
+              <Route
+            path="/Tour4"
+            element={
+              <AnimatedRoute name="Tour4">
+                <Tour4  />
               </AnimatedRoute>
             }
           />

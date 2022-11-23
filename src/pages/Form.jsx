@@ -1,7 +1,5 @@
 import { useEffect } from "react";
 import {useState} from "react";
-import Cards from 'react-credit-cards';
-import 'react-credit-cards/es/styles-compiled.css';
 import Swal from 'sweetalert2'
 function Form() {
     const [number,setNumber]=useState('');
@@ -12,11 +10,6 @@ function Form() {
   
   return (
     <>
-    <Cards number={number}
-    name={name}
-    expiry={expiry}
-    cvc={cvc}
-    focused={focus}/>
     <section className="user-forms">
         <div className="user-form">
             <form>

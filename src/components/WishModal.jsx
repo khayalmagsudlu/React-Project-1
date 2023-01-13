@@ -3,13 +3,7 @@ import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 function WishModal({dispatch,wish,wishModal}) {
     let nav = useNavigate()
-    // const { pathname } = useLocation();
-    // useEffect(() => {
-    //   dispatch({
-    //     type: "SET_WISHMODAL",
-    //     payload: false,
-    //   });
-    // }, [pathname]);
+
     const [products, setProducts] = useState([]);
     useEffect(() => {
       fetch("http://localhost:1313/products")

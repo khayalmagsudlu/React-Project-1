@@ -476,7 +476,7 @@ function Homepage({ basket, wish, dispatch }) {
 
   ];
 
-  const endTime= new Date('november 25, 2022 20:00:00').getTime();
+  const endTime= new Date('december 25, 2022 20:00:00').getTime();
   const [currentTime,setCurrentTime]=useState(new Date().getTime());
   const gap=endTime-currentTime;
   

@@ -86,7 +86,7 @@ function Category({selected, setSelected}) {
           }).length,
         });
       });
-    fetch("http://localhost:1313/brands")
+      fetch("http://localhost:1313/brands")
       .then((a) => a.json())
       .then((a) => setBrands(a));
   }, [loc.pathname]);
@@ -155,9 +155,6 @@ function Category({selected, setSelected}) {
   const [asidefilter5,setAsidefilter5]=useState(false);
   return (
       <section className="category-main">
-            <div onClick={()=>{
-          window.scrollTo({top:0,behavior:'smooth'});
-        }} className="back-to-top">&uarr;</div>
       <div className="subcategory-image-main">
         <div className="subcategory-image">
           {/* <img src={subcategory.image && subcategory.image} alt="" /> */}
@@ -284,12 +281,21 @@ function Category({selected, setSelected}) {
               </ul>
               </div>
           </div>
+
         <div className="category-flex-right">
-        <div className=" products ">
-          {currentItems.map((a) => (
-            <Product item={a} key={a.id} />
-          ))}
-        </div>
+          {currentItems.length >0 ? (
+ <div className=" products ">
+ {currentItems.map((a) => (
+   <Product item={a} key={a.id} />
+ ))}
+</div>
+          ):(
+            <div  style={{display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",marginBottom:"10px"}} className="ss">
+            <img style={{width:"300px",height:"300px",objectFit:"cover",}} src="https://cdn.dribbble.com/users/1181180/screenshots/7025252/media/aa9558875314510c281a4483bc99da22.gif" alt="" />
+            <h5 className="text-center">No Products Found</h5>
+            </div>
+          )}
+       
         <div className="paginations">
           <ReactPaginate
             breakLabel="..."

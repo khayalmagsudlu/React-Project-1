@@ -27,6 +27,7 @@ import Tour1 from "./pages/Tour1";
 import Tour2 from "./pages/Tour2";
 import Tour3 from "./pages/Tour3";
 import Tour4 from "./pages/Tour4";
+import ScrollTop from "./components/ScrollTop";
 function App({ modalIsOpen,wishModal,dispatch,mobileMenu}) {
   const { pathname } = useLocation();
   useEffect(() => {
@@ -46,6 +47,12 @@ function App({ modalIsOpen,wishModal,dispatch,mobileMenu}) {
           payload:false,
       })
   },[loc1.pathname])
+    useEffect(()=>{
+    dispatch({
+        type:"SET_SEARCHMODAL",
+        payload:false,
+    })
+},[loc1.pathname])
   const[selected, setSelected]=useState("");
   return (
     <>
@@ -53,6 +60,7 @@ function App({ modalIsOpen,wishModal,dispatch,mobileMenu}) {
       {modalIsOpen && <SearchModal />}
       {mobileMenu && <MobileSideBar />}
       {wishModal && <WishModal />}
+      <ScrollTop/>
       <AnimatePresence>
         <Routes>
           <Route

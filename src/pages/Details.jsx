@@ -1,6 +1,5 @@
 import { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
-import { Link } from "react-router-dom"
 import { connect } from "react-redux";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
@@ -8,7 +7,7 @@ import "swiper/css/effect-fade";
 import "swiper/css/free-mode";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
-import { EffectFade, Navigation, Pagination, FreeMode } from "swiper";
+import {Pagination, FreeMode } from "swiper";
 function Details({ basket, wish,dispatch }) {
   const { id } = useParams();
   const [loading, setLoading] = useState(true);
